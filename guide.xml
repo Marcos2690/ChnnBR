@@ -13383,27 +13383,22 @@
     <desc lang="pt">Os melhores times da Italia se enfrentam em mata mata para ver o grande campeão.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001526869_epg.jpg" />
   </programme>
-  <programme start="20260907132700 -0300" stop="20260907135900 -0300" channel="SportyNet HD">
+  <programme start="20260907152000 -0300" stop="20260907154000 -0300" channel="SportyNet HD">
     <title lang="pt">Pré-Jogo - Ao Vivo</title>
     <desc lang="pt">Sinopse não disponível.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001477452_epg.jpg" />
   </programme>
-  <programme start="20260907135900 -0300" stop="20260907155700 -0300" channel="SportyNet HD">
+  <programme start="20260907154000 -0300" stop="20260907180000 -0300" channel="SportyNet HD">
     <title lang="pt">Udinese x Lazio - Ao Vivo</title>
     <desc lang="pt">Udinese e Lazio jogam pela 3ª rodada do Primeiro Turno do Campeonato Italiano, no Bluenergy Stadium, em Udine, Itália.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001533059_epg.jpg" />
   </programme>
-  <programme start="20260907155700 -0300" stop="20260907161200 -0300" channel="SportyNet HD">
-    <title lang="pt">Pré-Jogo - Ao Vivo</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001477452_epg.jpg" />
-  </programme>
-  <programme start="20260907161200 -0300" stop="20260907180800 -0300" channel="SportyNet HD">
+  <programme start="20260907180000 -0300" stop="20260907200800 -0300" channel="SportyNet HD">
     <title lang="pt">Paysandu x Brusque - Ao Vivo</title>
     <desc lang="pt">Paysandu e Brusque jogam pela 1ª rodada da 2ª fase do Campeonato Brasileiro, Série C, no Mangueirão, em Belém (PA).</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001533053_epg.jpg" />
   </programme>
-  <programme start="20260907180800 -0300" stop="20260907191100 -0300" channel="SportyNet HD">
+  <programme start="20260907200800 -0300" stop="20260907191100 -0300" channel="SportyNet HD">
     <title lang="pt">Minuto 91 - Ao Vivo</title>
     <desc lang="pt">Pós-jogo sem filtros: reação ao vivo, polêmicas e debate sincero. Aqui ninguém fica em cima do muro!</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001465650_epg.jpg" />
