@@ -25,6 +25,11 @@
     <icon src="https://www.clarotvmais.com.br/img/channels/espn_5.png" />
     <url>http://www.clarotvmais.com.br</url>
   </channel>
+  <channel id="GE TV HD">
+    <display-name lang="pt">GE TV HD</display-name>
+    <icon src="https://www.clarotvmais.com.br/img/channels/band.png" />
+    <url>http://www.clarotvmais.com.br</url>
+  </channel>
   <channel id="PREMIERE CLUBES HD">
     <display-name lang="pt">PREMIERE CLUBES HD</display-name>
     <icon src="https://www.clarotvmais.com.br/img/channels/premiere_clubes.png" />
@@ -3683,6 +3688,504 @@
     <rating system="BR">
       <value>1</value>
     </rating>
+  </programme>
+  <programme start="20260907230000 -0300" stop="20260908010000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 25ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S83 E250</episode-num>
+  </programme>
+  <programme start="20260908010000 -0300" stop="20260908030000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Corinthians x Internacional</title>
+    <desc lang="pt">Assista mais um jogão do Brasileirão Feminino! Tem muita torcida e bola na rede. Venha torcer aqui.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001523358_epg.jpg" />
+  </programme>
+  <programme start="20260908030000 -0300" stop="20260908050000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - São Bernardo-SP x América-MG</title>
+    <desc lang="pt">É futebol que não acaba, venha conferir mais um jogão do Brasileirão Masculino Série B!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001494669_epg.jpg" />
+  </programme>
+  <programme start="20260908050000 -0300" stop="20260908060000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 25ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S85 E251</episode-num>
+  </programme>
+  <programme start="20260908060000 -0300" stop="20260908070000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 25ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S86 E251</episode-num>
+  </programme>
+  <programme start="20260908070000 -0300" stop="20260908074500 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 25ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S87 E251</episode-num>
+  </programme>
+  <programme start="20260908074500 -0300" stop="20260908093000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Praia Clube x Campinas</title>
+    <desc lang="pt">O sportv é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa, tá no sportv!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001445902_epg.jpg" />
+  </programme>
+  <programme start="20260908093000 -0300" stop="20260908113000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Cruzeiro x Campinas</title>
+    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001451540_epg.jpg" />
+  </programme>
+  <programme start="20260908113000 -0300" stop="20260908123000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 25ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S81 E251</episode-num>
+  </programme>
+  <programme start="20260908123000 -0300" stop="20260908143000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Cruzeiro x Flamengo</title>
+    <desc lang="pt">Cruzeiro e Flamengo jogam a rodada de ida da Oitavas de Final da Libertadores, no Mineirão, em Belo Horizonte (MG).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001494668_epg.jpg" />
+  </programme>
+  <programme start="20260908143000 -0300" stop="20260908163000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Flamengo x Cruzeiro</title>
+    <desc lang="pt">Flamengo e Cruzeiro jogam a rodada de volta da Oitavas de Final da Libertadores, no Maracanã, no Rio de Janeiro (RJ).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001502617_epg.jpg" />
+  </programme>
+  <programme start="20260908163000 -0300" stop="20260908180000 -0300" channel="GE TV HD">
+    <title lang="pt">Denilson É Show! - Ao Vivo</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000119283_epg.jpg" />
+    <episode-num system="onscreen">S86 E251</episode-num>
+  </programme>
+  <programme start="20260908180000 -0300" stop="20260908200000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Fluminense x Independiente Rivadavia</title>
+    <desc lang="pt">A verdadeira obsessão dos clubes da América do Sul! Os melhores times e as estrelas do continente se enfrentam para conquistar o troféu e a glória eterna.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001487265_epg.jpg" />
+  </programme>
+  <programme start="20260908200000 -0300" stop="20260908220000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Independiente Rivadavia x Fluminense</title>
+    <desc lang="pt">A verdadeira obsessão dos clubes da América do Sul! Os melhores times e as estrelas do continente se enfrentam para conquistar o troféu e a glória eterna.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001487267_epg.jpg" />
+  </programme>
+  <programme start="20260908220000 -0300" stop="20260909010000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Remo x Flamengo</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001530169_epg.jpg" />
+  </programme>
+  <programme start="20260909010000 -0300" stop="20260909030000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Corinthians x Internacional</title>
+    <desc lang="pt">Assista mais um jogão do Brasileirão Feminino! Tem muita torcida e bola na rede. Venha torcer aqui.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001523358_epg.jpg" />
+  </programme>
+  <programme start="20260909030000 -0300" stop="20260909050000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - São Bernardo-SP x América-MG</title>
+    <desc lang="pt">É futebol que não acaba, venha conferir mais um jogão do Brasileirão Masculino Série B!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001494669_epg.jpg" />
+  </programme>
+  <programme start="20260909050000 -0300" stop="20260909060000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 25ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S85 E252</episode-num>
+  </programme>
+  <programme start="20260909060000 -0300" stop="20260909070000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 25ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S86 E252</episode-num>
+  </programme>
+  <programme start="20260909070000 -0300" stop="20260909074500 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 25ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S87 E252</episode-num>
+  </programme>
+  <programme start="20260909074500 -0300" stop="20260909093000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Praia Clube x Campinas</title>
+    <desc lang="pt">O sportv é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa, tá no sportv!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001445902_epg.jpg" />
+  </programme>
+  <programme start="20260909093000 -0300" stop="20260909113000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Cruzeiro x Campinas</title>
+    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001451540_epg.jpg" />
+  </programme>
+  <programme start="20260909113000 -0300" stop="20260909123000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 25ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S81 E252</episode-num>
+  </programme>
+  <programme start="20260909123000 -0300" stop="20260909143000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Cruzeiro x Flamengo</title>
+    <desc lang="pt">Cruzeiro e Flamengo jogam a rodada de ida da Oitavas de Final da Libertadores, no Mineirão, em Belo Horizonte (MG).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001494668_epg.jpg" />
+  </programme>
+  <programme start="20260909143000 -0300" stop="20260909163000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Flamengo x Cruzeiro</title>
+    <desc lang="pt">Flamengo e Cruzeiro jogam a rodada de volta da Oitavas de Final da Libertadores, no Maracanã, no Rio de Janeiro (RJ).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001502617_epg.jpg" />
+  </programme>
+  <programme start="20260909163000 -0300" stop="20260909180000 -0300" channel="GE TV HD">
+    <title lang="pt">Denilson É Show! - Ao Vivo</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000119283_epg.jpg" />
+    <episode-num system="onscreen">S86 E252</episode-num>
+  </programme>
+  <programme start="20260909180000 -0300" stop="20260909200000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Fluminense x Independiente Rivadavia</title>
+    <desc lang="pt">A verdadeira obsessão dos clubes da América do Sul! Os melhores times e as estrelas do continente se enfrentam para conquistar o troféu e a glória eterna.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001487265_epg.jpg" />
+  </programme>
+  <programme start="20260909200000 -0300" stop="20260909220000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Independiente Rivadavia x Fluminense</title>
+    <desc lang="pt">A verdadeira obsessão dos clubes da América do Sul! Os melhores times e as estrelas do continente se enfrentam para conquistar o troféu e a glória eterna.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001487267_epg.jpg" />
+  </programme>
+  <programme start="20260909220000 -0300" stop="20260910003000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Remo x Flamengo</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001530169_epg.jpg" />
+  </programme>
+  <programme start="20260910003000 -0300" stop="20260910023000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Flamengo x Botafogo</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001523339_epg.jpg" />
+  </programme>
+  <programme start="20260910023000 -0300" stop="20260910043000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Atlético-MG x Grêmio</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001498216_epg.jpg" />
+  </programme>
+  <programme start="20260910043000 -0300" stop="20260910050000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 25ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S84 E253</episode-num>
+  </programme>
+  <programme start="20260910050000 -0300" stop="20260910060000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 25ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S85 E253</episode-num>
+  </programme>
+  <programme start="20260910060000 -0300" stop="20260910070000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 25ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S86 E253</episode-num>
+  </programme>
+  <programme start="20260910070000 -0300" stop="20260910091500 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Campinas x Praia Clube</title>
+    <desc lang="pt">O sportv é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa, tá no sportv!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001446002_epg.jpg" />
+  </programme>
+  <programme start="20260910091500 -0300" stop="20260910110000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Praia Clube x Campinas</title>
+    <desc lang="pt">O sportv é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa, tá no sportv!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001445902_epg.jpg" />
+  </programme>
+  <programme start="20260910110000 -0300" stop="20260910130000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Cruzeiro x Campinas</title>
+    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001451540_epg.jpg" />
+  </programme>
+  <programme start="20260910130000 -0300" stop="20260910160000 -0300" channel="GE TV HD">
+    <title lang="pt">NFL: Cincinnati Bengals x Cleveland Browns</title>
+    <desc lang="pt">Prepare-se para a energia contagiante da NFL. Equipes duelam em jogadas rápidas e estratégicas, onde velocidade, força e precisão se encontram.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001491538_epg.jpg" />
+  </programme>
+  <programme start="20260910160000 -0300" stop="20260910190000 -0300" channel="GE TV HD">
+    <title lang="pt">NFL: Seattle Seahawks x New England Patriots</title>
+    <desc lang="pt">Não é só uma liga. É paixão, intensidade e espetáculo. Toda jogada é uma aula de estratégia, todo lance é emoção. O maior show do esporte agora tem casa no Brasil. É o sportv na NFL. ...</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001451573_epg.jpg" />
+  </programme>
+  <programme start="20260910190000 -0300" stop="20260910220000 -0300" channel="GE TV HD">
+    <title lang="pt">NFL: Las Vegas Raiders x Houston Texans</title>
+    <desc lang="pt">Não é só uma liga. É paixão, intensidade e espetáculo. Toda jogada é uma aula de estratégia, todo lance é emoção. O maior show do esporte agora tem casa no Brasil. É o sportv na NFL. ...</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001502614_epg.jpg" />
+  </programme>
+  <programme start="20260910220000 -0300" stop="20260911010000 -0300" channel="GE TV HD">
+    <title lang="pt">NFL: New England Patriots x Cleveland Browns</title>
+    <desc lang="pt">Não é só uma liga. É paixão, intensidade e espetáculo. Toda jogada é uma aula de estratégia, todo lance é emoção. O maior show do esporte agora tem casa no Brasil. É o sportv na NFL. ...</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001523355_epg.jpg" />
+  </programme>
+  <programme start="20260911010000 -0300" stop="20260911030000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Flamengo x Ferroviária</title>
+    <desc lang="pt">Flamengo e Ferroviária jogam a rodada de ida da Quartas de Final do Campeonato Brasileiro Feminino, no Luso-Brasileiro, no Rio de Janeiro (RJ).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001531094_epg.jpg" />
+  </programme>
+  <programme start="20260911030000 -0300" stop="20260911050000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Corinthians x Internacional</title>
+    <desc lang="pt">Assista mais um jogão do Brasileirão Feminino! Tem muita torcida e bola na rede. Venha torcer aqui.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001523358_epg.jpg" />
+  </programme>
+  <programme start="20260911050000 -0300" stop="20260911060000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 25ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S85 E254</episode-num>
+  </programme>
+  <programme start="20260911060000 -0300" stop="20260911070000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 25ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S86 E254</episode-num>
+  </programme>
+  <programme start="20260911070000 -0300" stop="20260911090000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - São Bernardo-SP x América-MG</title>
+    <desc lang="pt">É futebol que não acaba, venha conferir mais um jogão do Brasileirão Masculino Série B!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001494669_epg.jpg" />
+  </programme>
+  <programme start="20260911090000 -0300" stop="20260911110000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Flamengo x Ferroviária</title>
+    <desc lang="pt">Flamengo e Ferroviária jogam a rodada de ida da Quartas de Final do Campeonato Brasileiro Feminino, no Luso-Brasileiro, no Rio de Janeiro (RJ).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001531094_epg.jpg" />
+  </programme>
+  <programme start="20260911110000 -0300" stop="20260911130000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Vasco x Fluminense</title>
+    <desc lang="pt">Vasco e Fluminense jogam a rodada de ida da Oitavas de Final da Copa do Brasil, no Maracanã, no Rio de Janeiro (RJ).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001486092_epg.jpg" />
+  </programme>
+  <programme start="20260911130000 -0300" stop="20260911150000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Fluminense x Vasco</title>
+    <desc lang="pt">Fluminense e Vasco jogam a rodada de volta da Oitavas de Final da Copa do Brasil, no Maracanã, no Rio de Janeiro (RJ).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001486449_epg.jpg" />
+  </programme>
+  <programme start="20260911150000 -0300" stop="20260911170000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Vasco x Vitória</title>
+    <desc lang="pt">Vasco e Vitória jogam a rodada de ida da Quartas de Final da Copa do Brasil, em São Januário, no Rio de Janeiro (RJ).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001522323_epg.jpg" />
+  </programme>
+  <programme start="20260911170000 -0300" stop="20260911190000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Vitória x Vasco</title>
+    <desc lang="pt">Vitória e Vasco jogam a rodada de volta da Quartas de Final da Copa do Brasil, no Manoel Barradas, em Salvador (BA).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001524330_epg.jpg" />
+  </programme>
+  <programme start="20260911190000 -0300" stop="20260911210000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Palmeiras x Santos</title>
+    <desc lang="pt">Palmeiras e Santos jogam a rodada de ida da Quartas de Final da Copa do Brasil, no Nubank Parque, em São Paulo (SP).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001513653_epg.jpg" />
+  </programme>
+  <programme start="20260911210000 -0300" stop="20260911230000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Santos x Palmeiras</title>
+    <desc lang="pt">Santos e Palmeiras jogam a rodada de volta da Quartas de Final da Copa do Brasil, na Vila Belmiro, em Santos (SP).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001524335_epg.jpg" />
+  </programme>
+  <programme start="20260911230000 -0300" stop="20260912000000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 25ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S83 E254</episode-num>
+  </programme>
+  <programme start="20260912000000 -0300" stop="20260912030000 -0300" channel="GE TV HD">
+    <title lang="pt">NFL: New England Patriots x Cleveland Browns</title>
+    <desc lang="pt">Não é só uma liga. É paixão, intensidade e espetáculo. Toda jogada é uma aula de estratégia, todo lance é emoção. O maior show do esporte agora tem casa no Brasil. É o sportv na NFL. ...</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001523355_epg.jpg" />
+  </programme>
+  <programme start="20260912030000 -0300" stop="20260912060000 -0300" channel="GE TV HD">
+    <title lang="pt">NFL: Las Vegas Raiders x Houston Texans</title>
+    <desc lang="pt">Não é só uma liga. É paixão, intensidade e espetáculo. Toda jogada é uma aula de estratégia, todo lance é emoção. O maior show do esporte agora tem casa no Brasil. É o sportv na NFL. ...</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001502614_epg.jpg" />
+  </programme>
+  <programme start="20260912060000 -0300" stop="20260912070000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 25ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S86 E255</episode-num>
+  </programme>
+  <programme start="20260912070000 -0300" stop="20260912100000 -0300" channel="GE TV HD">
+    <title lang="pt">NFL: New England Patriots x Cleveland Browns</title>
+    <desc lang="pt">Não é só uma liga. É paixão, intensidade e espetáculo. Toda jogada é uma aula de estratégia, todo lance é emoção. O maior show do esporte agora tem casa no Brasil. É o sportv na NFL. ...</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001523355_epg.jpg" />
+  </programme>
+  <programme start="20260912100000 -0300" stop="20260912103000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro da Rodada - Brasileiro Feminino - Quartas de Final</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S80 E255</episode-num>
+  </programme>
+  <programme start="20260912103000 -0300" stop="20260912113000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro da Rodada - Brasileiro Feminino - Quartas de Final</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S80 E255</episode-num>
+  </programme>
+  <programme start="20260912113000 -0300" stop="20260912133000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Flamengo x Corinthians</title>
+    <desc lang="pt">Assista mais um jogão do Brasileirão Feminino! Tem muita torcida e bola na rede. Venha torcer aqui.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001486452_epg.jpg" />
+  </programme>
+  <programme start="20260912133000 -0300" stop="20260912153000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Flamengo x Ferroviária</title>
+    <desc lang="pt">Flamengo e Ferroviária jogam a rodada de ida da Quartas de Final do Campeonato Brasileiro Feminino, no Luso-Brasileiro, no Rio de Janeiro (RJ).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001531094_epg.jpg" />
+  </programme>
+  <programme start="20260912153000 -0300" stop="20260912163000 -0300" channel="GE TV HD">
+    <title lang="pt">Programação do Canal</title>
+    <desc lang="pt">Sinopse não Disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001370834_epg.jpg" />
+  </programme>
+  <programme start="20260912163000 -0300" stop="20260912183000 -0300" channel="GE TV HD">
+    <title lang="pt">Programação do Canal</title>
+    <desc lang="pt">Sinopse não Disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001370834_epg.jpg" />
+  </programme>
+  <programme start="20260912183000 -0300" stop="20260912190000 -0300" channel="GE TV HD">
+    <title lang="pt">Programação do Canal</title>
+    <desc lang="pt">Sinopse não Disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001370834_epg.jpg" />
+  </programme>
+  <programme start="20260912190000 -0300" stop="20260912200000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro da Rodada - Brasileiro Feminino - Quartas de Final</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S89 E255</episode-num>
+  </programme>
+  <programme start="20260912200000 -0300" stop="20260912220000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Corinthians x Internacional</title>
+    <desc lang="pt">Assista mais um jogão do Brasileirão Feminino! Tem muita torcida e bola na rede. Venha torcer aqui.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001523358_epg.jpg" />
+  </programme>
+  <programme start="20260912220000 -0300" stop="20260913000000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Flamengo x Botafogo</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001523339_epg.jpg" />
+  </programme>
+  <programme start="20260913000000 -0300" stop="20260913030500 -0300" channel="GE TV HD">
+    <title lang="pt">NFL: Seattle Seahawks x New England Patriots</title>
+    <desc lang="pt">Não é só uma liga. É paixão, intensidade e espetáculo. Toda jogada é uma aula de estratégia, todo lance é emoção. O maior show do esporte agora tem casa no Brasil. É o sportv na NFL. ...</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001451573_epg.jpg" />
+  </programme>
+  <programme start="20260913030500 -0300" stop="20260913060000 -0300" channel="GE TV HD">
+    <title lang="pt">NFL: Las Vegas Raiders x Houston Texans</title>
+    <desc lang="pt">Não é só uma liga. É paixão, intensidade e espetáculo. Toda jogada é uma aula de estratégia, todo lance é emoção. O maior show do esporte agora tem casa no Brasil. É o sportv na NFL. ...</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001502614_epg.jpg" />
+  </programme>
+  <programme start="20260913060000 -0300" stop="20260913070000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 25ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S86 E256</episode-num>
+  </programme>
+  <programme start="20260913070000 -0300" stop="20260913094500 -0300" channel="GE TV HD">
+    <title lang="pt">NFL: Las Vegas Raiders x Houston Texans</title>
+    <desc lang="pt">Não é só uma liga. É paixão, intensidade e espetáculo. Toda jogada é uma aula de estratégia, todo lance é emoção. O maior show do esporte agora tem casa no Brasil. É o sportv na NFL. ...</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001502614_epg.jpg" />
+  </programme>
+  <programme start="20260913094500 -0300" stop="20260913113000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Flamengo x Cruzeiro</title>
+    <desc lang="pt">Flamengo e Cruzeiro jogam a rodada de volta da Oitavas de Final da Libertadores, no Maracanã, no Rio de Janeiro (RJ).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001502617_epg.jpg" />
+  </programme>
+  <programme start="20260913113000 -0300" stop="20260913123000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 25ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S81 E256</episode-num>
+  </programme>
+  <programme start="20260913123000 -0300" stop="20260913143000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Flamengo x Botafogo</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001523339_epg.jpg" />
+  </programme>
+  <programme start="20260913143000 -0300" stop="20260913160000 -0300" channel="GE TV HD">
+    <title lang="pt">Programação do Canal</title>
+    <desc lang="pt">Sinopse não Disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001370834_epg.jpg" />
+  </programme>
+  <programme start="20260913160000 -0300" stop="20260913180000 -0300" channel="GE TV HD">
+    <title lang="pt">Programação do Canal</title>
+    <desc lang="pt">Sinopse não Disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001370834_epg.jpg" />
+  </programme>
+  <programme start="20260913180000 -0300" stop="20260913190000 -0300" channel="GE TV HD">
+    <title lang="pt">Tropa GE TV - Ao Vivo</title>
+    <desc lang="pt">O Tropa Ge TV faz o esquenta ao vivo para a rodada do Campeonato Brasileiro com análises, quadros, informação e diversão, trazendo uma abordagem leve e bem-humorada para os jogos da competição.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118388_epg.jpg" />
+    <episode-num system="onscreen">S88 E256</episode-num>
+  </programme>
+  <programme start="20260913190000 -0300" stop="20260913210000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Santos x Palmeiras</title>
+    <desc lang="pt">Santos e Palmeiras jogam a rodada de volta da Quartas de Final da Copa do Brasil, na Vila Belmiro, em Santos (SP).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001524335_epg.jpg" />
+  </programme>
+  <programme start="20260913210000 -0300" stop="20260913230000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Vitória x Vasco</title>
+    <desc lang="pt">Vitória e Vasco jogam a rodada de volta da Quartas de Final da Copa do Brasil, no Manoel Barradas, em Salvador (BA).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001524330_epg.jpg" />
+  </programme>
+  <programme start="20260913230000 -0300" stop="20260914010000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 25ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S83 E256</episode-num>
+  </programme>
+  <programme start="20260914010000 -0300" stop="20260914030000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Flamengo x Ferroviária</title>
+    <desc lang="pt">Flamengo e Ferroviária jogam a rodada de ida da Quartas de Final do Campeonato Brasileiro Feminino, no Luso-Brasileiro, no Rio de Janeiro (RJ).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001531094_epg.jpg" />
+  </programme>
+  <programme start="20260914030000 -0300" stop="20260914050000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Corinthians x Internacional</title>
+    <desc lang="pt">Assista mais um jogão do Brasileirão Feminino! Tem muita torcida e bola na rede. Venha torcer aqui.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001523358_epg.jpg" />
+  </programme>
+  <programme start="20260914050000 -0300" stop="20260914060000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 25ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S85 E257</episode-num>
+  </programme>
+  <programme start="20260914060000 -0300" stop="20260914070000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 25ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S86 E257</episode-num>
+  </programme>
+  <programme start="20260914070000 -0300" stop="20260914090000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - São Bernardo-SP x América-MG</title>
+    <desc lang="pt">É futebol que não acaba, venha conferir mais um jogão do Brasileirão Masculino Série B!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001494669_epg.jpg" />
+  </programme>
+  <programme start="20260914090000 -0300" stop="20260914110000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Flamengo x Ferroviária</title>
+    <desc lang="pt">Flamengo e Ferroviária jogam a rodada de ida da Quartas de Final do Campeonato Brasileiro Feminino, no Luso-Brasileiro, no Rio de Janeiro (RJ).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001531094_epg.jpg" />
+  </programme>
+  <programme start="20260914110000 -0300" stop="20260914130000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Vasco x Fluminense</title>
+    <desc lang="pt">Vasco e Fluminense jogam a rodada de ida da Oitavas de Final da Copa do Brasil, no Maracanã, no Rio de Janeiro (RJ).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001486092_epg.jpg" />
+  </programme>
+  <programme start="20260914130000 -0300" stop="20260914150000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Fluminense x Vasco</title>
+    <desc lang="pt">Fluminense e Vasco jogam a rodada de volta da Oitavas de Final da Copa do Brasil, no Maracanã, no Rio de Janeiro (RJ).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001486449_epg.jpg" />
+  </programme>
+  <programme start="20260914150000 -0300" stop="20260914170000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Vasco x Vitória</title>
+    <desc lang="pt">Vasco e Vitória jogam a rodada de ida da Quartas de Final da Copa do Brasil, em São Januário, no Rio de Janeiro (RJ).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001522323_epg.jpg" />
+  </programme>
+  <programme start="20260914170000 -0300" stop="20260914190000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Vitória x Vasco</title>
+    <desc lang="pt">Vitória e Vasco jogam a rodada de volta da Quartas de Final da Copa do Brasil, no Manoel Barradas, em Salvador (BA).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001524330_epg.jpg" />
+  </programme>
+  <programme start="20260914190000 -0300" stop="20260914210000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Palmeiras x Santos</title>
+    <desc lang="pt">Palmeiras e Santos jogam a rodada de ida da Quartas de Final da Copa do Brasil, no Nubank Parque, em São Paulo (SP).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001513653_epg.jpg" />
+  </programme>
+  <programme start="20260914210000 -0300" stop="20260914230000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Santos x Palmeiras</title>
+    <desc lang="pt">Santos e Palmeiras jogam a rodada de volta da Quartas de Final da Copa do Brasil, na Vila Belmiro, em Santos (SP).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001524335_epg.jpg" />
+  </programme>
+  <programme start="20260914230000 -0300" stop="20260915010000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 25ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S83 E257</episode-num>
   </programme>
   <programme start="20260907234000 -0300" stop="20260908001000 -0300" channel="PREMIERE CLUBES HD">
     <title lang="pt">VT - Cruzeiro x Athletico-PR</title>
@@ -10937,32 +11440,32 @@
   <programme start="20260911160000 -0300" stop="20260911170000 -0300" channel="SPORTV 3">
     <title lang="pt">Vitória x Goiás - Ao Vivo</title>
     <desc lang="pt">Vitória e Goiás jogam pela 4ª rodada da 1ª fase da Liga Nacional de Futevôlei, no Espaço Cultural Piero Garzón Henrique, em Nova Lima (MG).</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001456205_epg.jpg" />
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001536098_epg.jpg" />
   </programme>
   <programme start="20260911170000 -0300" stop="20260911180000 -0300" channel="SPORTV 3">
     <title lang="pt">São Paulo x Internacional - Ao Vivo</title>
     <desc lang="pt">São Paulo e Internacional jogam pela 4ª rodada da 1ª fase da Liga Nacional de Futevôlei, no Espaço Cultural Piero Garzón Henrique, em Nova Lima (MG).</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001456205_epg.jpg" />
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001536101_epg.jpg" />
   </programme>
   <programme start="20260911180000 -0300" stop="20260911190000 -0300" channel="SPORTV 3">
     <title lang="pt">Coritiba x Atlético-MG - Ao Vivo</title>
     <desc lang="pt">Coritiba e Atlético-MG jogam pela 4ª rodada da 1ª fase da Liga Nacional de Futevôlei, no Espaço Cultural Piero Garzón Henrique, em Nova Lima (MG).</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001456205_epg.jpg" />
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001536103_epg.jpg" />
   </programme>
   <programme start="20260911190000 -0300" stop="20260911200000 -0300" channel="SPORTV 3">
     <title lang="pt">Vasco x Bahia - Ao Vivo</title>
     <desc lang="pt">Vasco e Bahia jogam pela 4ª rodada da 1ª fase da Liga Nacional de Futevôlei, no Espaço Cultural Piero Garzón Henrique, em Nova Lima (MG).</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001456205_epg.jpg" />
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001536099_epg.jpg" />
   </programme>
   <programme start="20260911200000 -0300" stop="20260911210000 -0300" channel="SPORTV 3">
     <title lang="pt">Santos x Botafogo - Ao Vivo</title>
     <desc lang="pt">Santos e Botafogo jogam pela 4ª rodada da 1ª fase da Liga Nacional de Futevôlei, no Espaço Cultural Piero Garzón Henrique, em Nova Lima (MG).</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001456205_epg.jpg" />
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001536102_epg.jpg" />
   </programme>
   <programme start="20260911210000 -0300" stop="20260911220000 -0300" channel="SPORTV 3">
     <title lang="pt">Sport x Cruzeiro - Ao Vivo</title>
     <desc lang="pt">Sport e Cruzeiro jogam pela 4ª rodada da 1ª fase da Liga Nacional de Futevôlei, no Espaço Cultural Piero Garzón Henrique, em Nova Lima (MG).</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001456205_epg.jpg" />
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001536100_epg.jpg" />
   </programme>
   <programme start="20260911220000 -0300" stop="20260912003000 -0300" channel="SPORTV 3">
     <title lang="pt">Grand Slam De Judô - Finais - Budapeste, Hungria</title>
@@ -11579,12 +12082,12 @@
   <programme start="20260911094500 -0300" stop="20260911120000 -0300" channel="SPORTV 2">
     <title lang="pt">Inglaterra x Brasil - Ao Vivo</title>
     <desc lang="pt">Inglaterra e Brasil jogam pela 3 rodada da fase de grupos da Copa do Mundo Feminina Sub-20, no Bielsko-Biala, em Bielsko-Biala, Polônia.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001456205_epg.jpg" />
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001536108_epg.jpg" />
   </programme>
   <programme start="20260911120000 -0300" stop="20260911143000 -0300" channel="SPORTV 2">
     <title lang="pt">Al Qadsiah x Al Ettifaq - Ao Vivo</title>
     <desc lang="pt">Al Qadsiah e Al Ettifaq jogam pela 7ª rodada do Primeiro Turno da Liga Saudita, no EGO Stadium, em Dammam, Arábia Saudita.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001456205_epg.jpg" />
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001536110_epg.jpg" />
   </programme>
   <programme start="20260911143000 -0300" stop="20260911170000 -0300" channel="SPORTV 2">
     <title lang="pt">Campeonato Mundial de Atletismo Ultimate - Finais - Budapeste, Hungria - Ao Vivo</title>
