@@ -27,6 +27,7 @@
   </channel>
   <channel id="GE TV HD">
     <display-name lang="pt">GE TV HD</display-name>
+    <icon src="https://www.clarotvmais.com.br/img/channels/band.png" />
     <url>http://www.clarotvmais.com.br</url>
   </channel>
   <channel id="PREMIERE CLUBES HD">
@@ -77,6 +78,7 @@
   <channel id="SPORTV 3">
     <display-name lang="pt">SPORTV 3</display-name>
     <icon src="https://www.clarotvmais.com.br/img/channels/sportv_3.png" />
+    <icon src="https://www.clarotvmais.com.br/img/channels/sportv.png" />
     <url>http://www.clarotvmais.com.br</url>
   </channel>
   <channel id="SPORTV 2">
@@ -3574,6 +3576,499 @@
     <title lang="pt">VT - Cuiabá x Náutico</title>
     <desc lang="pt">Emoção até a última rodada! Acompanhe a disputa de 20 clubes para chegar à elite do futebol brasileiro! A melhor cobertura e transmissão você acompanha no Disney+.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001538015_epg.jpg" />
+  </programme>
+  <programme start="20260917211500 -0300" stop="20260918001500 -0300" channel="GE TV HD">
+    <title lang="pt">NFL: Lions x Bills - Ao Vivo</title>
+    <desc lang="pt">Lions e Bills jogam pela 2ª rodada da fase Regular da NFL, no Highmark Stadium, em Nova Iorque, EUA.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001537449_epg.jpg" />
+  </programme>
+  <programme start="20260918001500 -0300" stop="20260918031500 -0300" channel="GE TV HD">
+    <title lang="pt">NFL: Seattle Seahawks x New England Patriots</title>
+    <desc lang="pt">Não é só uma liga. É paixão, intensidade e espetáculo. Toda jogada é uma aula de estratégia, todo lance é emoção. O maior show do esporte agora tem casa no Brasil. É o sportv na NFL. ...</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001451573_epg.jpg" />
+  </programme>
+  <programme start="20260918031500 -0300" stop="20260918051500 -0300" channel="GE TV HD">
+    <title lang="pt">VT - São Bernardo-SP x América-MG</title>
+    <desc lang="pt">É futebol que não acaba, venha conferir mais um jogão do Brasileirão Masculino Série B!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001494669_epg.jpg" />
+  </programme>
+  <programme start="20260918051500 -0300" stop="20260918060000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 27ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S85 E261</episode-num>
+  </programme>
+  <programme start="20260918060000 -0300" stop="20260918070000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 27ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S86 E261</episode-num>
+  </programme>
+  <programme start="20260918070000 -0300" stop="20260918080000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 27ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S87 E261</episode-num>
+  </programme>
+  <programme start="20260918080000 -0300" stop="20260918090000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 27ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S88 E261</episode-num>
+  </programme>
+  <programme start="20260918090000 -0300" stop="20260918110000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Cruzeiro x Campinas</title>
+    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001451540_epg.jpg" />
+  </programme>
+  <programme start="20260918110000 -0300" stop="20260918130000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Brasil x Argentina</title>
+    <desc lang="pt">As melhores seleções do vôlei feminino entram em quadra em busca da classificação. É emoção do começo ao fim. Ta no Pré olímpico de vôlei, tá no sportv!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001537456_epg.jpg" />
+  </programme>
+  <programme start="20260918130000 -0300" stop="20260918144500 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Minas x Praia Clube</title>
+    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001446004_epg.jpg" />
+  </programme>
+  <programme start="20260918144500 -0300" stop="20260918164500 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Flamengo x Corinthians</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001536984_epg.jpg" />
+  </programme>
+  <programme start="20260918164500 -0300" stop="20260918184500 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Corinthians x Estudiantes</title>
+    <desc lang="pt">Corinthians e Estudiantes jogam a rodada de volta da Quartas de Final da Libertadores, na Neo Química Arena, em São Paulo (SP).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001544778_epg.jpg" />
+  </programme>
+  <programme start="20260918184500 -0300" stop="20260918190000 -0300" channel="GE TV HD">
+    <title lang="pt">Pré-Jogo: Colômbia x Brasil - Ao Vivo</title>
+    <desc lang="pt">As melhores seleções do futebol de areia entram em campo em busca do título. Grandes jogadas, golaços e muita habilidade na areia você acompanha na Copa das Nações de Futebol de Areia, aqui no sportv!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001370834_epg.jpg" />
+  </programme>
+  <programme start="20260918190000 -0300" stop="20260918203000 -0300" channel="GE TV HD">
+    <title lang="pt">Colômbia x Brasil - Ao Vivo</title>
+    <desc lang="pt">As melhores seleções do futebol de areia entram em campo em busca do título. Grandes jogadas, golaços e muita habilidade na areia você acompanha na Copa das Nações de Futebol de Areia, aqui no sportv!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543691_epg.jpg" />
+  </programme>
+  <programme start="20260918203000 -0300" stop="20260918210000 -0300" channel="GE TV HD">
+    <title lang="pt">Pré-Jogo: São Bernardo FC x Atlético-GO - Ao Vivo</title>
+    <desc lang="pt">São Bernardo FC e Atlético-GO jogam pela 29ª rodada do Segundo Turno do Campeonato Brasileiro, Série B, no Primeiro de Maio, em São Bernardo do Campo (SP).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543189_epg.jpg" />
+  </programme>
+  <programme start="20260918210000 -0300" stop="20260918230000 -0300" channel="GE TV HD">
+    <title lang="pt">São Bernardo FC x Atlético-GO - Ao Vivo</title>
+    <desc lang="pt">São Bernardo FC e Atlético-GO jogam pela 29ª rodada do Segundo Turno do Campeonato Brasileiro, Série B, no Primeiro de Maio, em São Bernardo do Campo (SP).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001536533_epg.jpg" />
+  </programme>
+  <programme start="20260918230000 -0300" stop="20260919000000 -0300" channel="GE TV HD">
+    <title lang="pt">Pós-Jogo: São Bernardo FC x Atlético-GO - Ao Vivo</title>
+    <desc lang="pt">São Bernardo FC e Atlético-GO jogam pela 29ª rodada do Segundo Turno do Campeonato Brasileiro, Série B, no Primeiro de Maio, em São Bernardo do Campo (SP).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543190_epg.jpg" />
+  </programme>
+  <programme start="20260919000000 -0300" stop="20260919020000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - São Bernardo-SP x América-MG</title>
+    <desc lang="pt">É futebol que não acaba, venha conferir mais um jogão do Brasileirão Masculino Série B!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001494669_epg.jpg" />
+  </programme>
+  <programme start="20260919020000 -0300" stop="20260919050000 -0300" channel="GE TV HD">
+    <title lang="pt">NFL: Green Bay Packers x Minnesota Vikings</title>
+    <desc lang="pt">Green Bay Packers e Minnesota Vikings jogam pela 1ª rodada da fase Regular da NFL, no U.S. Bank Stadium, em Minneapolis, EUA.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001537469_epg.jpg" />
+  </programme>
+  <programme start="20260919050000 -0300" stop="20260919060000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 27ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S85 E262</episode-num>
+  </programme>
+  <programme start="20260919060000 -0300" stop="20260919130000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 27ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S86 E262</episode-num>
+  </programme>
+  <programme start="20260919130000 -0300" stop="20260919133000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro da Rodada - Brasileiro Feminino - Semifinal - Ida</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S83 E262</episode-num>
+  </programme>
+  <programme start="20260919133000 -0300" stop="20260919153000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Flamengo x São Paulo</title>
+    <desc lang="pt">Flamengo e São Paulo jogam a rodada de ida da Semifinal do Campeonato Brasileiro Feminino, no Luso-Brasileiro, no Rio de Janeiro (RJ).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001538144_epg.jpg" />
+  </programme>
+  <programme start="20260919153000 -0300" stop="20260919163000 -0300" channel="GE TV HD">
+    <title lang="pt">Pré-Jogo: São Paulo x Flamengo - Ao Vivo</title>
+    <desc lang="pt">São Paulo e Flamengo jogam a rodada de volta da Semifinal do Campeonato Brasileiro Feminino, no Brinco de Ouro, em Campinas (SP).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001370834_epg.jpg" />
+  </programme>
+  <programme start="20260919163000 -0300" stop="20260920060000 -0300" channel="GE TV HD">
+    <title lang="pt">São Paulo x Flamengo - Ao Vivo</title>
+    <desc lang="pt">São Paulo e Flamengo jogam a rodada de volta da Semifinal do Campeonato Brasileiro Feminino, no Brinco de Ouro, em Campinas (SP).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543674_epg.jpg" />
+  </programme>
+  <programme start="20260920060000 -0300" stop="20260920070000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 26ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S86 E263</episode-num>
+  </programme>
+  <programme start="20260920070000 -0300" stop="20260920080000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 26ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S87 E263</episode-num>
+  </programme>
+  <programme start="20260920080000 -0300" stop="20260920095000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Cruzeiro x Campinas</title>
+    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001451540_epg.jpg" />
+  </programme>
+  <programme start="20260920095000 -0300" stop="20260920113000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Minas x Praia Clube</title>
+    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001446004_epg.jpg" />
+  </programme>
+  <programme start="20260920113000 -0300" stop="20260920120000 -0300" channel="GE TV HD">
+    <title lang="pt">Programação do Canal</title>
+    <desc lang="pt">Sinopse não Disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001370834_epg.jpg" />
+  </programme>
+  <programme start="20260920120000 -0300" stop="20260920140000 -0300" channel="GE TV HD">
+    <title lang="pt">Programação do Canal</title>
+    <desc lang="pt">Sinopse não Disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001370834_epg.jpg" />
+  </programme>
+  <programme start="20260920140000 -0300" stop="20260920160000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Remo x Flamengo</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001530169_epg.jpg" />
+  </programme>
+  <programme start="20260920160000 -0300" stop="20260920173000 -0300" channel="GE TV HD">
+    <title lang="pt">Programação do Canal</title>
+    <desc lang="pt">Sinopse não Disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001370834_epg.jpg" />
+  </programme>
+  <programme start="20260920173000 -0300" stop="20260920193000 -0300" channel="GE TV HD">
+    <title lang="pt">Programação do Canal</title>
+    <desc lang="pt">Sinopse não Disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001370834_epg.jpg" />
+  </programme>
+  <programme start="20260920193000 -0300" stop="20260920203000 -0300" channel="GE TV HD">
+    <title lang="pt">Tropa GE TV - Ao Vivo</title>
+    <desc lang="pt">O Tropa Ge TV faz o esquenta ao vivo para a rodada do Campeonato Brasileiro com análises, quadros, informação e diversão, trazendo uma abordagem leve e bem-humorada para os jogos da competição.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118388_epg.jpg" />
+    <episode-num system="onscreen">S89 E263</episode-num>
+  </programme>
+  <programme start="20260920203000 -0300" stop="20260920222500 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Flamengo x Botafogo</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001523339_epg.jpg" />
+  </programme>
+  <programme start="20260920222500 -0300" stop="20260921002500 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Palmeiras x Vasco</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001505344_epg.jpg" />
+  </programme>
+  <programme start="20260921002500 -0300" stop="20260921022500 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Atlético-MG x Grêmio</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001498216_epg.jpg" />
+  </programme>
+  <programme start="20260921022500 -0300" stop="20260921042500 -0300" channel="GE TV HD">
+    <title lang="pt">VT - São Bernardo-SP x América-MG</title>
+    <desc lang="pt">É futebol que não acaba, venha conferir mais um jogão do Brasileirão Masculino Série B!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001494669_epg.jpg" />
+  </programme>
+  <programme start="20260921042500 -0300" stop="20260921050000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 26ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S84 E264</episode-num>
+  </programme>
+  <programme start="20260921050000 -0300" stop="20260921060000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 26ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S85 E264</episode-num>
+  </programme>
+  <programme start="20260921060000 -0300" stop="20260921070000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 26ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S86 E264</episode-num>
+  </programme>
+  <programme start="20260921070000 -0300" stop="20260921080000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 27ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S87 E264</episode-num>
+  </programme>
+  <programme start="20260921080000 -0300" stop="20260921100000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Minas x Praia Clube</title>
+    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001446004_epg.jpg" />
+  </programme>
+  <programme start="20260921100000 -0300" stop="20260921120000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Brasil x Argentina</title>
+    <desc lang="pt">As melhores seleções do vôlei feminino entram em quadra em busca da classificação. É emoção do começo ao fim. Ta no Pré olímpico de vôlei, tá no sportv!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001537456_epg.jpg" />
+  </programme>
+  <programme start="20260921120000 -0300" stop="20260921130000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 27ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S82 E264</episode-num>
+  </programme>
+  <programme start="20260921130000 -0300" stop="20260921150000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Flamengo x São Paulo</title>
+    <desc lang="pt">Flamengo e São Paulo jogam a rodada de ida da Semifinal do Campeonato Brasileiro Feminino, no Luso-Brasileiro, no Rio de Janeiro (RJ).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001538144_epg.jpg" />
+  </programme>
+  <programme start="20260921150000 -0300" stop="20260921170000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Flamengo x Corinthians</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001536984_epg.jpg" />
+  </programme>
+  <programme start="20260921170000 -0300" stop="20260921190000 -0300" channel="GE TV HD">
+    <title lang="pt">Panela sportv - Ao Vivo</title>
+    <desc lang="pt">Toda segunda-feira, Fred Bruno apresenta o Panela sportv de uma forma descontraída sobre a rodada do Brasileirão. Com André Balada como convidado fixo, o programa traz uma resenha leve e dinâmica.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000116626_epg.jpg" />
+    <episode-num system="onscreen">S87 E264</episode-num>
+  </programme>
+  <programme start="20260921190000 -0300" stop="20260921220000 -0300" channel="GE TV HD">
+    <title lang="pt">NFL: Green Bay Packers x Minnesota Vikings</title>
+    <desc lang="pt">Green Bay Packers e Minnesota Vikings jogam pela 1ª rodada da fase Regular da NFL, no U.S. Bank Stadium, em Minneapolis, EUA.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001537469_epg.jpg" />
+  </programme>
+  <programme start="20260921220000 -0300" stop="20260922010000 -0300" channel="GE TV HD">
+    <title lang="pt">NFL: Las Vegas Raiders x Houston Texans</title>
+    <desc lang="pt">Não é só uma liga. É paixão, intensidade e espetáculo. Toda jogada é uma aula de estratégia, todo lance é emoção. O maior show do esporte agora tem casa no Brasil. É o sportv na NFL. ...</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001502614_epg.jpg" />
+  </programme>
+  <programme start="20260922010000 -0300" stop="20260922040000 -0300" channel="GE TV HD">
+    <title lang="pt">NFL: New England Patriots x Cleveland Browns</title>
+    <desc lang="pt">Não é só uma liga. É paixão, intensidade e espetáculo. Toda jogada é uma aula de estratégia, todo lance é emoção. O maior show do esporte agora tem casa no Brasil. É o sportv na NFL. ...</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001523355_epg.jpg" />
+  </programme>
+  <programme start="20260922040000 -0300" stop="20260922060000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - São Bernardo-SP x América-MG</title>
+    <desc lang="pt">É futebol que não acaba, venha conferir mais um jogão do Brasileirão Masculino Série B!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001494669_epg.jpg" />
+  </programme>
+  <programme start="20260922060000 -0300" stop="20260922070000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 26ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S86 E265</episode-num>
+  </programme>
+  <programme start="20260922070000 -0300" stop="20260922080000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 27ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S87 E265</episode-num>
+  </programme>
+  <programme start="20260922080000 -0300" stop="20260922083000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 27ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S88 E265</episode-num>
+  </programme>
+  <programme start="20260922083000 -0300" stop="20260922113000 -0300" channel="GE TV HD">
+    <title lang="pt">NFL: Las Vegas Raiders x Houston Texans</title>
+    <desc lang="pt">Não é só uma liga. É paixão, intensidade e espetáculo. Toda jogada é uma aula de estratégia, todo lance é emoção. O maior show do esporte agora tem casa no Brasil. É o sportv na NFL. ...</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001502614_epg.jpg" />
+  </programme>
+  <programme start="20260922113000 -0300" stop="20260922123000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 27ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S81 E265</episode-num>
+  </programme>
+  <programme start="20260922123000 -0300" stop="20260922143000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Flamengo x Corinthians</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001536984_epg.jpg" />
+  </programme>
+  <programme start="20260922143000 -0300" stop="20260922163000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Estudiantes x Corinthians</title>
+    <desc lang="pt">Estudiantes e Corinthians jogam a rodada de ida da Quartas de Final da Libertadores, no Jorge Luis Hirschi, em La Plata, Argentina.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543188_epg.jpg" />
+  </programme>
+  <programme start="20260922163000 -0300" stop="20260922174500 -0300" channel="GE TV HD">
+    <title lang="pt">Denilson É Show! - Ao Vivo</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000119283_epg.jpg" />
+    <episode-num system="onscreen">S86 E265</episode-num>
+  </programme>
+  <programme start="20260922174500 -0300" stop="20260922194500 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Flamengo x São Paulo</title>
+    <desc lang="pt">Flamengo e São Paulo jogam a rodada de ida da Semifinal do Campeonato Brasileiro Feminino, no Luso-Brasileiro, no Rio de Janeiro (RJ).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001538144_epg.jpg" />
+  </programme>
+  <programme start="20260922194500 -0300" stop="20260922201500 -0300" channel="GE TV HD">
+    <title lang="pt">Giro da Rodada - Brasileiro Feminino - Quartas de Final</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S89 E265</episode-num>
+  </programme>
+  <programme start="20260922201500 -0300" stop="20260922213000 -0300" channel="GE TV HD">
+    <title lang="pt">Aquecimento Delas - Ao Vivo</title>
+    <desc lang="pt">É hora de analisar. Você confere as últimas informações, escalações, análises táticas, destaques individuais e o clima dentro e fora de campo.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001370834_epg.jpg" />
+    <episode-num system="onscreen">S80 E265</episode-num>
+  </programme>
+  <programme start="20260922213000 -0300" stop="20260922233000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Ferroviária x Flamengo</title>
+    <desc lang="pt">Ferroviária e Flamengo jogam a rodada de volta da Quartas de Final do Campeonato Brasileiro Feminino, no Fonte Luminosa, em Araraquara (SP).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001530185_epg.jpg" />
+  </programme>
+  <programme start="20260922233000 -0300" stop="20260923023000 -0300" channel="GE TV HD">
+    <title lang="pt">NFL: Green Bay Packers x Minnesota Vikings</title>
+    <desc lang="pt">Green Bay Packers e Minnesota Vikings jogam pela 1ª rodada da fase Regular da NFL, no U.S. Bank Stadium, em Minneapolis, EUA.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001537469_epg.jpg" />
+  </programme>
+  <programme start="20260923023000 -0300" stop="20260923053000 -0300" channel="GE TV HD">
+    <title lang="pt">NFL: New England Patriots x Cleveland Browns</title>
+    <desc lang="pt">Não é só uma liga. É paixão, intensidade e espetáculo. Toda jogada é uma aula de estratégia, todo lance é emoção. O maior show do esporte agora tem casa no Brasil. É o sportv na NFL. ...</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001523355_epg.jpg" />
+  </programme>
+  <programme start="20260923053000 -0300" stop="20260923060000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 27ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S85 E266</episode-num>
+  </programme>
+  <programme start="20260923060000 -0300" stop="20260923070000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 27ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S86 E266</episode-num>
+  </programme>
+  <programme start="20260923070000 -0300" stop="20260923085000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Cruzeiro x Campinas</title>
+    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001451540_epg.jpg" />
+  </programme>
+  <programme start="20260923085000 -0300" stop="20260923105000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Minas x Praia Clube</title>
+    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001446004_epg.jpg" />
+  </programme>
+  <programme start="20260923105000 -0300" stop="20260923123000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Brasil x Argentina</title>
+    <desc lang="pt">As melhores seleções do vôlei feminino entram em quadra em busca da classificação. É emoção do começo ao fim. Ta no Pré olímpico de vôlei, tá no sportv!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001537456_epg.jpg" />
+  </programme>
+  <programme start="20260923123000 -0300" stop="20260923133000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 27ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S82 E266</episode-num>
+  </programme>
+  <programme start="20260923133000 -0300" stop="20260923153000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Santa Fe x Corinthians</title>
+    <desc lang="pt">Os maiores atletas do futebol, disputam a taça da libertadores. Tá no futebol, tá no sportv.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001455563_epg.jpg" />
+  </programme>
+  <programme start="20260923153000 -0300" stop="20260923173000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Estudiantes x Corinthians</title>
+    <desc lang="pt">Estudiantes e Corinthians jogam a rodada de ida da Quartas de Final da Libertadores, no Jorge Luis Hirschi, em La Plata, Argentina.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543188_epg.jpg" />
+  </programme>
+  <programme start="20260923173000 -0300" stop="20260923193000 -0300" channel="GE TV HD">
+    <title lang="pt">Live Super Pré Libertadores - Ao Vivo</title>
+    <desc lang="pt">Os maiores atletas do futebol, disputam a taça da libertadores. Tá no futebol, tá no sportv.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000119218_epg.jpg" />
+    <episode-num system="onscreen">S87 E266</episode-num>
+  </programme>
+  <programme start="20260923193000 -0300" stop="20260923213000 -0300" channel="GE TV HD">
+    <title lang="pt">Programação do Canal</title>
+    <desc lang="pt">Sinopse não Disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001370834_epg.jpg" />
+  </programme>
+  <programme start="20260923213000 -0300" stop="20260923233000 -0300" channel="GE TV HD">
+    <title lang="pt">Programação do Canal</title>
+    <desc lang="pt">Sinopse não Disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001370834_epg.jpg" />
+  </programme>
+  <programme start="20260923233000 -0300" stop="20260924003000 -0300" channel="GE TV HD">
+    <title lang="pt">Tropa GE TV - Ao Vivo</title>
+    <desc lang="pt">O Tropa Ge TV faz o esquenta ao vivo para a rodada do Campeonato Brasileiro com análises, quadros, informação e diversão, trazendo uma abordagem leve e bem-humorada para os jogos da competição.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118388_epg.jpg" />
+    <episode-num system="onscreen">S83 E266</episode-num>
+  </programme>
+  <programme start="20260924003000 -0300" stop="20260924013000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 27ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S80 E267</episode-num>
+  </programme>
+  <programme start="20260924013000 -0300" stop="20260924043000 -0300" channel="GE TV HD">
+    <title lang="pt">NFL: Seattle Seahawks x New England Patriots</title>
+    <desc lang="pt">Não é só uma liga. É paixão, intensidade e espetáculo. Toda jogada é uma aula de estratégia, todo lance é emoção. O maior show do esporte agora tem casa no Brasil. É o sportv na NFL. ...</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001451573_epg.jpg" />
+  </programme>
+  <programme start="20260924043000 -0300" stop="20260924050000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 27ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S84 E267</episode-num>
+  </programme>
+  <programme start="20260924050000 -0300" stop="20260924060000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 27ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S85 E267</episode-num>
+  </programme>
+  <programme start="20260924060000 -0300" stop="20260924070000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 27ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S86 E267</episode-num>
+  </programme>
+  <programme start="20260924070000 -0300" stop="20260924085000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Ferroviária x Flamengo</title>
+    <desc lang="pt">Ferroviária e Flamengo jogam a rodada de volta da Quartas de Final do Campeonato Brasileiro Feminino, no Fonte Luminosa, em Araraquara (SP).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001530185_epg.jpg" />
+  </programme>
+  <programme start="20260924085000 -0300" stop="20260924104500 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Flamengo x São Paulo</title>
+    <desc lang="pt">Flamengo e São Paulo jogam a rodada de ida da Semifinal do Campeonato Brasileiro Feminino, no Luso-Brasileiro, no Rio de Janeiro (RJ).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001538144_epg.jpg" />
+  </programme>
+  <programme start="20260924104500 -0300" stop="20260924114500 -0300" channel="GE TV HD">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 27ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S80 E267</episode-num>
+  </programme>
+  <programme start="20260924114500 -0300" stop="20260924143000 -0300" channel="GE TV HD">
+    <title lang="pt">NFL: New England Patriots x Cleveland Browns</title>
+    <desc lang="pt">Não é só uma liga. É paixão, intensidade e espetáculo. Toda jogada é uma aula de estratégia, todo lance é emoção. O maior show do esporte agora tem casa no Brasil. É o sportv na NFL. ...</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001523355_epg.jpg" />
+  </programme>
+  <programme start="20260924143000 -0300" stop="20260924173000 -0300" channel="GE TV HD">
+    <title lang="pt">NFL: Las Vegas Raiders x Houston Texans</title>
+    <desc lang="pt">Não é só uma liga. É paixão, intensidade e espetáculo. Toda jogada é uma aula de estratégia, todo lance é emoção. O maior show do esporte agora tem casa no Brasil. É o sportv na NFL. ...</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001502614_epg.jpg" />
+  </programme>
+  <programme start="20260924173000 -0300" stop="20260924201500 -0300" channel="GE TV HD">
+    <title lang="pt">NFL: Green Bay Packers x Minnesota Vikings</title>
+    <desc lang="pt">Green Bay Packers e Minnesota Vikings jogam pela 1ª rodada da fase Regular da NFL, no U.S. Bank Stadium, em Minneapolis, EUA.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001537469_epg.jpg" />
+  </programme>
+  <programme start="20260924201500 -0300" stop="20260924211500 -0300" channel="GE TV HD">
+    <title lang="pt">Programação do Canal</title>
+    <desc lang="pt">Sinopse não Disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001370834_epg.jpg" />
+  </programme>
+  <programme start="20260924211500 -0300" stop="20260925001500 -0300" channel="GE TV HD">
+    <title lang="pt">Programação do Canal</title>
+    <desc lang="pt">Sinopse não Disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001370834_epg.jpg" />
   </programme>
   <programme start="20260918000000 -0300" stop="20260918003000 -0300" channel="PREMIERE CLUBES HD">
     <title lang="pt">VT - Vasco x Cruzeiro</title>
@@ -11508,6 +12003,881 @@
     <title lang="pt">VT - Argentina x Chile</title>
     <desc lang="pt">As melhores seleções do vôlei masculino entram em quadra em busca da classificação. É emoção do começo ao fim. Ta no Pré olímpico de vôlei, tá no sportv!</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001456205_epg.jpg" />
+  </programme>
+  <programme start="20260917213000 -0300" stop="20260918003000 -0300" channel="SPORTV">
+    <title lang="pt">NFL: Lions x Bills - Ao Vivo</title>
+    <desc lang="pt">Lions e Bills jogam pela 2ª rodada da fase Regular da NFL, no Highmark Stadium, em Nova Iorque, EUA.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001537449_epg.jpg" />
+  </programme>
+  <programme start="20260918003000 -0300" stop="20260918013000 -0300" channel="SPORTV">
+    <title lang="pt">Troca de Passes - Ao Vivo</title>
+    <desc lang="pt">Felipe Diniz troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000071222_epg.jpg" />
+    <episode-num system="onscreen">S80 E261</episode-num>
+  </programme>
+  <programme start="20260918013000 -0300" stop="20260918023000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Brasil x EUA</title>
+    <desc lang="pt">Brasil e EUA jogam a Oitavas de Final da Copa do Mundo Feminina Sub-20, na Arena Katowice, em Katowice, Polônia.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543655_epg.jpg" />
+  </programme>
+  <programme start="20260918023000 -0300" stop="20260918033000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Bahia x Corinthians</title>
+    <desc lang="pt">Bahia e Corinthians jogam a rodada de ida da Semifinal do Campeonato Brasileiro Feminino, na Casa de Apostas Arena Fonte Nova, em Salvador (BA).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001541727_epg.jpg" />
+  </programme>
+  <programme start="20260918033000 -0300" stop="20260918043000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Corinthians x Atlético-MG</title>
+    <desc lang="pt">Acompanhe as emoções do Campeonato Brasileiro de Futebol Sub-17! Venha testemunhar as estrelas que será o futuro do futebol. Aqui no sportv.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001536985_epg.jpg" />
+  </programme>
+  <programme start="20260918043000 -0300" stop="20260918050000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Mirassol x Vitória</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001536979_epg.jpg" />
+  </programme>
+  <programme start="20260918050000 -0300" stop="20260918053000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Santos x Cruzeiro</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001536978_epg.jpg" />
+  </programme>
+  <programme start="20260918053000 -0300" stop="20260918060000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Botafogo x Grêmio</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001536986_epg.jpg" />
+  </programme>
+  <programme start="20260918060000 -0300" stop="20260918063000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Flamengo x Corinthians</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001536984_epg.jpg" />
+  </programme>
+  <programme start="20260918063000 -0300" stop="20260918073000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Brasil x EUA</title>
+    <desc lang="pt">Brasil e EUA jogam a Oitavas de Final da Copa do Mundo Feminina Sub-20, na Arena Katowice, em Katowice, Polônia.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543655_epg.jpg" />
+  </programme>
+  <programme start="20260918073000 -0300" stop="20260918083000 -0300" channel="SPORTV">
+    <title lang="pt">Troca de Passes</title>
+    <desc lang="pt">Felipe Diniz troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000071222_epg.jpg" />
+    <episode-num system="onscreen">S87 E261</episode-num>
+  </programme>
+  <programme start="20260918083000 -0300" stop="20260918100000 -0300" channel="SPORTV">
+    <title lang="pt">sportv News - Ao Vivo</title>
+    <desc lang="pt">Inicie o dia atualizado com as noticias do mundo do esporte. Cada detalhe sobre o seu esporte preferido, Os gols da rodada, as últimas do seu time, o que é notícia no Brasil e no Mundo contado de forma dinâmica por Mariana Fontes.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118429_epg.jpg" />
+    <episode-num system="onscreen">S88 E261</episode-num>
+  </programme>
+  <programme start="20260918100000 -0300" stop="20260918121500 -0300" channel="SPORTV">
+    <title lang="pt">Redação sportv - Ao Vivo</title>
+    <desc lang="pt">Acompanhe as informações diárias sobre o esporte no Brasil e no mundo. Marcelo Barreto recebe jornalistas convidados no estúdio e conta com a participação de correspondentes internacionais.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000071216_epg.jpg" />
+    <episode-num system="onscreen">S80 E261</episode-num>
+  </programme>
+  <programme start="20260918121500 -0300" stop="20260918125500 -0300" channel="SPORTV">
+    <title lang="pt">Tá On - Ao Vivo</title>
+    <desc lang="pt">Confira o que está acontecendo nos esportes de maneira breve e bem humorada, esteja ligado nos memes, trends, e tudo sobre o sobre o esporte com Joana Assis.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118431_epg.jpg" />
+    <episode-num system="onscreen">S82 E261</episode-num>
+  </programme>
+  <programme start="20260918125500 -0300" stop="20260918150000 -0300" channel="SPORTV">
+    <title lang="pt">Seleção sportv - Ao Vivo</title>
+    <desc lang="pt">Os principais comentaristas da Globo e do sportv formam uma seleção de craques, recebidos por André Rizek para debater os assuntos que são notícia no mundo do futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118428_epg.jpg" />
+    <episode-num system="onscreen">S82 E261</episode-num>
+  </programme>
+  <programme start="20260918150000 -0300" stop="20260918173000 -0300" channel="SPORTV">
+    <title lang="pt">Bayern de Munique x Union Berlin - Ao Vivo</title>
+    <desc lang="pt">Bayern de Munique e Union Berlin jogam pela 4ª rodada do Primeiro Turno da Bundesliga, na Allianz Arena, em Munique, Alemanha.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001539131_epg.jpg" />
+  </programme>
+  <programme start="20260918173000 -0300" stop="20260918190000 -0300" channel="SPORTV">
+    <title lang="pt">Tá na Área - Ao Vivo</title>
+    <desc lang="pt">Aproveite o finalzinho da tarde para relaxar e de maneira divertida fique por dentro de todos os assunto em alta do esporte com Igor Rodrigues e Camila Carelli.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118430_epg.jpg" />
+    <episode-num system="onscreen">S87 E261</episode-num>
+  </programme>
+  <programme start="20260918190000 -0300" stop="20260918203000 -0300" channel="SPORTV">
+    <title lang="pt">Colômbia x Brasil - Ao Vivo</title>
+    <desc lang="pt">As melhores seleções do futebol de areia entram em campo em busca do título. Grandes jogadas, golaços e muita habilidade na areia você acompanha na Copa das Nações de Futebol de Areia, aqui no sportv!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543691_epg.jpg" />
+  </programme>
+  <programme start="20260918203000 -0300" stop="20260918230000 -0300" channel="SPORTV">
+    <title lang="pt">São Bernardo FC x Atlético-GO - Ao Vivo</title>
+    <desc lang="pt">São Bernardo FC e Atlético-GO jogam pela 29ª rodada do Segundo Turno do Campeonato Brasileiro, Série B, no Primeiro de Maio, em São Bernardo do Campo (SP).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001536533_epg.jpg" />
+  </programme>
+  <programme start="20260918230000 -0300" stop="20260919003000 -0300" channel="SPORTV">
+    <title lang="pt">Troca de Passes - Ao Vivo</title>
+    <desc lang="pt">Felipe Diniz troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000071222_epg.jpg" />
+    <episode-num system="onscreen">S83 E261</episode-num>
+  </programme>
+  <programme start="20260919003000 -0300" stop="20260919013000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Bayern de Munique x Union Berlin</title>
+    <desc lang="pt">Bayern de Munique e Union Berlin jogam pela 4ª rodada do Primeiro Turno da Bundesliga, na Allianz Arena, em Munique, Alemanha.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543670_epg.jpg" />
+  </programme>
+  <programme start="20260919013000 -0300" stop="20260919023000 -0300" channel="SPORTV">
+    <title lang="pt">VT - São Bernardo x Atlético-GO</title>
+    <desc lang="pt">É futebol que não acaba, venha conferir mais um jogão do Brasileirão Masculino Série B!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543648_epg.jpg" />
+  </programme>
+  <programme start="20260919023000 -0300" stop="20260919030000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Botafogo x Grêmio</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001536986_epg.jpg" />
+  </programme>
+  <programme start="20260919030000 -0300" stop="20260919033000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Flamengo x Corinthians</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001536984_epg.jpg" />
+  </programme>
+  <programme start="20260919033000 -0300" stop="20260919040000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Santos x Cruzeiro</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001536978_epg.jpg" />
+  </programme>
+  <programme start="20260919040000 -0300" stop="20260919043000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Palmeiras x São Paulo</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001536980_epg.jpg" />
+  </programme>
+  <programme start="20260919043000 -0300" stop="20260919050000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Mirassol x Vitória</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001536979_epg.jpg" />
+  </programme>
+  <programme start="20260919050000 -0300" stop="20260919060000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Bahia x Corinthians</title>
+    <desc lang="pt">Bahia e Corinthians jogam a rodada de ida da Semifinal do Campeonato Brasileiro Feminino, na Casa de Apostas Arena Fonte Nova, em Salvador (BA).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001541727_epg.jpg" />
+  </programme>
+  <programme start="20260919060000 -0300" stop="20260919070000 -0300" channel="SPORTV">
+    <title lang="pt">VT - São Bernardo x Atlético-GO</title>
+    <desc lang="pt">É futebol que não acaba, venha conferir mais um jogão do Brasileirão Masculino Série B!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543648_epg.jpg" />
+  </programme>
+  <programme start="20260919070000 -0300" stop="20260919073000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Flamengo x Corinthians</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001536984_epg.jpg" />
+  </programme>
+  <programme start="20260919073000 -0300" stop="20260919083000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Corinthians x Atlético-MG</title>
+    <desc lang="pt">Acompanhe as emoções do Campeonato Brasileiro de Futebol Sub-17! Venha testemunhar as estrelas que será o futuro do futebol. Aqui no sportv.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001536985_epg.jpg" />
+  </programme>
+  <programme start="20260919083000 -0300" stop="20260919093000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Bayern de Munique x Union Berlin</title>
+    <desc lang="pt">Bayern de Munique e Union Berlin jogam pela 4ª rodada do Primeiro Turno da Bundesliga, na Allianz Arena, em Munique, Alemanha.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543670_epg.jpg" />
+  </programme>
+  <programme start="20260919093000 -0300" stop="20260919100000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Botafogo x Grêmio</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001536986_epg.jpg" />
+  </programme>
+  <programme start="20260919100000 -0300" stop="20260919103000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Santos x Cruzeiro</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001536978_epg.jpg" />
+  </programme>
+  <programme start="20260919103000 -0300" stop="20260919131500 -0300" channel="SPORTV">
+    <title lang="pt">Mamelodi Sundowns x Al Ahli - Ao Vivo</title>
+    <desc lang="pt">Mamelodi Sundowns e Al Ahli enfrentam-se na 2ª fase do Copa Intercontinental da FIFA, no Loftus Versfeld Stadium, em Pretoria, África do Sul.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543684_epg.jpg" />
+  </programme>
+  <programme start="20260919131500 -0300" stop="20260919153000 -0300" channel="SPORTV">
+    <title lang="pt">Copa do Mundo Feminina Sub-20 da FIFA 2026™</title>
+    <desc lang="pt">Pra quem ama futebol, chegou a vez delas! Tá na hora de acompanhar as seleções femininas em busca da taça. Tá na Seleção Feminina, tá no sportv.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001537451_epg.jpg" />
+  </programme>
+  <programme start="20260919153000 -0300" stop="20260919163000 -0300" channel="SPORTV">
+    <title lang="pt">Aquecimento sportv - Ao Vivo</title>
+    <desc lang="pt">É hora de analisar. Você confere as últimas informações, escalações, análises táticas, destaques individuais e o clima dentro e fora de campo.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000113255_epg.jpg" />
+    <episode-num system="onscreen">S85 E262</episode-num>
+  </programme>
+  <programme start="20260919163000 -0300" stop="20260919183000 -0300" channel="SPORTV">
+    <title lang="pt">São Paulo x Flamengo - Ao Vivo</title>
+    <desc lang="pt">São Paulo e Flamengo jogam a rodada de volta da Semifinal do Campeonato Brasileiro Feminino, no Brinco de Ouro, em Campinas (SP).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543674_epg.jpg" />
+  </programme>
+  <programme start="20260919183000 -0300" stop="20260919200000 -0300" channel="SPORTV">
+    <title lang="pt">Troca de Passes - Ao Vivo</title>
+    <desc lang="pt">Felipe Diniz troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000071222_epg.jpg" />
+    <episode-num system="onscreen">S88 E262</episode-num>
+  </programme>
+  <programme start="20260919200000 -0300" stop="20260919210000 -0300" channel="SPORTV">
+    <title lang="pt">Aquecimento sportv - Ao Vivo</title>
+    <desc lang="pt">É hora de analisar. Você confere as últimas informações, escalações, análises táticas, destaques individuais e o clima dentro e fora de campo.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000113255_epg.jpg" />
+    <episode-num system="onscreen">S80 E262</episode-num>
+  </programme>
+  <programme start="20260919210000 -0300" stop="20260919230000 -0300" channel="SPORTV">
+    <title lang="pt">São Paulo x Internacional - Ao Vivo</title>
+    <desc lang="pt">São Paulo e Internacional jogam pela 28ª rodada do Segundo Turno do Brasileirão, no Morumbis, em São Paulo (SP).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001542221_epg.jpg" />
+  </programme>
+  <programme start="20260919230000 -0300" stop="20260920003000 -0300" channel="SPORTV">
+    <title lang="pt">Troca de Passes - Ao Vivo</title>
+    <desc lang="pt">Felipe Diniz troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000071222_epg.jpg" />
+    <episode-num system="onscreen">S83 E262</episode-num>
+  </programme>
+  <programme start="20260920003000 -0300" stop="20260920013000 -0300" channel="SPORTV">
+    <title lang="pt">VT - São Paulo x Flamengo</title>
+    <desc lang="pt">São Paulo e Flamengo jogam a rodada de volta da Semifinal do Campeonato Brasileiro Feminino, no Brinco de Ouro, em Campinas (SP).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543675_epg.jpg" />
+  </programme>
+  <programme start="20260920013000 -0300" stop="20260920020000 -0300" channel="SPORTV">
+    <title lang="pt">VT - São Paulo x Internacional</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543664_epg.jpg" />
+  </programme>
+  <programme start="20260920020000 -0300" stop="20260920023000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Atlético-MG x Chapecoense</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543658_epg.jpg" />
+  </programme>
+  <programme start="20260920023000 -0300" stop="20260920030000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Remo x Santos</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543663_epg.jpg" />
+  </programme>
+  <programme start="20260920030000 -0300" stop="20260920040000 -0300" channel="SPORTV">
+    <title lang="pt">VT - São Bernardo x Atlético-GO</title>
+    <desc lang="pt">É futebol que não acaba, venha conferir mais um jogão do Brasileirão Masculino Série B!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543648_epg.jpg" />
+  </programme>
+  <programme start="20260920040000 -0300" stop="20260920050000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Corinthians x Atlético-MG</title>
+    <desc lang="pt">Acompanhe as emoções do Campeonato Brasileiro de Futebol Sub-17! Venha testemunhar as estrelas que será o futuro do futebol. Aqui no sportv.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001536985_epg.jpg" />
+  </programme>
+  <programme start="20260920050000 -0300" stop="20260920060000 -0300" channel="SPORTV">
+    <title lang="pt">VT - São Paulo x Flamengo</title>
+    <desc lang="pt">São Paulo e Flamengo jogam a rodada de volta da Semifinal do Campeonato Brasileiro Feminino, no Brinco de Ouro, em Campinas (SP).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543675_epg.jpg" />
+  </programme>
+  <programme start="20260920060000 -0300" stop="20260920063000 -0300" channel="SPORTV">
+    <title lang="pt">VT - São Paulo x Internacional</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543664_epg.jpg" />
+  </programme>
+  <programme start="20260920063000 -0300" stop="20260920070000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Atlético-MG x Chapecoense</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543658_epg.jpg" />
+  </programme>
+  <programme start="20260920070000 -0300" stop="20260920073000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Remo x Santos</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543663_epg.jpg" />
+  </programme>
+  <programme start="20260920073000 -0300" stop="20260920083000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Bayern de Munique x Union Berlin</title>
+    <desc lang="pt">Bayern de Munique e Union Berlin jogam pela 4ª rodada do Primeiro Turno da Bundesliga, na Allianz Arena, em Munique, Alemanha.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543670_epg.jpg" />
+  </programme>
+  <programme start="20260920083000 -0300" stop="20260920093000 -0300" channel="SPORTV">
+    <title lang="pt">VT - São Paulo x Flamengo</title>
+    <desc lang="pt">São Paulo e Flamengo jogam a rodada de volta da Semifinal do Campeonato Brasileiro Feminino, no Brinco de Ouro, em Campinas (SP).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543675_epg.jpg" />
+  </programme>
+  <programme start="20260920093000 -0300" stop="20260920100000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Atlético-MG x Chapecoense</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543658_epg.jpg" />
+  </programme>
+  <programme start="20260920100000 -0300" stop="20260920123000 -0300" channel="SPORTV">
+    <title lang="pt">Bayer Leverkusen x RB Leipzig - Ao Vivo</title>
+    <desc lang="pt">Bayer Leverkusen e RB Leipzig jogam pela 4ª rodada do Primeiro Turno da Bundesliga, na BayArena, em Leverkusen, Alemanha.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543673_epg.jpg" />
+  </programme>
+  <programme start="20260920123000 -0300" stop="20260920130000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Remo x Santos</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543663_epg.jpg" />
+  </programme>
+  <programme start="20260920130000 -0300" stop="20260920153000 -0300" channel="SPORTV">
+    <title lang="pt">sportv News - Ao Vivo</title>
+    <desc lang="pt">Inicie o dia atualizado com as noticias do mundo do esporte. Cada detalhe sobre o seu esporte preferido, Os gols da rodada, as últimas do seu time, o que é notícia no Brasil e no Mundo contado de forma dinâmica por Mariana Fontes.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118429_epg.jpg" />
+    <episode-num system="onscreen">S83 E263</episode-num>
+  </programme>
+  <programme start="20260920153000 -0300" stop="20260920160000 -0300" channel="SPORTV">
+    <title lang="pt">Pré-Jogo: Corinthians x Fluminense - Ao Vivo</title>
+    <desc lang="pt">Corinthians e Fluminense jogam pela 28ª rodada do Segundo Turno do Brasileirão, na Neo Química Arena, em São Paulo (SP).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543681_epg.jpg" />
+  </programme>
+  <programme start="20260920160000 -0300" stop="20260920163000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Grêmio x Palmeiras</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543661_epg.jpg" />
+  </programme>
+  <programme start="20260920163000 -0300" stop="20260920170000 -0300" channel="SPORTV">
+    <title lang="pt">VT - São Paulo x Internacional</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543664_epg.jpg" />
+  </programme>
+  <programme start="20260920170000 -0300" stop="20260920173000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Atlético-MG x Chapecoense</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543658_epg.jpg" />
+  </programme>
+  <programme start="20260920173000 -0300" stop="20260920183000 -0300" channel="SPORTV">
+    <title lang="pt">Aquecimento sportv - Ao Vivo</title>
+    <desc lang="pt">É hora de analisar. Você confere as últimas informações, escalações, análises táticas, destaques individuais e o clima dentro e fora de campo.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000113255_epg.jpg" />
+    <episode-num system="onscreen">S87 E263</episode-num>
+  </programme>
+  <programme start="20260920183000 -0300" stop="20260920203000 -0300" channel="SPORTV">
+    <title lang="pt">Flamengo x Bragantino - Ao Vivo</title>
+    <desc lang="pt">Flamengo e Bragantino jogam pela 28ª rodada do Segundo Turno do Brasileirão, no Maracanã, no Rio de Janeiro (RJ).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001542238_epg.jpg" />
+  </programme>
+  <programme start="20260920203000 -0300" stop="20260920223000 -0300" channel="SPORTV">
+    <title lang="pt">Fechamento sportv - Ao Vivo</title>
+    <desc lang="pt">André Rizek, Denilson e outros convidados analisam como foi a rodada de futebol, mantendo você atualizado, sobre os últimos lances, gols e emoções das partidas, todos os domingos o pós jogo é no sportv!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118433_epg.jpg" />
+    <episode-num system="onscreen">S80 E263</episode-num>
+  </programme>
+  <programme start="20260920223000 -0300" stop="20260920230000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Flamengo x Bragantino</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543660_epg.jpg" />
+  </programme>
+  <programme start="20260920230000 -0300" stop="20260920233000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Corinthians x Fluminense</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543659_epg.jpg" />
+  </programme>
+  <programme start="20260920233000 -0300" stop="20260921000000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Vitória x Cruzeiro</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543665_epg.jpg" />
+  </programme>
+  <programme start="20260921000000 -0300" stop="20260921003000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Athletico-PR x Bahia</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543657_epg.jpg" />
+  </programme>
+  <programme start="20260921003000 -0300" stop="20260921010000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Grêmio x Palmeiras</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543661_epg.jpg" />
+  </programme>
+  <programme start="20260921010000 -0300" stop="20260921013000 -0300" channel="SPORTV">
+    <title lang="pt">VT - São Paulo x Internacional</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543664_epg.jpg" />
+  </programme>
+  <programme start="20260921013000 -0300" stop="20260921020000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Remo x Santos</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543663_epg.jpg" />
+  </programme>
+  <programme start="20260921020000 -0300" stop="20260921023000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Atlético-MG x Chapecoense</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543658_epg.jpg" />
+  </programme>
+  <programme start="20260921023000 -0300" stop="20260921033000 -0300" channel="SPORTV">
+    <title lang="pt">VT - São Paulo x Flamengo</title>
+    <desc lang="pt">São Paulo e Flamengo jogam a rodada de volta da Semifinal do Campeonato Brasileiro Feminino, no Brinco de Ouro, em Campinas (SP).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543675_epg.jpg" />
+  </programme>
+  <programme start="20260921033000 -0300" stop="20260921043000 -0300" channel="SPORTV">
+    <title lang="pt">VT - São Bernardo x Atlético-GO</title>
+    <desc lang="pt">É futebol que não acaba, venha conferir mais um jogão do Brasileirão Masculino Série B!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543648_epg.jpg" />
+  </programme>
+  <programme start="20260921043000 -0300" stop="20260921050000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Grêmio x Palmeiras</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543661_epg.jpg" />
+  </programme>
+  <programme start="20260921050000 -0300" stop="20260921053000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Flamengo x Bragantino</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543660_epg.jpg" />
+  </programme>
+  <programme start="20260921053000 -0300" stop="20260921060000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Corinthians x Fluminense</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543659_epg.jpg" />
+  </programme>
+  <programme start="20260921060000 -0300" stop="20260921063000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Vitória x Cruzeiro</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543665_epg.jpg" />
+  </programme>
+  <programme start="20260921063000 -0300" stop="20260921083000 -0300" channel="SPORTV">
+    <title lang="pt">Fechamento sportv</title>
+    <desc lang="pt">André Rizek, Denilson e outros convidados analisam como foi a rodada de futebol, mantendo você atualizado, sobre os últimos lances, gols e emoções das partidas, todos os domingos o pós jogo é no sportv!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118433_epg.jpg" />
+    <episode-num system="onscreen">S86 E264</episode-num>
+  </programme>
+  <programme start="20260921083000 -0300" stop="20260921100000 -0300" channel="SPORTV">
+    <title lang="pt">sportv News - Ao Vivo</title>
+    <desc lang="pt">Inicie o dia atualizado com as noticias do mundo do esporte. Cada detalhe sobre o seu esporte preferido, Os gols da rodada, as últimas do seu time, o que é notícia no Brasil e no Mundo contado de forma dinâmica por Mariana Fontes.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118429_epg.jpg" />
+    <episode-num system="onscreen">S88 E264</episode-num>
+  </programme>
+  <programme start="20260921100000 -0300" stop="20260921121500 -0300" channel="SPORTV">
+    <title lang="pt">Redação sportv - Ao Vivo</title>
+    <desc lang="pt">Acompanhe as informações diárias sobre o esporte no Brasil e no mundo. Marcelo Barreto recebe jornalistas convidados no estúdio e conta com a participação de correspondentes internacionais.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000071216_epg.jpg" />
+    <episode-num system="onscreen">S80 E264</episode-num>
+  </programme>
+  <programme start="20260921121500 -0300" stop="20260921125500 -0300" channel="SPORTV">
+    <title lang="pt">Tá On - Ao Vivo</title>
+    <desc lang="pt">Confira o que está acontecendo nos esportes de maneira breve e bem humorada, esteja ligado nos memes, trends, e tudo sobre o sobre o esporte com Joana Assis.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118431_epg.jpg" />
+    <episode-num system="onscreen">S82 E264</episode-num>
+  </programme>
+  <programme start="20260921125500 -0300" stop="20260921153000 -0300" channel="SPORTV">
+    <title lang="pt">Seleção sportv - Ao Vivo</title>
+    <desc lang="pt">Os principais comentaristas da Globo e do sportv formam uma seleção de craques, recebidos por André Rizek para debater os assuntos que são notícia no mundo do futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118428_epg.jpg" />
+    <episode-num system="onscreen">S82 E264</episode-num>
+  </programme>
+  <programme start="20260921153000 -0300" stop="20260921160000 -0300" channel="SPORTV">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">Um pouquinho de cada Globo Esporte espalhado pelo Brasil. As principais histórias, notícias, num mosaico leve e informativo.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000070462_epg.jpg" />
+    <episode-num system="onscreen">S85 E264</episode-num>
+  </programme>
+  <programme start="20260921160000 -0300" stop="20260921163000 -0300" channel="SPORTV">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 28ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S86 E264</episode-num>
+  </programme>
+  <programme start="20260921163000 -0300" stop="20260921170000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Flamengo x Bragantino</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543660_epg.jpg" />
+  </programme>
+  <programme start="20260921170000 -0300" stop="20260921173000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Corinthians x Fluminense</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543659_epg.jpg" />
+  </programme>
+  <programme start="20260921173000 -0300" stop="20260921180000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Vitória x Cruzeiro</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543665_epg.jpg" />
+  </programme>
+  <programme start="20260921180000 -0300" stop="20260921183000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Grêmio x Palmeiras</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543661_epg.jpg" />
+  </programme>
+  <programme start="20260921183000 -0300" stop="20260921203000 -0300" channel="SPORTV">
+    <title lang="pt">Tá na Área - Ao Vivo</title>
+    <desc lang="pt">Aproveite o finalzinho da tarde para relaxar e de maneira divertida fique por dentro de todos os assunto em alta do esporte com Igor Rodrigues e Camila Carelli.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118430_epg.jpg" />
+    <episode-num system="onscreen">S88 E264</episode-num>
+  </programme>
+  <programme start="20260921203000 -0300" stop="20260921213000 -0300" channel="SPORTV">
+    <title lang="pt">Aquecimento Delas - Ao Vivo</title>
+    <desc lang="pt">É hora de analisar. Você confere as últimas informações, escalações, análises táticas, destaques individuais e o clima dentro e fora de campo.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001456205_epg.jpg" />
+    <episode-num system="onscreen">S80 E264</episode-num>
+  </programme>
+  <programme start="20260921213000 -0300" stop="20260921233000 -0300" channel="SPORTV">
+    <title lang="pt">Corinthians x Bahia - Ao Vivo</title>
+    <desc lang="pt">Corinthians e Bahia jogam a rodada de volta da Semifinal do Campeonato Brasileiro Feminino, na Neo Química Arena, em São Paulo (SP).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543676_epg.jpg" />
+  </programme>
+  <programme start="20260921233000 -0300" stop="20260922010000 -0300" channel="SPORTV">
+    <title lang="pt">Troca de Passes - Ao Vivo</title>
+    <desc lang="pt">Felipe Diniz troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000071222_epg.jpg" />
+    <episode-num system="onscreen">S83 E264</episode-num>
+  </programme>
+  <programme start="20260922010000 -0300" stop="20260922030000 -0300" channel="SPORTV">
+    <title lang="pt">Panela sportv</title>
+    <desc lang="pt">Toda segunda-feira, Fred Bruno apresenta o Panela sportv de uma forma descontraída sobre a rodada do Brasileirão. Com André Balada como convidado fixo, o programa traz uma resenha leve e dinâmica.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118546_epg.jpg" />
+    <episode-num system="onscreen">S81 E265</episode-num>
+  </programme>
+  <programme start="20260922030000 -0300" stop="20260922040000 -0300" channel="SPORTV">
+    <title lang="pt">Giro Da Rodada - Brasileirão - 28ª Rodada</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S83 E265</episode-num>
+  </programme>
+  <programme start="20260922040000 -0300" stop="20260922043000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Corinthians x Fluminense</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543659_epg.jpg" />
+  </programme>
+  <programme start="20260922043000 -0300" stop="20260922050000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Vitória x Cruzeiro</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543665_epg.jpg" />
+  </programme>
+  <programme start="20260922050000 -0300" stop="20260922053000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Grêmio x Palmeiras</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543661_epg.jpg" />
+  </programme>
+  <programme start="20260922053000 -0300" stop="20260922060000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Flamengo x Bragantino</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543660_epg.jpg" />
+  </programme>
+  <programme start="20260922060000 -0300" stop="20260922070000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Corinthians x Bahia</title>
+    <desc lang="pt">Corinthians e Bahia jogam a rodada de volta da Semifinal do Campeonato Brasileiro Feminino, na Neo Química Arena, em São Paulo (SP).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543677_epg.jpg" />
+  </programme>
+  <programme start="20260922070000 -0300" stop="20260922083000 -0300" channel="SPORTV">
+    <title lang="pt">Troca de Passes</title>
+    <desc lang="pt">Felipe Diniz troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000071222_epg.jpg" />
+    <episode-num system="onscreen">S87 E265</episode-num>
+  </programme>
+  <programme start="20260922083000 -0300" stop="20260922100000 -0300" channel="SPORTV">
+    <title lang="pt">sportv News - Ao Vivo</title>
+    <desc lang="pt">Inicie o dia atualizado com as noticias do mundo do esporte. Cada detalhe sobre o seu esporte preferido, Os gols da rodada, as últimas do seu time, o que é notícia no Brasil e no Mundo contado de forma dinâmica por Mariana Fontes.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118429_epg.jpg" />
+    <episode-num system="onscreen">S88 E265</episode-num>
+  </programme>
+  <programme start="20260922100000 -0300" stop="20260922121500 -0300" channel="SPORTV">
+    <title lang="pt">Redação sportv - Ao Vivo</title>
+    <desc lang="pt">Acompanhe as informações diárias sobre o esporte no Brasil e no mundo. Marcelo Barreto recebe jornalistas convidados no estúdio e conta com a participação de correspondentes internacionais.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000071216_epg.jpg" />
+    <episode-num system="onscreen">S80 E265</episode-num>
+  </programme>
+  <programme start="20260922121500 -0300" stop="20260922125500 -0300" channel="SPORTV">
+    <title lang="pt">Tá On - Ao Vivo</title>
+    <desc lang="pt">Confira o que está acontecendo nos esportes de maneira breve e bem humorada, esteja ligado nos memes, trends, e tudo sobre o sobre o esporte com Joana Assis.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118431_epg.jpg" />
+    <episode-num system="onscreen">S82 E265</episode-num>
+  </programme>
+  <programme start="20260922125500 -0300" stop="20260922153000 -0300" channel="SPORTV">
+    <title lang="pt">Seleção sportv - Ao Vivo</title>
+    <desc lang="pt">Os principais comentaristas da Globo e do sportv formam uma seleção de craques, recebidos por André Rizek para debater os assuntos que são notícia no mundo do futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118428_epg.jpg" />
+    <episode-num system="onscreen">S82 E265</episode-num>
+  </programme>
+  <programme start="20260922153000 -0300" stop="20260922160000 -0300" channel="SPORTV">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">Um pouquinho de cada Globo Esporte espalhado pelo Brasil. As principais histórias, notícias, num mosaico leve e informativo.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000070462_epg.jpg" />
+    <episode-num system="onscreen">S85 E265</episode-num>
+  </programme>
+  <programme start="20260922160000 -0300" stop="20260922163000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Vitória x Cruzeiro</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543665_epg.jpg" />
+  </programme>
+  <programme start="20260922163000 -0300" stop="20260922170000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Athletico-PR x Bahia</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543657_epg.jpg" />
+  </programme>
+  <programme start="20260922170000 -0300" stop="20260922173000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Grêmio x Palmeiras</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543661_epg.jpg" />
+  </programme>
+  <programme start="20260922173000 -0300" stop="20260922180000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Flamengo x Bragantino</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543660_epg.jpg" />
+  </programme>
+  <programme start="20260922180000 -0300" stop="20260922193000 -0300" channel="SPORTV">
+    <title lang="pt">Tá na Área - Ao Vivo</title>
+    <desc lang="pt">Aproveite o finalzinho da tarde para relaxar e de maneira divertida fique por dentro de todos os assunto em alta do esporte com Igor Rodrigues e Camila Carelli.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118430_epg.jpg" />
+    <episode-num system="onscreen">S88 E265</episode-num>
+  </programme>
+  <programme start="20260922193000 -0300" stop="20260922220000 -0300" channel="SPORTV">
+    <title lang="pt">São Paulo x Palmeiras - Ao Vivo</title>
+    <desc lang="pt">São Paulo e Palmeiras jogam pela 18ª rodada da 1ª fase do Campeonato Brasileiro Sub-17, no Cotia, em Cotia (SP).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543680_epg.jpg" />
+  </programme>
+  <programme start="20260922220000 -0300" stop="20260922233000 -0300" channel="SPORTV">
+    <title lang="pt">Troca de Passes - Ao Vivo</title>
+    <desc lang="pt">Felipe Diniz troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000071222_epg.jpg" />
+    <episode-num system="onscreen">S82 E265</episode-num>
+  </programme>
+  <programme start="20260922233000 -0300" stop="20260923003000 -0300" channel="SPORTV">
+    <title lang="pt">Giro da Rodada - Brasileiro Feminino - Semifinal - Ida</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S83 E265</episode-num>
+  </programme>
+  <programme start="20260923003000 -0300" stop="20260923013000 -0300" channel="SPORTV">
+    <title lang="pt">VT - São Paulo x Palmeiras</title>
+    <desc lang="pt">Acompanhe as emoções do Campeonato Brasileiro de Futebol Sub-17! Venha testemunhar as estrelas que será o futuro do futebol. Aqui no sportv.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543649_epg.jpg" />
+  </programme>
+  <programme start="20260923013000 -0300" stop="20260923020000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Flamengo x Bragantino</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543660_epg.jpg" />
+  </programme>
+  <programme start="20260923020000 -0300" stop="20260923030000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Corinthians x Bahia</title>
+    <desc lang="pt">Corinthians e Bahia jogam a rodada de volta da Semifinal do Campeonato Brasileiro Feminino, na Neo Química Arena, em São Paulo (SP).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543677_epg.jpg" />
+  </programme>
+  <programme start="20260923030000 -0300" stop="20260923033000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Corinthians x Fluminense</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543659_epg.jpg" />
+  </programme>
+  <programme start="20260923033000 -0300" stop="20260923040000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Vitória x Cruzeiro</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543665_epg.jpg" />
+  </programme>
+  <programme start="20260923040000 -0300" stop="20260923043000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Grêmio x Palmeiras</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543661_epg.jpg" />
+  </programme>
+  <programme start="20260923043000 -0300" stop="20260923050000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Athletico-PR x Bahia</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543657_epg.jpg" />
+  </programme>
+  <programme start="20260923050000 -0300" stop="20260923060000 -0300" channel="SPORTV">
+    <title lang="pt">VT - São Paulo x Flamengo</title>
+    <desc lang="pt">São Paulo e Flamengo jogam a rodada de volta da Semifinal do Campeonato Brasileiro Feminino, no Brinco de Ouro, em Campinas (SP).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543675_epg.jpg" />
+  </programme>
+  <programme start="20260923060000 -0300" stop="20260923070000 -0300" channel="SPORTV">
+    <title lang="pt">VT - São Paulo x Palmeiras</title>
+    <desc lang="pt">Acompanhe as emoções do Campeonato Brasileiro de Futebol Sub-17! Venha testemunhar as estrelas que será o futuro do futebol. Aqui no sportv.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543649_epg.jpg" />
+  </programme>
+  <programme start="20260923070000 -0300" stop="20260923083000 -0300" channel="SPORTV">
+    <title lang="pt">Troca de Passes</title>
+    <desc lang="pt">Felipe Diniz troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000071222_epg.jpg" />
+    <episode-num system="onscreen">S87 E266</episode-num>
+  </programme>
+  <programme start="20260923083000 -0300" stop="20260923100000 -0300" channel="SPORTV">
+    <title lang="pt">sportv News - Ao Vivo</title>
+    <desc lang="pt">Inicie o dia atualizado com as noticias do mundo do esporte. Cada detalhe sobre o seu esporte preferido, Os gols da rodada, as últimas do seu time, o que é notícia no Brasil e no Mundo contado de forma dinâmica por Mariana Fontes.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118429_epg.jpg" />
+    <episode-num system="onscreen">S88 E266</episode-num>
+  </programme>
+  <programme start="20260923100000 -0300" stop="20260923121500 -0300" channel="SPORTV">
+    <title lang="pt">Redação sportv - Ao Vivo</title>
+    <desc lang="pt">Acompanhe as informações diárias sobre o esporte no Brasil e no mundo. Marcelo Barreto recebe jornalistas convidados no estúdio e conta com a participação de correspondentes internacionais.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000071216_epg.jpg" />
+    <episode-num system="onscreen">S80 E266</episode-num>
+  </programme>
+  <programme start="20260923121500 -0300" stop="20260923125500 -0300" channel="SPORTV">
+    <title lang="pt">Tá On - Ao Vivo</title>
+    <desc lang="pt">Confira o que está acontecendo nos esportes de maneira breve e bem humorada, esteja ligado nos memes, trends, e tudo sobre o sobre o esporte com Joana Assis.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118431_epg.jpg" />
+    <episode-num system="onscreen">S82 E266</episode-num>
+  </programme>
+  <programme start="20260923125500 -0300" stop="20260923153000 -0300" channel="SPORTV">
+    <title lang="pt">Seleção sportv - Ao Vivo</title>
+    <desc lang="pt">Os principais comentaristas da Globo e do sportv formam uma seleção de craques, recebidos por André Rizek para debater os assuntos que são notícia no mundo do futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118428_epg.jpg" />
+    <episode-num system="onscreen">S82 E266</episode-num>
+  </programme>
+  <programme start="20260923153000 -0300" stop="20260923160000 -0300" channel="SPORTV">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">Um pouquinho de cada Globo Esporte espalhado pelo Brasil. As principais histórias, notícias, num mosaico leve e informativo.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000070462_epg.jpg" />
+    <episode-num system="onscreen">S85 E266</episode-num>
+  </programme>
+  <programme start="20260923160000 -0300" stop="20260923170000 -0300" channel="SPORTV">
+    <title lang="pt">VT - São Paulo x Palmeiras</title>
+    <desc lang="pt">Acompanhe as emoções do Campeonato Brasileiro de Futebol Sub-17! Venha testemunhar as estrelas que será o futuro do futebol. Aqui no sportv.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543649_epg.jpg" />
+  </programme>
+  <programme start="20260923170000 -0300" stop="20260923173000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Corinthians x Fluminense</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543659_epg.jpg" />
+  </programme>
+  <programme start="20260923173000 -0300" stop="20260923200000 -0300" channel="SPORTV">
+    <title lang="pt">Tá na Área - Ao Vivo</title>
+    <desc lang="pt">Aproveite o finalzinho da tarde para relaxar e de maneira divertida fique por dentro de todos os assunto em alta do esporte com Igor Rodrigues e Camila Carelli.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118430_epg.jpg" />
+    <episode-num system="onscreen">S87 E266</episode-num>
+  </programme>
+  <programme start="20260923200000 -0300" stop="20260923203000 -0300" channel="SPORTV">
+    <title lang="pt">A Reinvenção do Palmeiras</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001456205_epg.jpg" />
+    <episode-num system="onscreen">S80 E1</episode-num>
+  </programme>
+  <programme start="20260923203000 -0300" stop="20260923210000 -0300" channel="SPORTV">
+    <title lang="pt">A Reinvenção do Palmeiras</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001456205_epg.jpg" />
+    <episode-num system="onscreen">S80 E2</episode-num>
+  </programme>
+  <programme start="20260923210000 -0300" stop="20260923213000 -0300" channel="SPORTV">
+    <title lang="pt">A Reinvenção do Palmeiras</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001456205_epg.jpg" />
+    <episode-num system="onscreen">S81 E3</episode-num>
+  </programme>
+  <programme start="20260923213000 -0300" stop="20260923220000 -0300" channel="SPORTV">
+    <title lang="pt">A Reinvenção do Palmeiras</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001456205_epg.jpg" />
+    <episode-num system="onscreen">S81 E4</episode-num>
+  </programme>
+  <programme start="20260923220000 -0300" stop="20260923233000 -0300" channel="SPORTV">
+    <title lang="pt">Troca de Passes - Ao Vivo</title>
+    <desc lang="pt">Felipe Diniz troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000071222_epg.jpg" />
+    <episode-num system="onscreen">S82 E266</episode-num>
+  </programme>
+  <programme start="20260923233000 -0300" stop="20260924000000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Flamengo x Bragantino</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543660_epg.jpg" />
+  </programme>
+  <programme start="20260924000000 -0300" stop="20260924003000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Vitória x Cruzeiro</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543665_epg.jpg" />
+  </programme>
+  <programme start="20260924003000 -0300" stop="20260924010000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Grêmio x Palmeiras</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543661_epg.jpg" />
+  </programme>
+  <programme start="20260924010000 -0300" stop="20260924020000 -0300" channel="SPORTV">
+    <title lang="pt">Copa do Mundo Feminina Sub-20 da FIFA 2026™</title>
+    <desc lang="pt">Pra quem ama futebol, chegou a vez delas! Tá na hora de acompanhar as seleções femininas em busca da taça. Tá na Seleção Feminina, tá no sportv.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001537451_epg.jpg" />
+  </programme>
+  <programme start="20260924020000 -0300" stop="20260924030000 -0300" channel="SPORTV">
+    <title lang="pt">VT - São Paulo x Flamengo</title>
+    <desc lang="pt">São Paulo e Flamengo jogam a rodada de volta da Semifinal do Campeonato Brasileiro Feminino, no Brinco de Ouro, em Campinas (SP).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543675_epg.jpg" />
+  </programme>
+  <programme start="20260924030000 -0300" stop="20260924033000 -0300" channel="SPORTV">
+    <title lang="pt">VT - São Paulo x Internacional</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543664_epg.jpg" />
+  </programme>
+  <programme start="20260924033000 -0300" stop="20260924040000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Athletico-PR x Bahia</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543657_epg.jpg" />
+  </programme>
+  <programme start="20260924040000 -0300" stop="20260924043000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Corinthians x Fluminense</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543659_epg.jpg" />
+  </programme>
+  <programme start="20260924043000 -0300" stop="20260924050000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Flamengo x Bragantino</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543660_epg.jpg" />
+  </programme>
+  <programme start="20260924050000 -0300" stop="20260924053000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Remo x Santos</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543663_epg.jpg" />
+  </programme>
+  <programme start="20260924053000 -0300" stop="20260924060000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Grêmio x Palmeiras</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543661_epg.jpg" />
+  </programme>
+  <programme start="20260924060000 -0300" stop="20260924063000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Vitória x Cruzeiro</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543665_epg.jpg" />
+  </programme>
+  <programme start="20260924063000 -0300" stop="20260924070000 -0300" channel="SPORTV">
+    <title lang="pt">VT - São Paulo x Internacional</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543664_epg.jpg" />
+  </programme>
+  <programme start="20260924070000 -0300" stop="20260924083000 -0300" channel="SPORTV">
+    <title lang="pt">Troca de Passes</title>
+    <desc lang="pt">Felipe Diniz troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000071222_epg.jpg" />
+    <episode-num system="onscreen">S87 E267</episode-num>
+  </programme>
+  <programme start="20260924083000 -0300" stop="20260924100000 -0300" channel="SPORTV">
+    <title lang="pt">sportv News - Ao Vivo</title>
+    <desc lang="pt">Inicie o dia atualizado com as noticias do mundo do esporte. Cada detalhe sobre o seu esporte preferido, Os gols da rodada, as últimas do seu time, o que é notícia no Brasil e no Mundo contado de forma dinâmica por Mariana Fontes.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118429_epg.jpg" />
+    <episode-num system="onscreen">S88 E267</episode-num>
+  </programme>
+  <programme start="20260924100000 -0300" stop="20260924121500 -0300" channel="SPORTV">
+    <title lang="pt">Redação sportv - Ao Vivo</title>
+    <desc lang="pt">Acompanhe as informações diárias sobre o esporte no Brasil e no mundo. Marcelo Barreto recebe jornalistas convidados no estúdio e conta com a participação de correspondentes internacionais.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000071216_epg.jpg" />
+    <episode-num system="onscreen">S80 E267</episode-num>
+  </programme>
+  <programme start="20260924121500 -0300" stop="20260924125500 -0300" channel="SPORTV">
+    <title lang="pt">Tá On - Ao Vivo</title>
+    <desc lang="pt">Confira o que está acontecendo nos esportes de maneira breve e bem humorada, esteja ligado nos memes, trends, e tudo sobre o sobre o esporte com Joana Assis.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118431_epg.jpg" />
+    <episode-num system="onscreen">S82 E267</episode-num>
+  </programme>
+  <programme start="20260924125500 -0300" stop="20260924150000 -0300" channel="SPORTV">
+    <title lang="pt">Seleção sportv - Ao Vivo</title>
+    <desc lang="pt">Os principais comentaristas da Globo e do sportv formam uma seleção de craques, recebidos por André Rizek para debater os assuntos que são notícia no mundo do futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118428_epg.jpg" />
+    <episode-num system="onscreen">S82 E267</episode-num>
+  </programme>
+  <programme start="20260924150000 -0300" stop="20260924174500 -0300" channel="SPORTV">
+    <title lang="pt">Portugal x País De Gales - Ao Vivo</title>
+    <desc lang="pt">Portugal e País De Gales jogam pela 1ª rodada da fase de grupos da Liga das Nações da UEFA, no José Alvalade, em Lisboa, Portugal.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543671_epg.jpg" />
+  </programme>
+  <programme start="20260924174500 -0300" stop="20260924190000 -0300" channel="SPORTV">
+    <title lang="pt">Tá na Área - Ao Vivo</title>
+    <desc lang="pt">Aproveite o finalzinho da tarde para relaxar e de maneira divertida fique por dentro de todos os assunto em alta do esporte com Igor Rodrigues e Camila Carelli.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118430_epg.jpg" />
+    <episode-num system="onscreen">S87 E267</episode-num>
+  </programme>
+  <programme start="20260924190000 -0300" stop="20260924193000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Corinthians x Fluminense</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543659_epg.jpg" />
+  </programme>
+  <programme start="20260924193000 -0300" stop="20260924200000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Flamengo x Bragantino</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543660_epg.jpg" />
+  </programme>
+  <programme start="20260924200000 -0300" stop="20260924210000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Portugal x País de Gales</title>
+    <desc lang="pt">As estrelas da Liga das Nações da UEFA tão de volta no sportv! Confira agora mais um jogão.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543669_epg.jpg" />
+  </programme>
+  <programme start="20260924210000 -0300" stop="20260924220000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Áustria x Israel</title>
+    <desc lang="pt">As estrelas da Liga das Nações da UEFA tão de volta no sportv! Confira agora mais um jogão.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543667_epg.jpg" />
+  </programme>
+  <programme start="20260924220000 -0300" stop="20260924233000 -0300" channel="SPORTV">
+    <title lang="pt">Troca de Passes - Ao Vivo</title>
+    <desc lang="pt">Felipe Diniz troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000071222_epg.jpg" />
+    <episode-num system="onscreen">S82 E267</episode-num>
+  </programme>
+  <programme start="20260924233000 -0300" stop="20260925003000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Portugal x País de Gales</title>
+    <desc lang="pt">As estrelas da Liga das Nações da UEFA tão de volta no sportv! Confira agora mais um jogão.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543669_epg.jpg" />
   </programme>
   <programme start="20260918000000 -0300" stop="20260918030000 -0300" channel="SportyNet + 1">
     <title lang="pt">Dia 19/09 - Maringá x Botafogo-PB</title>
