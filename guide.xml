@@ -13177,7 +13177,7 @@
     <desc lang="pt">Sinopse não disponível.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001477452_epg.jpg" />
   </programme>
-  <programme start="20260926170800 -0300" stop="20260926190600 -0300" channel="SportyNet HD">
+  <programme start="20260926165000 -0300" stop="20260926190000 -0300" channel="SportyNet HD">
     <title lang="pt">Floresta x Santa Cruz - Ao Vivo</title>
     <desc lang="pt">Floresta e Santa Cruz jogam pela 4ª rodada da 2ª fase do Campeonato Brasileiro, Série C, no Presidente Vargas, em Fortaleza (CE).</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001547041_epg.jpg" />
@@ -13187,7 +13187,7 @@
     <desc lang="pt">Sinopse não disponível.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001477452_epg.jpg" />
   </programme>
-  <programme start="20260926193900 -0300" stop="20260926213100 -0300" channel="SportyNet HD">
+  <programme start="20260926192000 -0300" stop="20260926213100 -0300" channel="SportyNet HD">
     <title lang="pt">Inter de Limeira x Paysandu - Ao Vivo</title>
     <desc lang="pt">Inter de Limeira e Paysandu jogam pela 4ª rodada da 2ª fase do Campeonato Brasileiro, Série C, no Major Levy Sobrinho, em Limeira (SP).</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001551375_epg.jpg" />
@@ -13198,15 +13198,10 @@
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001465650_epg.jpg" />
     <episode-num system="onscreen">S81 E269</episode-num>
   </programme>
-  <programme start="20260926223100 -0300" stop="20260927000000 -0300" channel="SportyNet HD">
+  <programme start="20260927000000 -0300" stop="20260927015500 -0300" channel="SportyNet HD">
     <title lang="pt">Santos Laguna x Pachuca - Ao Vivo</title>
     <desc lang="pt">Santos Laguna e Pachuca jogam pela 10ª rodada da fase Apertura da Liga MX, no TSM Corona, em Torreón, México.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001551376_epg.jpg" />
-  </programme>
-  <programme start="20260927000000 -0300" stop="20260927015500 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Floresta x Santa Cruz</title>
-    <desc lang="pt">Acompanhe os jogos mais emocionates da rodada do Campeonato Brasileiro da Série C.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001551345_epg.jpg" />
   </programme>
   <programme start="20260927015500 -0300" stop="20260927020100 -0300" channel="SportyNet HD">
     <title lang="pt">Filler</title>
@@ -13289,7 +13284,7 @@
     <desc lang="pt">Sinopse não disponível.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001477452_epg.jpg" />
   </programme>
-  <programme start="20260927160800 -0300" stop="20260927180600 -0300" channel="SportyNet HD">
+  <programme start="20260927155500 -0300" stop="20260927180600 -0300" channel="SportyNet HD">
     <title lang="pt">CRB x Cuiabá - Ao Vivo</title>
     <desc lang="pt">CRB e Cuiabá jogam pela 30ª rodada do Segundo Turno do Campeonato Brasileiro, Série B, no Rei Pelé, em Maceió (AL).</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001551374_epg.jpg" />
@@ -13299,7 +13294,7 @@
     <desc lang="pt">Sinopse não disponível.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001477452_epg.jpg" />
   </programme>
-  <programme start="20260927183800 -0300" stop="20260927203600 -0300" channel="SportyNet HD">
+  <programme start="20260927182000 -0300" stop="20260927203600 -0300" channel="SportyNet HD">
     <title lang="pt">Fortaleza x Athletic - Ao Vivo</title>
     <desc lang="pt">Fortaleza e Athletic Club jogam pela 30ª rodada do Segundo Turno do Campeonato Brasileiro, Série B, no Castelão, em Fortaleza (CE).</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001544652_epg.jpg" />
