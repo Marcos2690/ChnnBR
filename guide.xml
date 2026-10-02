@@ -13519,22 +13519,22 @@
       <value>1</value>
     </rating>
   </programme>
-  <programme start="20261003165200 -0300" stop="20261003170700 -0300" channel="SportyNet HD">
+  <programme start="20261003165200 -0300" stop="20261003165500 -0300" channel="SportyNet HD">
     <title lang="pt">Pré-Jogo - Ao Vivo</title>
     <desc lang="pt">Sinopse não disponível.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001477452_epg.jpg" />
   </programme>
-  <programme start="20261003170700 -0300" stop="20261003190500 -0300" channel="SportyNet HD">
+  <programme start="20261003165500 -0300" stop="20261003190500 -0300" channel="SportyNet HD">
     <title lang="pt">Santa Cruz x Maringá - Ao Vivo</title>
     <desc lang="pt">Santa Cruz e Maringá jogam pela 5ª rodada da 2ª fase do Campeonato Brasileiro, Série C, na Arena de Pernambuco, em São Lourenço da Mata (PE).</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001557368_epg.jpg" />
   </programme>
-  <programme start="20261003190500 -0300" stop="20261003193800 -0300" channel="SportyNet HD">
+  <programme start="20261003190500 -0300" stop="20261003192500 -0300" channel="SportyNet HD">
     <title lang="pt">Pré-Jogo - Ao Vivo</title>
     <desc lang="pt">Sinopse não disponível.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001477452_epg.jpg" />
   </programme>
-  <programme start="20261003193800 -0300" stop="20261003213600 -0300" channel="SportyNet HD">
+  <programme start="20261003192500 -0300" stop="20261003213600 -0300" channel="SportyNet HD">
     <title lang="pt">Paysandu x Ferroviária - Ao Vivo</title>
     <desc lang="pt">Paysandu e Ferroviária jogam pela 5ª rodada da 2ª fase do Campeonato Brasileiro, Série C, no Mangueirão, em Belém (PA).</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001557367_epg.jpg" />
