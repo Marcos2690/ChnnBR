@@ -882,10 +882,18 @@
     <desc lang="pt">Touchdowns, viradas espetaculares, jogadas que entram para a história e os melhores atletas em campo. A NFL reúne a elite do futebol americano.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001551467_epg.jpg" />
   </programme>
-  <programme start="20261008180000 -0300" stop="20261008210000 -0300" channel="ESPN 2">
-    <title lang="pt">MLB: Cleveland Guardians x Chicago White Sox - Ao Vivo</title>
-    <desc lang="pt">Os melhores jogadores do mundo protagonizam duelos épicos, e o time vencedor da World Series leva para casa o Commissioner's Trophy.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000597557_epg.jpg" />
+  <programme start="20261008180000 -0300" stop="20261008200000 -0300" channel="ESPN 2">
+    <title lang="pt">VT - WNBA: New York Liberty x Atlanta Dream</title>
+    <desc lang="pt">A WNBA é a mais importante liga de basquete feminino. É disputada nos Estados Unidos desde 1997, sempre apresentando grande equilíbrio e competitividade. As melhores atletas do mundo estão aqui.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001561790_epg.jpg" />
+  </programme>
+  <programme start="20261008200000 -0300" stop="20261008210000 -0300" channel="ESPN 2">
+    <title lang="pt">2026 Wimbledon Official Film</title>
+    <desc lang="pt">Disputado desde 1877, é o mais antigo torneio de tênis do mundo e o terceiro torneio Grand Slam da temporada.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001544676_epg.jpg" />
+    <rating system="BR">
+      <value>1</value>
+    </rating>
   </programme>
   <programme start="20261008210000 -0300" stop="20261008233000 -0300" channel="ESPN 2">
     <title lang="pt">VT - ATP 1000: Xangai</title>
@@ -1007,12 +1015,12 @@
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000072890_epg.jpg" />
     <episode-num system="onscreen">S86 E283</episode-num>
   </programme>
-  <programme start="20261010070000 -0300" stop="20261010080000 -0300" channel="ESPN 2">
+  <programme start="20261010070000 -0300" stop="20261010090000 -0300" channel="ESPN 2">
     <title lang="pt">ATP 1000: Xangai - Ao Vivo</title>
     <desc lang="pt">É a série mais importante do tênis masculino depois dos quatro Grand Slams. Os principais tenistas do mundo se enfrentam em nove torneios ao longo do ano na Europa, Ásia e América do Norte.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001551450_epg.jpg" />
   </programme>
-  <programme start="20261010080000 -0300" stop="20261010110000 -0300" channel="ESPN 2">
+  <programme start="20261010090000 -0300" stop="20261010110000 -0300" channel="ESPN 2">
     <title lang="pt">ATP 1000: Xangai - Ao Vivo</title>
     <desc lang="pt">É a série mais importante do tênis masculino depois dos quatro Grand Slams. Os principais tenistas do mundo se enfrentam em nove torneios ao longo do ano na Europa, Ásia e América do Norte.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001551450_epg.jpg" />
@@ -1025,7 +1033,7 @@
   <programme start="20261010113000 -0300" stop="20261010135500 -0300" channel="ESPN 2">
     <title lang="pt">VT - NBA: Pré-Temporada: Houston Rockets x Dallas Mavericks</title>
     <desc lang="pt">As estrelas do basquete mostram suas habilidades na melhor liga do mundo. Jogos incríveis com emoção garantida.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001551400_epg.jpg" />
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000597557_epg.jpg" />
   </programme>
   <programme start="20261010135500 -0300" stop="20261010155500 -0300" channel="ESPN 2">
     <title lang="pt">Marítimo x Porto - Ao Vivo</title>
@@ -1560,9 +1568,9 @@
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001381948_epg.jpg" />
   </programme>
   <programme start="20261008210000 -0300" stop="20261009000000 -0300" channel="ESPN 3">
-    <title lang="pt">MLB: Tampa Bay Rays x New York Yankees - Ao Vivo</title>
+    <title lang="pt">MLB: Cleveland Guardians x Chicago White Sox - Ao Vivo</title>
     <desc lang="pt">Os melhores jogadores do mundo protagonizam duelos épicos, e o time vencedor da World Series leva para casa o Commissioner's Trophy.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001564233_epg.jpg" />
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000597557_epg.jpg" />
   </programme>
   <programme start="20261009000000 -0300" stop="20261009003000 -0300" channel="ESPN 3">
     <title lang="pt">Sportscenter Americano - Ao Vivo</title>
@@ -1635,28 +1643,43 @@
     <desc lang="pt">Emoção até a última rodada! Acompanhe a disputa de 20 clubes para chegar à elite do futebol brasileiro! Todos os jogos com a transmissão e cobertura completa da ESPN.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001551477_epg.jpg" />
   </programme>
-  <programme start="20261009153000 -0300" stop="20261009173000 -0300" channel="ESPN 3">
+  <programme start="20261009153000 -0300" stop="20261009180000 -0300" channel="ESPN 3">
     <title lang="pt">VT - NBA: Pré-Temporada: Houston Rockets x Dallas Mavericks</title>
     <desc lang="pt">As estrelas do basquete mostram suas habilidades na melhor liga do mundo. Jogos incríveis com emoção garantida.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000597557_epg.jpg" />
   </programme>
-  <programme start="20261009173000 -0300" stop="20261009203000 -0300" channel="ESPN 3">
-    <title lang="pt">MLB: San Diego Padres x Milwaukee Brewers - Ao Vivo</title>
-    <desc lang="pt">Os melhores jogadores do mundo protagonizam duelos épicos, e o time vencedor da World Series leva para casa o Commissioner's Trophy.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000597557_epg.jpg" />
+  <programme start="20261009180000 -0300" stop="20261009184500 -0300" channel="ESPN 3">
+    <title lang="pt">Moto 3: GP da Indonésia: Treinos Livres</title>
+    <desc lang="pt">Sinta a adrenalina dos pilotos que cruzam a barreira do som em provas imperdíveis na MotoGP, a principal categoria de motovelocidade do mundo.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000107393_epg.jpg" />
+    <episode-num system="onscreen">S18 E282</episode-num>
+  </programme>
+  <programme start="20261009184500 -0300" stop="20261009194000 -0300" channel="ESPN 3">
+    <title lang="pt">Moto 2: GP da Indonésia: Treinos Livres</title>
+    <desc lang="pt">Sinta a adrenalina dos pilotos que cruzam a barreira do som em provas imperdíveis na MotoGP, a principal categoria de motovelocidade do mundo.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000107393_epg.jpg" />
+    <episode-num system="onscreen">S18 E282</episode-num>
+  </programme>
+  <programme start="20261009194000 -0300" stop="20261009203000 -0300" channel="ESPN 3">
+    <title lang="pt">MotoGP: GP da Indonésia: Treinos Livres</title>
+    <desc lang="pt">Sinta a adrenalina dos pilotos que cruzam a barreira do som em provas imperdíveis na MotoGP, a principal categoria de motovelocidade do mundo.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000107393_epg.jpg" />
+    <episode-num system="onscreen">S19 E282</episode-num>
   </programme>
   <programme start="20261009203000 -0300" stop="20261009210000 -0300" channel="ESPN 3">
     <title lang="pt">ATP Tour: This Week</title>
     <desc lang="pt">O ATP Uncovered apresenta em profundidade os perfis de diferentes tenistas, os melhores momentos dos torneios, entrevistas e inbstruções para você praticar o esporte no mais alto nível.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001080259_epg.jpg" />
   </programme>
-  <programme start="20261009210000 -0300" stop="20261010000000 -0300" channel="ESPN 3">
-    <title lang="pt">MLB: Atlanta Braves x Los Angeles Dodgers - Ao Vivo</title>
-    <desc lang="pt">Os melhores jogadores do mundo protagonizam duelos épicos, e o time vencedor da World Series leva para casa o Commissioner's Trophy.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000597557_epg.jpg" />
+  <programme start="20261009210000 -0300" stop="20261009220000 -0300" channel="ESPN 3">
+    <title lang="pt">VT - NFL: Atlanta Falcons x New Orleans Saints</title>
+    <desc lang="pt">Touchdowns, viradas espetaculares, jogadas que entram para a história e os melhores atletas em campo. A NFL reúne a elite do futebol americano.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001551467_epg.jpg" />
   </programme>
-  <programme start="20261010000000 -0300" stop="20261010010000 -0300" channel="ESPN 3">
-    <title lang="pt">Programação indisponível</title>
+  <programme start="20261009220000 -0300" stop="20261010010000 -0300" channel="ESPN 3">
+    <title lang="pt">ESPN Knockout: LFA 243 - Ao Vivo</title>
+    <desc lang="pt">O LFA 243 (Legacy Fighting Alliance) acontece no Kaiser Permanente Arena em California. A luta principal da noite será o combate entre o americano Nick Maximov e o brasileiro Wildemar Santos.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001551481_epg.jpg" />
   </programme>
   <programme start="20261010010000 -0300" stop="20261010020000 -0300" channel="ESPN 3">
     <title lang="pt">VT - NFL: Atlanta Falcons x New Orleans Saints</title>
@@ -1668,11 +1691,17 @@
     <desc lang="pt">Sinopse não disponível.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001446389_epg.jpg" />
   </programme>
-  <programme start="20261010021500 -0300" stop="20261010040000 -0300" channel="ESPN 3">
+  <programme start="20261010021500 -0300" stop="20261010031500 -0300" channel="ESPN 3">
     <title lang="pt">Sportscenter Americano com Scott Van Pelt - Ao Vivo</title>
     <desc lang="pt">Comandado por Scott Van Pelt, o SC Americano traz muito carisma e bom humor com as análises e cobertura mais completa das principais ligar que rolam nos Estados Unidos.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000072890_epg.jpg" />
     <episode-num system="onscreen">S82 E283</episode-num>
+  </programme>
+  <programme start="20261010031500 -0300" stop="20261010040000 -0300" channel="ESPN 3">
+    <title lang="pt">Sportscenter Americano com Scott Van Pelt</title>
+    <desc lang="pt">Comandado por Scott Van Pelt, o SC Americano traz muito carisma e bom humor com as análises e cobertura mais completa das principais ligar que rolam nos Estados Unidos.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000072890_epg.jpg" />
+    <episode-num system="onscreen">S83 E283</episode-num>
   </programme>
   <programme start="20261010040000 -0300" stop="20261010060000 -0300" channel="ESPN 3">
     <title lang="pt">VT - ATP 1000: Xangai</title>
@@ -1685,7 +1714,7 @@
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001551482_epg.jpg" />
   </programme>
   <programme start="20261010085500 -0300" stop="20261010095500 -0300" channel="ESPN 3">
-    <title lang="pt">Resenha</title>
+    <title lang="pt">Resenha: Willian</title>
     <desc lang="pt">Resenha com jogadores e ex-jogadores de futebol em um ambiente descontraído e cheio de histórias imperdíveis.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000077279_epg.jpg" />
     <episode-num system="onscreen">S88 E283</episode-num>
@@ -1717,21 +1746,21 @@
     <desc lang="pt">O ATP Uncovered apresenta em profundidade os perfis de diferentes tenistas, os melhores momentos dos torneios, entrevistas e inbstruções para você praticar o esporte no mais alto nível.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001080259_epg.jpg" />
   </programme>
-  <programme start="20261010170000 -0300" stop="20261010200000 -0300" channel="ESPN 3">
-    <title lang="pt">MLB: Série Divisional: Liga Americana - Ao Vivo</title>
-    <desc lang="pt">Os melhores jogadores do mundo protagonizam duelos épicos, e o time vencedor da World Series leva para casa o Commissioner's Trophy.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001039820_epg.jpg" />
-  </programme>
-  <programme start="20261010200000 -0300" stop="20261010210000 -0300" channel="ESPN 3">
+  <programme start="20261010170000 -0300" stop="20261010180000 -0300" channel="ESPN 3">
     <title lang="pt">Moto 2: GP da Indonésia: Classificação</title>
     <desc lang="pt">Sinta a adrenalina dos pilotos que cruzam a barreira do som em provas imperdíveis na MotoGP, a principal categoria de motovelocidade do mundo.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000107393_epg.jpg" />
-    <episode-num system="onscreen">S20 E283</episode-num>
+    <episode-num system="onscreen">S17 E283</episode-num>
+  </programme>
+  <programme start="20261010180000 -0300" stop="20261010210000 -0300" channel="ESPN 3">
+    <title lang="pt">VT - ATP 1000: Xangai</title>
+    <desc lang="pt">É a série mais importante do tênis masculino depois dos quatro Grand Slams. Os principais tenistas do mundo se enfrentam em nove torneios ao longo do ano na Europa, Ásia e América do Norte.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001551451_epg.jpg" />
   </programme>
   <programme start="20261010210000 -0300" stop="20261011000000 -0300" channel="ESPN 3">
-    <title lang="pt">MLB: Série Divisional: Liga Americana - Ao Vivo</title>
+    <title lang="pt">MLB: Chicago White Sox x Cleveland Guardians - Ao Vivo</title>
     <desc lang="pt">Os melhores jogadores do mundo protagonizam duelos épicos, e o time vencedor da World Series leva para casa o Commissioner's Trophy.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001039820_epg.jpg" />
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000597557_epg.jpg" />
   </programme>
   <programme start="20261011000000 -0300" stop="20261011023000 -0300" channel="ESPN 3">
     <title lang="pt">Kansas x Utah - Ao Vivo</title>
@@ -10714,32 +10743,39 @@
     <desc lang="pt">Acompanhe a Diamond League, uma das principais competições de atletismo com grandes nomes do esporte.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001502086_epg.jpg" />
   </programme>
-  <programme start="20261008070000 -0300" stop="20261008080000 -0300" channel="SPORTV 3">
+  <programme start="20261008070000 -0300" stop="20261008073000 -0300" channel="SPORTV 3">
+    <title lang="pt">Lendas - Usain Bolt</title>
+    <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do Brasil e do mundo.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000103397_epg.jpg" />
+    <episode-num system="onscreen">S87 E281</episode-num>
+  </programme>
+  <programme start="20261008073000 -0300" stop="20261008080500 -0300" channel="SPORTV 3">
+    <title lang="pt">Vozes - Galvão Bueno - Ouros Olímpicos</title>
+    <desc lang="pt">Neste episódio do Vozes, do Baú do Esporte, Galvão Bueno se recorda de cada uma das 7 medalhas de ouro olímpicas brasileiras que narrou em sua carreira, destacando ainda um momento especial envolvendo o atleta olímpico.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118447_epg.jpg" />
+    <episode-num system="onscreen">S87 E281</episode-num>
+  </programme>
+  <programme start="20261008080500 -0300" stop="20261008084500 -0300" channel="SPORTV 3">
     <title lang="pt">Tênis de Mesa - Oitavas de Final - China - Ao Vivo</title>
     <desc lang="pt">Aqui no sportv você confere todas as emoções do Circuito Mundial de Tênis de Mesa.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001560234_epg.jpg" />
   </programme>
-  <programme start="20261008080000 -0300" stop="20261008090000 -0300" channel="SPORTV 3">
+  <programme start="20261008084500 -0300" stop="20261008092000 -0300" channel="SPORTV 3">
     <title lang="pt">Tênis de Mesa - Oitavas de Final - China - Ao Vivo</title>
     <desc lang="pt">Aqui no sportv você confere todas as emoções do Circuito Mundial de Tênis de Mesa.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001560234_epg.jpg" />
   </programme>
-  <programme start="20261008090000 -0300" stop="20261008100000 -0300" channel="SPORTV 3">
-    <title lang="pt">Tênis de Mesa - Oitavas de Final - China - Ao Vivo</title>
-    <desc lang="pt">Aqui no sportv você confere todas as emoções do Circuito Mundial de Tênis de Mesa.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001560234_epg.jpg" />
-  </programme>
-  <programme start="20261008100000 -0300" stop="20261008102500 -0300" channel="SPORTV 3">
-    <title lang="pt">Olheiros Olímpicos</title>
-    <desc lang="pt">Mini-programa com os principais destaques da programação do SporTV.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118453_epg.jpg" />
-    <episode-num system="onscreen">S80 E1</episode-num>
-  </programme>
-  <programme start="20261008102500 -0300" stop="20261008105000 -0300" channel="SPORTV 3">
-    <title lang="pt">Momentos Olímpicos Inesquecíveis - Pequim 2008</title>
+  <programme start="20261008092000 -0300" stop="20261008095000 -0300" channel="SPORTV 3">
+    <title lang="pt">Land Of Legends - Supremacia No Esporte</title>
+    <sub-title lang="pt">Tênis De Mesa Na China</sub-title>
     <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118533_epg.jpg" />
-    <episode-num system="onscreen">S80 E281</episode-num>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118443_epg.jpg" />
+    <episode-num system="onscreen">S89 E1</episode-num>
+  </programme>
+  <programme start="20261008095000 -0300" stop="20261008105000 -0300" channel="SPORTV 3">
+    <title lang="pt">Fórmula 1 - GP da Bélgica - Melhores Momentos</title>
+    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001484875_epg.jpg" />
   </programme>
   <programme start="20261008105000 -0300" stop="20261008123000 -0300" channel="SPORTV 3">
     <title lang="pt">Mundial de Judô: Finais - Baku, Azerbaijão - Ao Vivo</title>
@@ -10770,127 +10806,140 @@
     <desc lang="pt">É tênis de alto nível pela primeira vez na maior cidade das américas.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543709_epg.jpg" />
   </programme>
-  <programme start="20261008173000 -0300" stop="20261008193000 -0300" channel="SPORTV 3">
+  <programme start="20261008173000 -0300" stop="20261008192000 -0300" channel="SPORTV 3">
     <title lang="pt">Fórmula 1 - GP do Bahrein</title>
     <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001558645_epg.jpg" />
   </programme>
-  <programme start="20261008193000 -0300" stop="20261008213000 -0300" channel="SPORTV 3">
+  <programme start="20261008192000 -0300" stop="20261008194000 -0300" channel="SPORTV 3">
+    <title lang="pt">Vitórias Para Sempre Senna Donington Park 1993 (GP da Europa)</title>
+    <desc lang="pt">A maior primeira volta de um piloto de F1 teve Ayrton Senna como protagonista e abriu uma vitória incontestável em Donington Park, na Inglaterra. Era o GP da Europa de 1993, terceira prova da temporada.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001446560_epg.jpg" />
+  </programme>
+  <programme start="20261008194000 -0300" stop="20261008212500 -0300" channel="SPORTV 3">
     <title lang="pt">Fórmula 1 - GP do Azerbaijão</title>
     <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001551932_epg.jpg" />
   </programme>
-  <programme start="20261008213000 -0300" stop="20261008233000 -0300" channel="SPORTV 3">
+  <programme start="20261008212500 -0300" stop="20261008232500 -0300" channel="SPORTV 3">
     <title lang="pt">Diamond League - 15ª Etapa - Dia 1 - Bruxelas, Bélgica</title>
     <desc lang="pt">Acompanhe a Diamond League, uma das principais competições de atletismo com grandes nomes do esporte.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001531088_epg.jpg" />
   </programme>
-  <programme start="20261008233000 -0300" stop="20261009010000 -0300" channel="SPORTV 3">
+  <programme start="20261008232500 -0300" stop="20261009013500 -0300" channel="SPORTV 3">
     <title lang="pt">Diamond League - 15ª Etapa - Dia 2 - Bruxelas, Bélgica</title>
     <desc lang="pt">Acompanhe a Diamond League, uma das principais competições de atletismo com grandes nomes do esporte.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001531542_epg.jpg" />
   </programme>
-  <programme start="20261009010000 -0300" stop="20261009020000 -0300" channel="SPORTV 3">
-    <title lang="pt">Fórmula 1 - GP do Canadá - Melhores Momentos</title>
-    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001454020_epg.jpg" />
+  <programme start="20261009013500 -0300" stop="20261009022500 -0300" channel="SPORTV 3">
+    <title lang="pt">Faixa Olímpica: Especial Atletismo</title>
+    <desc lang="pt">Conheça a mulher mais pesada a completar uma maratona e outras histórias inspiradoras de corredores amadores.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118722_epg.jpg" />
+    <episode-num system="onscreen">S81 E2</episode-num>
   </programme>
-  <programme start="20261009020000 -0300" stop="20261009040000 -0300" channel="SPORTV 3">
-    <title lang="pt">Fórmula 1 - GP do Azerbaijão</title>
-    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001551932_epg.jpg" />
-  </programme>
-  <programme start="20261009040000 -0300" stop="20261009053000 -0300" channel="SPORTV 3">
-    <title lang="pt">Surfe - Melhores Momentos - Etapa de Trestles</title>
-    <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001552558_epg.jpg" />
-  </programme>
-  <programme start="20261009053000 -0300" stop="20261009075500 -0300" channel="SPORTV 3">
-    <title lang="pt">Fórmula 1 - GP de Singapura - Treino Livre 1 - Ao Vivo</title>
-    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001563232_epg.jpg" />
-  </programme>
-  <programme start="20261009075500 -0300" stop="20261009082500 -0300" channel="SPORTV 3">
-    <title lang="pt">A Onda</title>
-    <desc lang="pt">Desde o seu surgimento, o surfe foi um esporte voltado para a competição. Em 2021, o esporte viveu um de seus momentos mais especiais, o surfe se tornou uma modalidade olímpica.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000113244_epg.jpg" />
-    <episode-num system="onscreen">S7 E1</episode-num>
-    <rating system="BR">
-      <value>1</value>
-    </rating>
-  </programme>
-  <programme start="20261009082500 -0300" stop="20261009093000 -0300" channel="SPORTV 3">
-    <title lang="pt">Faixa Olímpica: Especial Judô</title>
-    <desc lang="pt">Prepare-se para o reviver o clima olímpico com essa seleção especial de competições!</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000095780_epg.jpg" />
-    <episode-num system="onscreen">S8 E282</episode-num>
-  </programme>
-  <programme start="20261009093000 -0300" stop="20261009105000 -0300" channel="SPORTV 3">
-    <title lang="pt">Fórmula 1 - GP de Singapura - Classificação Sprint - Ao Vivo</title>
-    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001563233_epg.jpg" />
-  </programme>
-  <programme start="20261009105000 -0300" stop="20261009123000 -0300" channel="SPORTV 3">
-    <title lang="pt">Mundial de Judô: Finais - Baku, Azerbaijão - Ao Vivo</title>
-    <desc lang="pt">Os melhores judocas do planeta estão prontos para o tatame! A elite global da modalidade se enfrenta em disputas de altíssimo nível, onde técnica, ippon e estratégia definem quem veste a medalha de ouro.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001558651_epg.jpg" />
-  </programme>
-  <programme start="20261009123000 -0300" stop="20261009130000 -0300" channel="SPORTV 3">
-    <title lang="pt">Lendas - Ayrton Senna</title>
-    <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do Brasil e do mundo.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118542_epg.jpg" />
-    <episode-num system="onscreen">S82 E282</episode-num>
-  </programme>
-  <programme start="20261009130000 -0300" stop="20261009150000 -0300" channel="SPORTV 3">
+  <programme start="20261009022500 -0300" stop="20261009041500 -0300" channel="SPORTV 3">
     <title lang="pt">Fórmula 1 - GP do Bahrein</title>
     <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001558645_epg.jpg" />
   </programme>
-  <programme start="20261009150000 -0300" stop="20261009153000 -0300" channel="SPORTV 3">
-    <title lang="pt">Lendas - Garrincha</title>
+  <programme start="20261009041500 -0300" stop="20261009051500 -0300" channel="SPORTV 3">
+    <title lang="pt">Fórmula 1 - GP de Mônaco - Melhores Momentos</title>
+    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001464049_epg.jpg" />
+  </programme>
+  <programme start="20261009051500 -0300" stop="20261009063000 -0300" channel="SPORTV 3">
+    <title lang="pt">Fórmula 1 - GP de Singapura - Treino Livre 1 - Ao Vivo</title>
+    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001563232_epg.jpg" />
+  </programme>
+  <programme start="20261009063000 -0300" stop="20261009083000 -0300" channel="SPORTV 3">
+    <title lang="pt">Fórmula 1 - GP do Azerbaijão</title>
+    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001551932_epg.jpg" />
+  </programme>
+  <programme start="20261009083000 -0300" stop="20261009090000 -0300" channel="SPORTV 3">
+    <title lang="pt">Lendas - Ayrton Senna</title>
     <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do Brasil e do mundo.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000103397_epg.jpg" />
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118542_epg.jpg" />
+    <episode-num system="onscreen">S88 E282</episode-num>
+  </programme>
+  <programme start="20261009090000 -0300" stop="20261009103000 -0300" channel="SPORTV 3">
+    <title lang="pt">Fórmula 1 - GP de Singapura - Classificação Sprint - Ao Vivo</title>
+    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001563233_epg.jpg" />
+  </programme>
+  <programme start="20261009103000 -0300" stop="20261009125000 -0300" channel="SPORTV 3">
+    <title lang="pt">Al Kholood x Al Qadsiah - Ao Vivo</title>
+    <desc lang="pt">Al Kholood e Al Qadsiah jogam pela 8ª rodada do Primeiro Turno da Campeonato Liga Saudita, no Al-Hazem Club Stadium, em Ar Rass, Arábia Saudita.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001560268_epg.jpg" />
+  </programme>
+  <programme start="20261009125000 -0300" stop="20261009132000 -0300" channel="SPORTV 3">
+    <title lang="pt">Jogos Para Sempre: Gerson - Brasil x Itália - 1970</title>
+    <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do Brasil e do mundo.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000106958_epg.jpg" />
+    <episode-num system="onscreen">S82 E282</episode-num>
+  </programme>
+  <programme start="20261009132000 -0300" stop="20261009142000 -0300" channel="SPORTV 3">
+    <title lang="pt">Fórmula 1 - GP de Singapura - Treino Livre 1</title>
+    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001456205_epg.jpg" />
+  </programme>
+  <programme start="20261009142000 -0300" stop="20261009152500 -0300" channel="SPORTV 3">
+    <title lang="pt">Fórmula 1 - GP de Singapura - Classificação Sprint</title>
+    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001456205_epg.jpg" />
+  </programme>
+  <programme start="20261009152500 -0300" stop="20261009155500 -0300" channel="SPORTV 3">
+    <title lang="pt">Lendas - Ayrton Senna</title>
+    <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do Brasil e do mundo.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118542_epg.jpg" />
     <episode-num system="onscreen">S85 E282</episode-num>
   </programme>
-  <programme start="20261009153000 -0300" stop="20261009174500 -0300" channel="SPORTV 3">
-    <title lang="pt">Liechtenstein x Gibraltar - Ao Vivo</title>
-    <desc lang="pt">Liechtenstein e Gibraltar jogam o Amistoso Internacional, no Rheinpark Stadion, em Vaduz, Liechtenstein.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001558650_epg.jpg" />
-  </programme>
-  <programme start="20261009174500 -0300" stop="20261009193000 -0300" channel="SPORTV 3">
-    <title lang="pt">Campeonato Sul-Americano de Futsal Sub-20</title>
-    <desc lang="pt">As principais seleções da América do Sul entram em quadra em busca do título no Sul-Americano de Futsal Sub-20.</desc>
+  <programme start="20261009155500 -0300" stop="20261009170000 -0300" channel="SPORTV 3">
+    <title lang="pt">Vitória x São Paulo - Ao Vivo</title>
+    <desc lang="pt">Vitória e São Paulo jogam pela 6ª rodada da 1ª fase da Liga Nacional de Futevôlei, na Arena Copacabana, no Rio de Janeiro (RJ).</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001456205_epg.jpg" />
   </programme>
-  <programme start="20261009193000 -0300" stop="20261009195000 -0300" channel="SPORTV 3">
-    <title lang="pt">Heróis do Futuro: Vitória Rosa - Atletismo</title>
-    <desc lang="pt">As futuras estrelas mirins do esporte, virtuosos e dedicados fenômenos espalhados pelo Brasil, serão colocados lado a lado daqueles que são seus maiores ídolos.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000114942_epg.jpg" />
-    <episode-num system="onscreen">S5 E193</episode-num>
-    <rating system="BR">
-      <value>1</value>
-    </rating>
+  <programme start="20261009170000 -0300" stop="20261009180000 -0300" channel="SPORTV 3">
+    <title lang="pt">Sport x Goiás - Ao Vivo</title>
+    <desc lang="pt">Sport e Goiás jogam pela 6ª rodada da 1ª fase da Liga Nacional de Futevôlei, na Arena Copacabana, no Rio de Janeiro (RJ).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001456205_epg.jpg" />
   </programme>
-  <programme start="20261009195000 -0300" stop="20261009215500 -0300" channel="SPORTV 3">
-    <title lang="pt">Diamond League - 15ª Etapa - Dia 1 - Bruxelas, Bélgica</title>
-    <desc lang="pt">Acompanhe a Diamond League, uma das principais competições de atletismo com grandes nomes do esporte.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001531088_epg.jpg" />
+  <programme start="20261009180000 -0300" stop="20261009190000 -0300" channel="SPORTV 3">
+    <title lang="pt">Santos x Internacional - Ao Vivo</title>
+    <desc lang="pt">Santos e Internacional jogam pela 6ª rodada da 1ª fase da Liga Nacional de Futevôlei, na Arena Copacabana, no Rio de Janeiro (RJ).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001456205_epg.jpg" />
   </programme>
-  <programme start="20261009215500 -0300" stop="20261010000000 -0300" channel="SPORTV 3">
-    <title lang="pt">One Fight Night 48</title>
-    <desc lang="pt">O One Fight Night traz grandes combates e alguns dos principais nomes do MMA mundial em mais uma noite eletrizante de lutas.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001558648_epg.jpg" />
+  <programme start="20261009190000 -0300" stop="20261009200000 -0300" channel="SPORTV 3">
+    <title lang="pt">Vasco x Cruzeiro - Ao Vivo</title>
+    <desc lang="pt">Vasco e Cruzeiro jogam pela 6ª rodada da 1ª fase da Liga Nacional de Futevôlei, na Arena Copacabana, no Rio de Janeiro (RJ).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001456205_epg.jpg" />
   </programme>
-  <programme start="20261010000000 -0300" stop="20261010010000 -0300" channel="SPORTV 3">
-    <title lang="pt">Fórmula 1 - GP do Bahrein - Treino Livre 2</title>
+  <programme start="20261009200000 -0300" stop="20261009210000 -0300" channel="SPORTV 3">
+    <title lang="pt">Coritiba x Botafogo - Ao Vivo</title>
+    <desc lang="pt">Coritiba e Botafogo jogam pela 6ª rodada da 1ª fase da Liga Nacional de Futevôlei, na Arena Copacabana, no Rio de Janeiro (RJ).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001456205_epg.jpg" />
+  </programme>
+  <programme start="20261009210000 -0300" stop="20261009220000 -0300" channel="SPORTV 3">
+    <title lang="pt">Atlético-MG x Bahia - Ao Vivo</title>
+    <desc lang="pt">Atlético-MG e Bahia jogam pela 6ª rodada da 1ª fase da Liga Nacional de Futevôlei, na Arena Copacabana, no Rio de Janeiro (RJ).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001456205_epg.jpg" />
+  </programme>
+  <programme start="20261009220000 -0300" stop="20261009223000 -0300" channel="SPORTV 3">
+    <title lang="pt">My Olympic Moment - Meu Momento Olímpico</title>
+    <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118455_epg.jpg" />
+    <episode-num system="onscreen">S82 E2</episode-num>
+  </programme>
+  <programme start="20261009223000 -0300" stop="20261009233000 -0300" channel="SPORTV 3">
+    <title lang="pt">Fórmula 1 - GP de Mônaco - Melhores Momentos</title>
+    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada. Tá na Fórmula 1, ta no sportv!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001464049_epg.jpg" />
+  </programme>
+  <programme start="20261009233000 -0300" stop="20261010011500 -0300" channel="SPORTV 3">
+    <title lang="pt">Fórmula 1 - GP do Azerbaijão</title>
     <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001556832_epg.jpg" />
-  </programme>
-  <programme start="20261010010000 -0300" stop="20261010011500 -0300" channel="SPORTV 3">
-    <title lang="pt">Zebras - Senna - Gp de Mônaco 1984</title>
-    <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do Brasil e do mundo.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001456205_epg.jpg" />
-    <episode-num system="onscreen">S81 E283</episode-num>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001551932_epg.jpg" />
   </programme>
   <programme start="20261010011500 -0300" stop="20261010023000 -0300" channel="SPORTV 3">
     <title lang="pt">Programação sportv 3</title>
@@ -11345,43 +11394,38 @@
     <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001558645_epg.jpg" />
   </programme>
-  <programme start="20261007230000 -0300" stop="20261008010000 -0300" channel="SPORTV 2">
+  <programme start="20261007230000 -0300" stop="20261008005500 -0300" channel="SPORTV 2">
     <title lang="pt">VT - Suzano x São José</title>
     <desc lang="pt">Talento, emoção e rivalidade em quadra. Acompanhe o Paulista de vôlei.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001564229_epg.jpg" />
   </programme>
-  <programme start="20261008010000 -0300" stop="20261008020000 -0300" channel="SPORTV 2">
-    <title lang="pt">Tênis de Mesa - Oitavas de Final - China - Ao Vivo</title>
-    <desc lang="pt">Aqui no sportv você confere todas as emoções do Circuito Mundial de Tênis de Mesa.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001560234_epg.jpg" />
-  </programme>
-  <programme start="20261008020000 -0300" stop="20261008030000 -0300" channel="SPORTV 2">
-    <title lang="pt">Tênis de Mesa - Oitavas de Final - China - Ao Vivo</title>
-    <desc lang="pt">Aqui no sportv você confere todas as emoções do Circuito Mundial de Tênis de Mesa.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001560234_epg.jpg" />
-  </programme>
-  <programme start="20261008030000 -0300" stop="20261008050000 -0300" channel="SPORTV 2">
-    <title lang="pt">VT - Osasco x Pinheiros</title>
-    <desc lang="pt">Talento, emoção e rivalidade em quadra. Acompanhe o Paulista de vôlei.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001562742_epg.jpg" />
-  </programme>
-  <programme start="20261008050000 -0300" stop="20261008070000 -0300" channel="SPORTV 2">
+  <programme start="20261008005500 -0300" stop="20261008024500 -0300" channel="SPORTV 2">
     <title lang="pt">VT - Sesi-Bauru x São Caetano</title>
     <desc lang="pt">Talento, emoção e rivalidade em quadra. Acompanhe o Paulista de vôlei.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001562743_epg.jpg" />
   </programme>
-  <programme start="20261008070000 -0300" stop="20261008085000 -0300" channel="SPORTV 2">
-    <title lang="pt">VT - Suzano x São José</title>
+  <programme start="20261008024500 -0300" stop="20261008051500 -0300" channel="SPORTV 2">
+    <title lang="pt">VT - Osasco x Pinheiros</title>
     <desc lang="pt">Talento, emoção e rivalidade em quadra. Acompanhe o Paulista de vôlei.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001564229_epg.jpg" />
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001562742_epg.jpg" />
   </programme>
-  <programme start="20261008085000 -0300" stop="20261008092500 -0300" channel="SPORTV 2">
+  <programme start="20261008051500 -0300" stop="20261008070000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT - Sesi-Bauru x São Caetano</title>
+    <desc lang="pt">Talento, emoção e rivalidade em quadra. Acompanhe o Paulista de vôlei.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001562743_epg.jpg" />
+  </programme>
+  <programme start="20261008070000 -0300" stop="20261008090000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT - Itaquá x Campinas</title>
+    <desc lang="pt">Talento, emoção e rivalidade em quadra. Acompanhe o Paulista de vôlei.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001564227_epg.jpg" />
+  </programme>
+  <programme start="20261008090000 -0300" stop="20261008095000 -0300" channel="SPORTV 2">
     <title lang="pt">Sem Bloqueio</title>
     <desc lang="pt">O Sem Bloqueio acompanha os bastidores da Seleção Feminina de Vôlei desde a Liga das Nações até a preparação para o mundial. Acompanhe mais um episódio, aqui no Sportv!</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000109724_epg.jpg" />
-    <episode-num system="onscreen">S88 E1</episode-num>
+    <episode-num system="onscreen">S89 E1</episode-num>
   </programme>
-  <programme start="20261008092500 -0300" stop="20261008120000 -0300" channel="SPORTV 2">
+  <programme start="20261008095000 -0300" stop="20261008120000 -0300" channel="SPORTV 2">
     <title lang="pt">Copa do Mundo de Natação: Tashkent, Uzbequistão - Ao Vivo</title>
     <desc lang="pt">A Copa do Mundo de Natação chegou no sportv! Venha assistir aos maiores nadadores do mundo em busca do ouro aqui no sportv.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001562747_epg.jpg" />
@@ -11447,10 +11491,17 @@
     <desc lang="pt">Aqui no sportv você confere todas as emoções do Circuito Mundial de Tênis de Mesa.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001562740_epg.jpg" />
   </programme>
-  <programme start="20261009030000 -0300" stop="20261009060000 -0300" channel="SPORTV 2">
+  <programme start="20261009030000 -0300" stop="20261009053500 -0300" channel="SPORTV 2">
     <title lang="pt">NFL: Detroit Lions x Carolina Panthers</title>
     <desc lang="pt">Detroit Lions e Carolina Panthers jogam pela 4ª rodada da fase Regular da NFL, no Bank of America Stadium, em Charlotte, EUA.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001560239_epg.jpg" />
+  </programme>
+  <programme start="20261009053500 -0300" stop="20261009060000 -0300" channel="SPORTV 2">
+    <title lang="pt">Land Of Legends - Supremacia No Esporte</title>
+    <sub-title lang="pt">Tênis De Mesa Na China</sub-title>
+    <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118443_epg.jpg" />
+    <episode-num system="onscreen">S85 E1</episode-num>
   </programme>
   <programme start="20261009060000 -0300" stop="20261009070000 -0300" channel="SPORTV 2">
     <title lang="pt">Tênis de Mesa - Quartas de Final - China - Ao Vivo</title>
@@ -11501,9 +11552,9 @@
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001562756_epg.jpg" />
   </programme>
   <programme start="20261009210000 -0300" stop="20261009233000 -0300" channel="SPORTV 2">
-    <title lang="pt">Campeonato Paulista Feminino de Vôlei - Ao Vivo</title>
+    <title lang="pt">Osasco x Sesi-Bauru - Ao Vivo</title>
     <desc lang="pt">Talento, emoção e rivalidade em quadra. Acompanhe o Paulista de vôlei.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001562751_epg.jpg" />
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001456205_epg.jpg" />
   </programme>
   <programme start="20261009233000 -0300" stop="20261010003000 -0300" channel="SPORTV 2">
     <title lang="pt">Hello L.A</title>
@@ -12010,13 +12061,13 @@
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118428_epg.jpg" />
     <episode-num system="onscreen">S82 E281</episode-num>
   </programme>
-  <programme start="20261008153000 -0300" stop="20261008161500 -0300" channel="SPORTV">
+  <programme start="20261008153000 -0300" stop="20261008160000 -0300" channel="SPORTV">
     <title lang="pt">Globo Esporte</title>
     <desc lang="pt">Um pouquinho de cada Globo Esporte espalhado pelo Brasil. As principais histórias, notícias, num mosaico leve e informativo.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000070462_epg.jpg" />
     <episode-num system="onscreen">S85 E281</episode-num>
   </programme>
-  <programme start="20261008161500 -0300" stop="20261008183000 -0300" channel="SPORTV">
+  <programme start="20261008160000 -0300" stop="20261008183000 -0300" channel="SPORTV">
     <title lang="pt">Flamengo x Vasco - Ao Vivo</title>
     <desc lang="pt">Flamengo e Vasco enfrentam-se na 2ª fase do Copa do Brasil Sub-20, no Luso-Brasileiro, no Rio de Janeiro (RJ).</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001555820_epg.jpg" />
