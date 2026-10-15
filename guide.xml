@@ -10925,17 +10925,17 @@
     <desc lang="pt">Acompanhe a Diamond League, uma das principais competições de atletismo com grandes nomes do esporte.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001531542_epg.jpg" />
   </programme>
-  <programme start="20261015071000 -0300" stop="20261015091500 -0300" channel="SPORTV 3">
+  <programme start="20261015071000 -0300" stop="20261015091000 -0300" channel="SPORTV 3">
     <title lang="pt">Surfe - Melhores Momentos - Etapa de Trestles</title>
     <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001552558_epg.jpg" />
   </programme>
-  <programme start="20261015091500 -0300" stop="20261015111500 -0300" channel="SPORTV 3">
+  <programme start="20261015091000 -0300" stop="20261015111000 -0300" channel="SPORTV 3">
     <title lang="pt">Surfe - Melhores Momentos - Etapa de Trestles</title>
     <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001552558_epg.jpg" />
   </programme>
-  <programme start="20261015111500 -0300" stop="20261015131000 -0300" channel="SPORTV 3">
+  <programme start="20261015111000 -0300" stop="20261015131000 -0300" channel="SPORTV 3">
     <title lang="pt">Surfe - Melhores Momentos - Etapa de Trestles</title>
     <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001552558_epg.jpg" />
@@ -10972,9 +10972,9 @@
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001566843_epg.jpg" />
   </programme>
   <programme start="20261015230000 -0300" stop="20261016010000 -0300" channel="SPORTV 3">
-    <title lang="pt">Challenger Series - Melhores Momentos</title>
+    <title lang="pt">Surfe - Melhores Momentos - Etapa de Trestles</title>
     <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001456205_epg.jpg" />
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001552558_epg.jpg" />
   </programme>
   <programme start="20261016010000 -0300" stop="20261016030000 -0300" channel="SPORTV 3">
     <title lang="pt">Surfe - Melhores Momentos - Etapa de Trestles</title>
@@ -11029,19 +11029,18 @@
   <programme start="20261016202500 -0300" stop="20261016223000 -0300" channel="SPORTV 3">
     <title lang="pt">Cabo Verde x Indonésia - Ao Vivo</title>
     <desc lang="pt">Velocidade, talento e paixão em quadra. Acompanhe a Copa das Nações masculina de Futsal!</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001456205_epg.jpg" />
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001570669_epg.jpg" />
   </programme>
-  <programme start="20261016223000 -0300" stop="20261017002500 -0300" channel="SPORTV 3">
+  <programme start="20261016223000 -0300" stop="20261016231500 -0300" channel="SPORTV 3">
     <title lang="pt">Artilheiros - Zico</title>
     <desc lang="pt">Zico e o Clube de Regatas do Flamengo se confundem. O Galinho de Quintino virou lenda com técnica e liderança, conquistou o mundo e se tornou símbolo eterno do futebol brasileiro.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118437_epg.jpg" />
     <episode-num system="onscreen">S82 E289</episode-num>
   </programme>
-  <programme start="20261017002500 -0300" stop="20261017004000 -0300" channel="SPORTV 3">
-    <title lang="pt">Zebras - Senna - Gp de Mônaco 1984</title>
-    <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do Brasil e do mundo.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001456205_epg.jpg" />
-    <episode-num system="onscreen">S80 E290</episode-num>
+  <programme start="20261016231500 -0300" stop="20261017004000 -0300" channel="SPORTV 3">
+    <title lang="pt">Surfe - Melhores Momentos - Etapa de Saquarema</title>
+    <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001469195_epg.jpg" />
   </programme>
   <programme start="20261017004000 -0300" stop="20261017023500 -0300" channel="SPORTV 3">
     <title lang="pt">Fórmula 1 - GP do Bahrein</title>
@@ -11474,179 +11473,130 @@
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001566375_epg.jpg" />
   </programme>
   <programme start="20261015003000 -0300" stop="20261015010000 -0300" channel="SPORTV 2">
-    <title lang="pt">My Olympic Moment - Meu Momento Olímpico</title>
-    <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118455_epg.jpg" />
-    <episode-num system="onscreen">S80 E1</episode-num>
+    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20261015010000 -0300" stop="20261015030000 -0300" channel="SPORTV 2">
-    <title lang="pt">VT - Itaquá x Campinas</title>
+    <title lang="pt">VT - Suzano x Campinas</title>
     <desc lang="pt">Talento, emoção e rivalidade em quadra. Acompanhe o Paulista de vôlei.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001564227_epg.jpg" />
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001571697_epg.jpg" />
   </programme>
-  <programme start="20261015030000 -0300" stop="20261015053500 -0300" channel="SPORTV 2">
-    <title lang="pt">NFL: Detroit Lions x Carolina Panthers</title>
-    <desc lang="pt">Detroit Lions e Carolina Panthers jogam pela 4ª rodada da fase Regular da NFL, no Bank of America Stadium, em Charlotte, EUA.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001560239_epg.jpg" />
+  <programme start="20261015030000 -0300" stop="20261015053000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT - Praia Clube x Minas</title>
+    <desc lang="pt">Não perca a grande final do Campeonato Mineiro Feminino de Vôlei, valendo o título estadual.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001571714_epg.jpg" />
   </programme>
-  <programme start="20261015053500 -0300" stop="20261015060000 -0300" channel="SPORTV 2">
-    <title lang="pt">Land Of Legends - Supremacia No Esporte</title>
-    <sub-title lang="pt">Tênis De Mesa Na China</sub-title>
-    <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118443_epg.jpg" />
-    <episode-num system="onscreen">S85 E1</episode-num>
+  <programme start="20261015053000 -0300" stop="20261015080000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT - Fluminense x Sesc-Flamengo</title>
+    <desc lang="pt">As maiores estrelas do vôlei feminino do Rio se enfrentam no Campeonato Carioca. Emoção, rivalidade e talento em quadra, aqui no sportv!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001571718_epg.jpg" />
   </programme>
-  <programme start="20261015060000 -0300" stop="20261015063000 -0300" channel="SPORTV 2">
-    <title lang="pt">Lendas Olímpicas</title>
-    <sub-title lang="pt">Nadia Comaneci</sub-title>
-    <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000113449_epg.jpg" />
-    <episode-num system="onscreen">S6 E4</episode-num>
+  <programme start="20261015080000 -0300" stop="20261015091000 -0300" channel="SPORTV 2">
+    <title lang="pt">SLS - Liga Mundial de Skate Street: Final Masculina - Paris</title>
+    <desc lang="pt">As feras do skate estão aqui no sportv! Tá na SLS, tá no sportv!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001560229_epg.jpg" />
   </programme>
-  <programme start="20261015063000 -0300" stop="20261015070000 -0300" channel="SPORTV 2">
+  <programme start="20261015091000 -0300" stop="20261015093000 -0300" channel="SPORTV 2">
+    <title lang="pt">Vozes - Galvão Bueno - Prata - Jogos Olímpicos Sydney 2000</title>
+    <desc lang="pt">A primeira Olimpíada de Galvão Bueno como narrador foi a de 1984, em Los Angeles, Estados Unidos. Desde então, ele trabalhou em outros sete Jogos Olímpicos.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118447_epg.jpg" />
+    <episode-num system="onscreen">S89 E288</episode-num>
+  </programme>
+  <programme start="20261015093000 -0300" stop="20261015114500 -0300" channel="SPORTV 2">
+    <title lang="pt">Copa do Mundo de Natação: Astana, Cazaquistão - Ao Vivo</title>
+    <desc lang="pt">A Copa do Mundo de Natação chegou no sportv! Venha assistir aos maiores nadadores do mundo em busca do ouro aqui no sportv.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001571749_epg.jpg" />
+  </programme>
+  <programme start="20261015114500 -0300" stop="20261015124500 -0300" channel="SPORTV 2">
+    <title lang="pt">Road To Glory</title>
+    <sub-title lang="pt">Esportes Aquáticos</sub-title>
+    <desc lang="pt">As melhores histórias de saltos ornamentais, natação e polo aquático das Olimpíadas, incluindo Dawn Fraser, Greg Louganis e Michael Phelps.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001456205_epg.jpg" />
+    <episode-num system="onscreen">S81 E3</episode-num>
+  </programme>
+  <programme start="20261015124500 -0300" stop="20261015152000 -0300" channel="SPORTV 2">
+    <title lang="pt">NFL: Las Vegas Raiders x New England Patriots</title>
+    <desc lang="pt">Las Vegas Raiders e New England Patriots jogam pela 5ª rodada da fase Regular da NFL, no Gillette Stadium, em Foxborough, EUA.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001565769_epg.jpg" />
+  </programme>
+  <programme start="20261015152000 -0300" stop="20261015182500 -0300" channel="SPORTV 2">
+    <title lang="pt">NFL: Baltimore Ravens x Atlanta Falcons</title>
+    <desc lang="pt">Baltimore Ravens e Atlanta Falcons jogam pela 5ª rodada da fase Regular da NFL, no Mercedes-Benz Stadium, em Atlanta, EUA.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001566376_epg.jpg" />
+  </programme>
+  <programme start="20261015182500 -0300" stop="20261015190000 -0300" channel="SPORTV 2">
     <title lang="pt">Vozes - Galvão Bueno - Ouros Olímpicos</title>
     <desc lang="pt">Neste episódio do Vozes, do Baú do Esporte, Galvão Bueno se recorda de cada uma das 7 medalhas de ouro olímpicas brasileiras que narrou em sua carreira, destacando ainda um momento especial envolvendo o atleta olímpico.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118447_epg.jpg" />
-    <episode-num system="onscreen">S86 E288</episode-num>
+    <episode-num system="onscreen">S88 E288</episode-num>
   </programme>
-  <programme start="20261015070000 -0300" stop="20261015085000 -0300" channel="SPORTV 2">
-    <title lang="pt">VT - Sesi-Bauru x São Caetano</title>
+  <programme start="20261015190000 -0300" stop="20261015210000 -0300" channel="SPORTV 2">
+    <title lang="pt">Brasil x Indonésia - Ao Vivo</title>
+    <desc lang="pt">Velocidade, talento e paixão em quadra. Acompanhe a Copa das Nações masculina de Futsal!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001571759_epg.jpg" />
+  </programme>
+  <programme start="20261015210000 -0300" stop="20261016003000 -0300" channel="SPORTV 2">
+    <title lang="pt">NFL: Seattle Seahawks x Denver Broncs - Ao Vivo</title>
+    <desc lang="pt">Seattle Seahawks e Denver Broncs jogam pela 6ª rodada da fase Regular da NFL, no Empower Field at Mile High, em Denver, EUA.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001571668_epg.jpg" />
+  </programme>
+  <programme start="20261016003000 -0300" stop="20261016023500 -0300" channel="SPORTV 2">
+    <title lang="pt">Diamond League - 15ª Etapa - Dia 1 - Bruxelas, Bélgica</title>
+    <desc lang="pt">Acompanhe a Diamond League, uma das principais competições de atletismo com grandes nomes do esporte.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001531088_epg.jpg" />
+  </programme>
+  <programme start="20261016023500 -0300" stop="20261016044500 -0300" channel="SPORTV 2">
+    <title lang="pt">Diamond League - 15ª Etapa - Dia 2 - Bruxelas, Bélgica</title>
+    <desc lang="pt">Acompanhe a Diamond League, uma das principais competições de atletismo com grandes nomes do esporte.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001531542_epg.jpg" />
+  </programme>
+  <programme start="20261016044500 -0300" stop="20261016073500 -0300" channel="SPORTV 2">
+    <title lang="pt">VT - Sesi-Bauru x Osasco</title>
     <desc lang="pt">Talento, emoção e rivalidade em quadra. Acompanhe o Paulista de vôlei.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001562743_epg.jpg" />
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001566375_epg.jpg" />
   </programme>
-  <programme start="20261015085000 -0300" stop="20261015105000 -0300" channel="SPORTV 2">
-    <title lang="pt">VT - Itaquá x Campinas</title>
+  <programme start="20261016073500 -0300" stop="20261016093000 -0300" channel="SPORTV 2">
+    <title lang="pt">VT - Suzano x Campinas</title>
     <desc lang="pt">Talento, emoção e rivalidade em quadra. Acompanhe o Paulista de vôlei.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001564227_epg.jpg" />
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001571697_epg.jpg" />
   </programme>
-  <programme start="20261015105000 -0300" stop="20261015123000 -0300" channel="SPORTV 2">
-    <title lang="pt">Mundial de Judô: Finais - Baku, Azerbaijão - Ao Vivo</title>
-    <desc lang="pt">Os melhores judocas do planeta estão prontos para o tatame! A elite global da modalidade se enfrenta em disputas de altíssimo nível, onde técnica, ippon e estratégia definem quem veste a medalha de ouro.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001558651_epg.jpg" />
+  <programme start="20261016093000 -0300" stop="20261016114500 -0300" channel="SPORTV 2">
+    <title lang="pt">Copa do Mundo de Natação: Astana, Cazaquistão - Ao Vivo</title>
+    <desc lang="pt">A Copa do Mundo de Natação chegou no sportv! Venha assistir aos maiores nadadores do mundo em busca do ouro aqui no sportv.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001571749_epg.jpg" />
   </programme>
-  <programme start="20261015123000 -0300" stop="20261015150000 -0300" channel="SPORTV 2">
-    <title lang="pt">Grand Prix de Taekwondo: Finais - Paris, França - Ao Vivo</title>
-    <desc lang="pt">Os principais nomes do taekwondo mundial entram em combate em disputas marcadas por velocidade, técnica e golpes impressionantes.É o Grand Prix de Taekwondo, aqui no sportv!</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001562749_epg.jpg" />
-  </programme>
-  <programme start="20261015150000 -0300" stop="20261015154500 -0300" channel="SPORTV 2">
-    <title lang="pt">Acesso Total - Ippon</title>
-    <desc lang="pt">Acompanha os grandes nomes deste esporte ao longo do ciclo olímpico que culmina em Los Angeles 28. Entre competições internacionais, cursos de formação intensiva e um processo de seleção implacável.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000119068_epg.jpg" />
-    <episode-num system="onscreen">S85 E3</episode-num>
-  </programme>
-  <programme start="20261015154500 -0300" stop="20261015163000 -0300" channel="SPORTV 2">
-    <title lang="pt">De Corpo e Alma</title>
-    <sub-title lang="pt">Equilíbrio Mental</sub-title>
-    <desc lang="pt">As artes marciais vão além da luta: promovem disciplina, foco e controle emocional. Mestres e atletas mostram como o treino fortalece a mente e ajuda a lidar com pressões dentro e fora do tatame.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118451_epg.jpg" />
-    <episode-num system="onscreen">S85 E1</episode-num>
-  </programme>
-  <programme start="20261015163000 -0300" stop="20261015190000 -0300" channel="SPORTV 2">
-    <title lang="pt">Mundial de Skate Park: Semifinais - Assunção, Paraguai - Ao Vivo</title>
-    <desc lang="pt">Os melhores skatistas do mundo mostram técnica e criatividade em manobras de alto nível. É o Mundial de Skate, aqui no sportv!</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001562756_epg.jpg" />
-  </programme>
-    <programme start="20261015190000 -0300" stop="20261015210000 -0300" channel="SPORTV 2">
-    <title lang="pt">Copa Das Nações Masculina De Futsal - Brasil X Indonésia - Ao Vivo</title>
-    <desc lang="pt">2ª Rodada - São José Dos Pinhais-PR</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001057492_epg.jpg" />
+  <programme start="20261016114500 -0300" stop="20261016123000 -0300" channel="SPORTV 2">
+    <title lang="pt">Maria Lenk, de Braços Abertos</title>
+    <desc lang="pt">Esse episódio conta a história da família de imigrantes alemães que vem se estabelecer no Brasil. Aqui, Paul Lenk fica viúvo e passa a se corresponder com sua enteada, Rosa, na Alemanha.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000114276_epg.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="BR">
       <value>1</value>
     </rating>
   </programme>
-  <programme start="20261015210000 -0300" stop="20261015233000 -0300" channel="SPORTV 2">
-    <title lang="pt">Programação sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001057492_epg.jpg" />
-    <rating system="BR">
-      <value>1</value>
-    </rating>
-  </programme>
-  <programme start="20261015233000 -0300" stop="20261016003000 -0300" channel="SPORTV 2">
-    <title lang="pt">Hello L.A</title>
-    <desc lang="pt">Acompanhe como está indo os Jogos de Los Angeles em 2028. toda semana, o programa traz entrevistas, atualidades, termômetro de competições e informações do mundo Olímpico com Marcelo Barreto e Fabi Alvim.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118463_epg.jpg" />
-    <episode-num system="onscreen">S83 E288</episode-num>
-  </programme>
-  <programme start="20261016003000 -0300" stop="20261016010000 -0300" channel="SPORTV 2">
-    <title lang="pt">My Olympic Moment - Meu Momento Olímpico</title>
-    <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118455_epg.jpg" />
-    <episode-num system="onscreen">S80 E1</episode-num>
-  </programme>
-  <programme start="20261016010000 -0300" stop="20261016030000 -0300" channel="SPORTV 2">
-    <title lang="pt">VT - Itaquá x Campinas</title>
+  <programme start="20261016123000 -0300" stop="20261016143500 -0300" channel="SPORTV 2">
+    <title lang="pt">VT - Suzano x Campinas</title>
     <desc lang="pt">Talento, emoção e rivalidade em quadra. Acompanhe o Paulista de vôlei.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001564227_epg.jpg" />
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001571697_epg.jpg" />
   </programme>
-  <programme start="20261016030000 -0300" stop="20261016053500 -0300" channel="SPORTV 2">
-    <title lang="pt">NFL: Detroit Lions x Carolina Panthers</title>
-    <desc lang="pt">Detroit Lions e Carolina Panthers jogam pela 4ª rodada da fase Regular da NFL, no Bank of America Stadium, em Charlotte, EUA.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001560239_epg.jpg" />
-  </programme>
-  <programme start="20261016053500 -0300" stop="20261016060000 -0300" channel="SPORTV 2">
-    <title lang="pt">Land Of Legends - Supremacia No Esporte</title>
-    <sub-title lang="pt">Tênis De Mesa Na China</sub-title>
-    <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118443_epg.jpg" />
-    <episode-num system="onscreen">S85 E1</episode-num>
-  </programme>
-  <programme start="20261016060000 -0300" stop="20261016063000 -0300" channel="SPORTV 2">
-    <title lang="pt">Lendas Olímpicas</title>
-    <sub-title lang="pt">Nadia Comaneci</sub-title>
-    <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000113449_epg.jpg" />
-    <episode-num system="onscreen">S6 E4</episode-num>
-  </programme>
-  <programme start="20261016063000 -0300" stop="20261016070000 -0300" channel="SPORTV 2">
-    <title lang="pt">Vozes - Galvão Bueno - Ouros Olímpicos</title>
-    <desc lang="pt">Neste episódio do Vozes, do Baú do Esporte, Galvão Bueno se recorda de cada uma das 7 medalhas de ouro olímpicas brasileiras que narrou em sua carreira, destacando ainda um momento especial envolvendo o atleta olímpico.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118447_epg.jpg" />
-    <episode-num system="onscreen">S86 E289</episode-num>
-  </programme>
-  <programme start="20261016070000 -0300" stop="20261016085000 -0300" channel="SPORTV 2">
-    <title lang="pt">VT - Sesi-Bauru x São Caetano</title>
+  <programme start="20261016143500 -0300" stop="20261016172500 -0300" channel="SPORTV 2">
+    <title lang="pt">VT - Sesi-Bauru x Osasco</title>
     <desc lang="pt">Talento, emoção e rivalidade em quadra. Acompanhe o Paulista de vôlei.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001562743_epg.jpg" />
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001566375_epg.jpg" />
   </programme>
-  <programme start="20261016085000 -0300" stop="20261016105000 -0300" channel="SPORTV 2">
-    <title lang="pt">VT - Itaquá x Campinas</title>
-    <desc lang="pt">Talento, emoção e rivalidade em quadra. Acompanhe o Paulista de vôlei.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001564227_epg.jpg" />
+  <programme start="20261016172500 -0300" stop="20261016183000 -0300" channel="SPORTV 2">
+    <title lang="pt">SLS - Liga Mundial de Skate Street: Final Feminina - Paris</title>
+    <desc lang="pt">As feras do skate estão aqui no sportv! Tá na SLS, tá no sportv!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001560241_epg.jpg" />
   </programme>
-  <programme start="20261016105000 -0300" stop="20261016123000 -0300" channel="SPORTV 2">
-    <title lang="pt">Programação sportv 2</title>
+  <programme start="20261016183000 -0300" stop="20261016203000 -0300" channel="SPORTV 2">
+    <title lang="pt">Brasil x Japão - Ao Vivo</title>
     <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001057494_epg.jpg" />
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001571758_epg.jpg" />
   </programme>
-  <programme start="20261016123000 -0300" stop="20261016150000 -0300" channel="SPORTV 2">
-    <title lang="pt">Programação sportv 2</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001057494_epg.jpg" />
-  </programme>
-  <programme start="20261016150000 -0300" stop="20261016154500 -0300" channel="SPORTV 2">
-    <title lang="pt">Acesso Total - Ippon</title>
-    <desc lang="pt">Acompanha os grandes nomes deste esporte ao longo do ciclo olímpico que culmina em Los Angeles 28. Entre competições internacionais, cursos de formação intensiva e um processo de seleção implacável.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000119068_epg.jpg" />
-    <episode-num system="onscreen">S85 E3</episode-num>
-  </programme>
-  <programme start="20261016154500 -0300" stop="20261016163000 -0300" channel="SPORTV 2">
-    <title lang="pt">De Corpo e Alma</title>
-    <sub-title lang="pt">Equilíbrio Mental</sub-title>
-    <desc lang="pt">As artes marciais vão além da luta: promovem disciplina, foco e controle emocional. Mestres e atletas mostram como o treino fortalece a mente e ajuda a lidar com pressões dentro e fora do tatame.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118451_epg.jpg" />
-    <episode-num system="onscreen">S85 E1</episode-num>
-  </programme>
-  <programme start="20261016163000 -0300" stop="20261016210000 -0300" channel="SPORTV 2">
-    <title lang="pt">Programação sportv 2</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001057494_epg.jpg" />
-  </programme>
-  <programme start="20261016210000 -0300" stop="20261016233000 -0300" channel="SPORTV 2">
-    <title lang="pt">Programação sportv 2</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001057494_epg.jpg" />
+  <programme start="20261016203000 -0300" stop="20261016233000 -0300" channel="SPORTV 2">
+    <title lang="pt">Osasco x Praia Clube - Ao Vivo</title>
+    <desc lang="pt">A maior liga de vôlei feminino do país está de volta! No sportv, cada saque, cada bloqueio e cada ponto são pura emoção.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001571726_epg.jpg" />
   </programme>
   <programme start="20261016233000 -0300" stop="20261017003000 -0300" channel="SPORTV 2">
     <title lang="pt">Hello L.A</title>
@@ -12031,14 +11981,14 @@
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001563715_epg.jpg" />
   </programme>
   <programme start="20261015020000 -0300" stop="20261015030000 -0300" channel="SPORTV">
-    <title lang="pt">Copa do Brasil de Futebol Sub-20</title>
-    <desc lang="pt">Confira mais um jogão da Copa do Brasil de Futebol Sub-20.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001556829_epg.jpg" />
+    <title lang="pt">VT - Palmeiras x Atlético-MG</title>
+    <desc lang="pt">Acompanhe as emoções do Campeonato Brasileiro de Futebol Sub-17! Venha testemunhar as estrelas que será o futuro do futebol. Aqui no sportv.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001566825_epg.jpg" />
   </programme>
   <programme start="20261015030000 -0300" stop="20261015040000 -0300" channel="SPORTV">
-    <title lang="pt">Copa do Brasil de Futebol Sub-20</title>
-    <desc lang="pt">Confira mais um jogão da Copa do Brasil de Futebol Sub-20.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001556829_epg.jpg" />
+    <title lang="pt">VT - Corinthians x Flamengo</title>
+    <desc lang="pt">Acompanhe as emoções do Campeonato Brasileiro de Futebol Sub-17! Venha testemunhar as estrelas que será o futuro do futebol. Aqui no sportv.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001564213_epg.jpg" />
   </programme>
   <programme start="20261015040000 -0300" stop="20261015043000 -0300" channel="SPORTV">
     <title lang="pt">VT - Grêmio x Internacional</title>
@@ -12140,15 +12090,25 @@
     <desc lang="pt">Acompanhe as emoções da Copa do Brasil feminina de Futebol.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001566826_epg.jpg" />
   </programme>
-  <programme start="20261016020000 -0300" stop="20261016030000 -0300" channel="SPORTV">
-    <title lang="pt">Copa do Brasil de Futebol Sub-20</title>
-    <desc lang="pt">Confira mais um jogão da Copa do Brasil de Futebol Sub-20.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001556829_epg.jpg" />
+  <programme start="20261016020000 -0300" stop="20261016023000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Palmeiras x Corinthians</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001563715_epg.jpg" />
   </programme>
-  <programme start="20261016030000 -0300" stop="20261016040000 -0300" channel="SPORTV">
-    <title lang="pt">Copa do Brasil de Futebol Sub-20</title>
-    <desc lang="pt">Confira mais um jogão da Copa do Brasil de Futebol Sub-20.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001556829_epg.jpg" />
+  <programme start="20261016023000 -0300" stop="20261016030000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Flamengo x Fluminense</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001563717_epg.jpg" />
+  </programme>
+  <programme start="20261016030000 -0300" stop="20261016033000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Bragantino x Cruzeiro</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001563721_epg.jpg" />
+  </programme>
+  <programme start="20261016033000 -0300" stop="20261016040000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Chapecoense x Athletico-PR</title>
+    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001563718_epg.jpg" />
   </programme>
   <programme start="20261016040000 -0300" stop="20261016050000 -0300" channel="SPORTV">
     <title lang="pt">VT - Palmeiras x Atlético-MG</title>
@@ -12222,12 +12182,12 @@
     <desc lang="pt">Bahia e São Paulo jogam a rodada de ida da Quartas de Final da Copa do Brasil Feminina, no Batistão, em Aracaju (SE).</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001564224_epg.jpg" />
   </programme>
-  <programme start="20261016210000 -0300" stop="20261016233000 -0300" channel="SPORTV">
+  <programme start="20261016210000 -0300" stop="20261016230000 -0300" channel="SPORTV">
     <title lang="pt">Cruzeiro x LDU - Ao Vivo</title>
     <desc lang="pt">Cruzeiro e LDU jogam pela 1ª rodada da fase de grupos da Libertadores Feminina, no Casa Blanca, em Quito, Equador.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001566832_epg.jpg" />
   </programme>
-  <programme start="20261016233000 -0300" stop="20261017003000 -0300" channel="SPORTV">
+  <programme start="20261016230000 -0300" stop="20261017003000 -0300" channel="SPORTV">
     <title lang="pt">Troca de Passes - Ao Vivo</title>
     <desc lang="pt">Felipe Diniz troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000071222_epg.jpg" />
