@@ -11542,10 +11542,18 @@
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118451_epg.jpg" />
     <episode-num system="onscreen">S85 E1</episode-num>
   </programme>
-  <programme start="20261015163000 -0300" stop="20261015210000 -0300" channel="SPORTV 2">
+  <programme start="20261015163000 -0300" stop="20261015190000 -0300" channel="SPORTV 2">
     <title lang="pt">Mundial de Skate Park: Semifinais - Assunção, Paraguai - Ao Vivo</title>
     <desc lang="pt">Os melhores skatistas do mundo mostram técnica e criatividade em manobras de alto nível. É o Mundial de Skate, aqui no sportv!</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001562756_epg.jpg" />
+  </programme>
+    <programme start="20261015190000 -0300" stop="20261015210000 -0300" channel="SPORTV 2">
+    <title lang="pt">Copa Das Nações Masculina De Futsal - Brasil X Indonésia - Ao Vivo</title>
+    <desc lang="pt">2ª Rodada - São José Dos Pinhais-PR</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001057492_epg.jpg" />
+    <rating system="BR">
+      <value>1</value>
+    </rating>
   </programme>
   <programme start="20261015210000 -0300" stop="20261015233000 -0300" channel="SPORTV 2">
     <title lang="pt">Programação sportv</title>
