@@ -1562,15 +1562,20 @@
       <value>1</value>
     </rating>
   </programme>
-  <programme start="20261016190000 -0300" stop="20261016220000 -0300" channel="ESPN 3">
+  <programme start="20261016190000 -0300" stop="20261016210000 -0300" channel="ESPN 3">
+    <title lang="pt">VT - ATP Masters 1000: Xangai: Daniil Medvedev x Tommy Paul</title>
+    <desc lang="pt">Os melhores tenistas do circuito dão tudo de si no ATP Masters 1000. Acompanhe cada partida e curta o altíssimo nível desses torneios espetaculares.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000597557_epg.jpg" />
+  </programme>
+  <programme start="20261016210000 -0300" stop="20261017000000 -0300" channel="ESPN 3">
     <title lang="pt">MLB: Tampa Bay Rays x Cleveland Guardians - Ao Vivo</title>
     <desc lang="pt">Acompanhe a reta final pelo título da MLB! Os melhores times das ligas americana e nacional se enfrentam pela vaga na World Series, a grande decisão.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001573053_epg.jpg" />
   </programme>
-  <programme start="20261016220000 -0300" stop="20261017010000 -0300" channel="ESPN 3">
-    <title lang="pt">MLB: Milwaukee Brewers x Los Angeles Dodgers - Ao Vivo</title>
-    <desc lang="pt">Os melhores jogadores do mundo protagonizam duelos épicos, e o time vencedor da World Series leva para casa o Commissioner's Trophy.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001573055_epg.jpg" />
+  <programme start="20261017000000 -0300" stop="20261017010000 -0300" channel="ESPN 3">
+    <title lang="pt">ESPN League</title>
+    <desc lang="pt">Análise completa das principais ligas esportivas americanas: NFL (futebol americano), NBA (basquete), MLB (baseball) e NHL (hóquei).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000082279_epg.jpg" />
   </programme>
   <programme start="20261017010000 -0300" stop="20261017020000 -0300" channel="ESPN 3">
     <title lang="pt">VT - NFL: Buffalo Bills x Los Angeles Rams</title>
@@ -3001,14 +3006,14 @@
     </rating>
   </programme>
   <programme start="20261017000000 -0300" stop="20261017023000 -0300" channel="ESPN 5">
-    <title lang="pt">VT - MLB: Final da Liga Americana</title>
+    <title lang="pt">VT - MLB: Tampa Bay Rays x Cleveland Guardians</title>
     <desc lang="pt">Acompanhe a reta final pelo título da MLB! Os melhores times das ligas americana e nacional se enfrentam pela vaga na World Series, a grande decisão.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001039838_epg.jpg" />
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001573082_epg.jpg" />
   </programme>
   <programme start="20261017023000 -0300" stop="20261017050000 -0300" channel="ESPN 5">
-    <title lang="pt">VT - MLB: Final da Liga Nacional</title>
-    <desc lang="pt">Acompanhe a reta final pelo título da MLB! Os melhores times das ligas americana e nacional se enfrentam pela vaga na World Series, a grande decisão.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001039839_epg.jpg" />
+    <title lang="pt">VT - MLB: Milwaukee Brewers x Los Angeles Dodgers</title>
+    <desc lang="pt">Os melhores jogadores do mundo protagonizam duelos épicos, e o time vencedor da World Series leva para casa o Commissioner's Trophy.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001572333_epg.jpg" />
   </programme>
   <programme start="20261017050000 -0300" stop="20261017073000 -0300" channel="ESPN 5">
     <title lang="pt">VT - ESPN Knockout: PFL Chicago</title>
@@ -3045,9 +3050,9 @@
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001565756_epg.jpg" />
   </programme>
   <programme start="20261017143000 -0300" stop="20261017170000 -0300" channel="ESPN 5">
-    <title lang="pt">VT - NBA: Pré-Temporada: Denver Nuggets x Los Angeles Lakers</title>
+    <title lang="pt">VT - NBA: Denver Nuggets x Los Angeles Lakers</title>
     <desc lang="pt">As estrelas do basquete mostram suas habilidades na melhor liga do mundo. Jogos incríveis com emoção garantida.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001558459_epg.jpg" />
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001572971_epg.jpg" />
   </programme>
   <programme start="20261017170000 -0300" stop="20261017173000 -0300" channel="ESPN 5">
     <title lang="pt">ESPN FIlmes: Setting The Tempo</title>
@@ -4144,9 +4149,9 @@
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001539031_epg.jpg" />
   </programme>
   <programme start="20261016183000 -0300" stop="20261016193000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Premiere Retrô</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001391952_epg.jpg" />
+    <title lang="pt">VT - Internacional x Cruzeiro</title>
+    <desc lang="pt">Reveja partidas históricas do seu esporte favorito!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000596750_epg.jpg" />
   </programme>
   <programme start="20261016193000 -0300" stop="20261016221000 -0300" channel="PREMIERE CLUBES HD">
     <title lang="pt">Mirassol x Internacional - Ao Vivo</title>
@@ -4154,9 +4159,9 @@
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001570676_epg.jpg" />
   </programme>
   <programme start="20261016221000 -0300" stop="20261016231000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Premiere Retrô</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001391952_epg.jpg" />
+    <title lang="pt">VT - Coritiba x Palmeiras</title>
+    <desc lang="pt">Reveja partidas históricas do seu esporte favorito!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000596750_epg.jpg" />
   </programme>
   <programme start="20261016231000 -0300" stop="20261016234000 -0300" channel="PREMIERE CLUBES HD">
     <title lang="pt">VT - Coritiba x Athletico-PR</title>
@@ -4323,9 +4328,9 @@
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001543661_epg.jpg" />
   </programme>
   <programme start="20261017170000 -0300" stop="20261017180000 -0300" channel="PREMIERE CLUBES HD">
-    <title lang="pt">Premiere Retrô</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001391952_epg.jpg" />
+    <title lang="pt">VT - Atlético-MG x Palmeiras</title>
+    <desc lang="pt">Reveja partidas históricas do seu esporte favorito!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000596750_epg.jpg" />
   </programme>
   <programme start="20261017180000 -0300" stop="20261017204000 -0300" channel="PREMIERE CLUBES HD">
     <title lang="pt">Atlético-MG x Coritiba - Ao Vivo</title>
@@ -10939,7 +10944,12 @@
       <value>1</value>
     </rating>
   </programme>
-  <programme start="20261016035500 -0300" stop="20261016140000 -0300" channel="SPORTV 3">
+  <programme start="20261016035500 -0300" stop="20261016070000 -0300" channel="SPORTV 3">
+    <title lang="pt">Circuito Mundial de Surfe - Etapa de Portugal - Ao Vivo</title>
+    <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001570671_epg.jpg" />
+  </programme>
+  <programme start="20261016070000 -0300" stop="20261016140000 -0300" channel="SPORTV 3">
     <title lang="pt">Circuito Mundial de Surfe - Etapa de Portugal - Ao Vivo</title>
     <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001570671_epg.jpg" />
@@ -11014,14 +11024,19 @@
       <value>1</value>
     </rating>
   </programme>
-  <programme start="20261017035500 -0300" stop="20261017140000 -0300" channel="SPORTV 3">
+  <programme start="20261017035500 -0300" stop="20261017070000 -0300" channel="SPORTV 3">
+    <title lang="pt">Circuito Mundial de Surfe - Etapa de Portugal - Ao Vivo</title>
+    <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001570671_epg.jpg" />
+  </programme>
+  <programme start="20261017070000 -0300" stop="20261017140000 -0300" channel="SPORTV 3">
     <title lang="pt">Circuito Mundial de Surfe - Etapa de Portugal - Ao Vivo</title>
     <desc lang="pt">As maiores emoções do Circuito Mundial de Surfe, você acompanha aqui no sportv!</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001570671_epg.jpg" />
   </programme>
   <programme start="20261017140000 -0300" stop="20261017154500 -0300" channel="SPORTV 3">
     <title lang="pt">Brasil x Japão - Ao Vivo</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <desc lang="pt">A Seleção Brasileira e outras seleções entram em quadra em um desafio internacional de futsal feminino.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001571758_epg.jpg" />
   </programme>
   <programme start="20261017154500 -0300" stop="20261017155500 -0300" channel="SPORTV 3">
@@ -11403,12 +11418,22 @@
     <desc lang="pt">Talento, emoção e rivalidade em quadra. Acompanhe o Paulista de vôlei.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001571697_epg.jpg" />
   </programme>
-  <programme start="20261016093000 -0300" stop="20261016114500 -0300" channel="SPORTV 2">
+  <programme start="20261016093000 -0300" stop="20261016095500 -0300" channel="SPORTV 2">
+    <title lang="pt">Fome de Medalha</title>
+    <sub-title lang="pt">Vôlei de Praia</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000114961_epg.jpg" />
+    <episode-num system="onscreen">S9 E1</episode-num>
+    <rating system="BR">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20261016095500 -0300" stop="20261016120500 -0300" channel="SPORTV 2">
     <title lang="pt">Copa do Mundo de Natação: Astana, Cazaquistão - Ao Vivo</title>
     <desc lang="pt">A Copa do Mundo de Natação chegou no sportv! Venha assistir aos maiores nadadores do mundo em busca do ouro aqui no sportv.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001571749_epg.jpg" />
   </programme>
-  <programme start="20261016114500 -0300" stop="20261016123000 -0300" channel="SPORTV 2">
+  <programme start="20261016120500 -0300" stop="20261016123000 -0300" channel="SPORTV 2">
     <title lang="pt">Maria Lenk, de Braços Abertos</title>
     <desc lang="pt">Esse episódio conta a história da família de imigrantes alemães que vem se estabelecer no Brasil. Aqui, Paul Lenk fica viúvo e passa a se corresponder com sua enteada, Rosa, na Alemanha.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000114276_epg.jpg" />
@@ -11434,7 +11459,7 @@
   </programme>
   <programme start="20261016183000 -0300" stop="20261016203000 -0300" channel="SPORTV 2">
     <title lang="pt">Brasil x Japão - Ao Vivo</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
+    <desc lang="pt">A Seleção Brasileira e outras seleções entram em quadra em um desafio internacional de futsal feminino.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001571758_epg.jpg" />
   </programme>
   <programme start="20261016203000 -0300" stop="20261016233000 -0300" channel="SPORTV 2">
@@ -11469,25 +11494,18 @@
     <desc lang="pt">A maior liga de vôlei feminino do país está de volta! No sportv, cada saque, cada bloqueio e cada ponto são pura emoção.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001571723_epg.jpg" />
   </programme>
-  <programme start="20261017073500 -0300" stop="20261017083500 -0300" channel="SPORTV 2">
-    <title lang="pt">As Bicampeãs</title>
-    <desc lang="pt">A série documental AS BICAMPEÃS, acompanha a história da Seleção de vôlei feminino de 2004 a 2012, quando o time brasileiro conquistou duas medalhas de ouro olímpicas inéditas.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000114959_epg.jpg" />
-    <episode-num system="onscreen">S17 E1</episode-num>
-    <rating system="BR">
-      <value>1</value>
-    </rating>
+  <programme start="20261017073500 -0300" stop="20261017075500 -0300" channel="SPORTV 2">
+    <title lang="pt">Lendas - Serginho (Vôlei)</title>
+    <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do Brasil e do mundo.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000103397_epg.jpg" />
+    <episode-num system="onscreen">S87 E290</episode-num>
   </programme>
-  <programme start="20261017083500 -0300" stop="20261017093000 -0300" channel="SPORTV 2">
-    <title lang="pt">As Bicampeãs</title>
-    <desc lang="pt">A série documental AS BICAMPEÃS, acompanha a história da Seleção de vôlei feminino de 2004 a 2012, quando o time brasileiro conquistou duas medalhas de ouro olímpicas inéditas.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000114959_epg.jpg" />
-    <episode-num system="onscreen">S17 E2</episode-num>
-    <rating system="BR">
-      <value>1</value>
-    </rating>
+  <programme start="20261017075500 -0300" stop="20261017095500 -0300" channel="SPORTV 2">
+    <title lang="pt">VT - Suzano x Campinas</title>
+    <desc lang="pt">Talento, emoção e rivalidade em quadra. Acompanhe o Paulista de vôlei.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001571697_epg.jpg" />
   </programme>
-  <programme start="20261017093000 -0300" stop="20261017122000 -0300" channel="SPORTV 2">
+  <programme start="20261017095500 -0300" stop="20261017122000 -0300" channel="SPORTV 2">
     <title lang="pt">Copa do Mundo de Natação: Astana, Cazaquistão - Ao Vivo</title>
     <desc lang="pt">A Copa do Mundo de Natação chegou no sportv! Venha assistir aos maiores nadadores do mundo em busca do ouro aqui no sportv.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001571749_epg.jpg" />
@@ -13570,48 +13588,84 @@
     <desc lang="pt">Sinopse não disponível.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
   </programme>
-  <programme start="20261016000000 -0300" stop="20261016015500 -0300" channel="SportyNet HD">
+  <programme start="20261016000000 -0300" stop="20261016010300 -0300" channel="SportyNet HD">
     <title lang="pt">VT - Brusque x Paysandu</title>
     <desc lang="pt">Acompanhe os jogos mais emocionates da rodada do Campeonato Brasileiro da Série C.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001566849_epg.jpg" />
   </programme>
-  <programme start="20261016015500 -0300" stop="20261016040000 -0300" channel="SportyNet HD">
+  <programme start="20261016010300 -0300" stop="20261016021500 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Brusque x Paysandu</title>
+    <desc lang="pt">Acompanhe os jogos mais emocionates da rodada do Campeonato Brasileiro da Série C.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001566849_epg.jpg" />
+  </programme>
+  <programme start="20261016021500 -0300" stop="20261016022900 -0300" channel="SportyNet HD">
+    <title lang="pt">Entrevista Maycon Cardozo Bayern</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
+    <rating system="BR">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20261016022900 -0300" stop="20261016032700 -0300" channel="SportyNet HD">
     <title lang="pt">VT - Ferroviária x Inter de Limeira</title>
     <desc lang="pt">Acompanhe os jogos mais emocionates da rodada do Campeonato Brasileiro da Série C.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001566850_epg.jpg" />
   </programme>
-  <programme start="20261016040000 -0300" stop="20261016055500 -0300" channel="SportyNet HD">
+  <programme start="20261016032700 -0300" stop="20261016042100 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Ferroviária x Inter de Limeira</title>
+    <desc lang="pt">Acompanhe os jogos mais emocionates da rodada do Campeonato Brasileiro da Série C.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001566850_epg.jpg" />
+  </programme>
+  <programme start="20261016042100 -0300" stop="20261016061200 -0300" channel="SportyNet HD">
     <title lang="pt">VT - Torino x Udinese</title>
     <desc lang="pt">Série A: O campeonato italiano reúne os principais clubes do país em disputas emocionantes por títulos, gols e clássicos históricos.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001567187_epg.jpg" />
   </programme>
-  <programme start="20261016055500 -0300" stop="20261016080000 -0300" channel="SportyNet HD">
+  <programme start="20261016061200 -0300" stop="20261016081200 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Sassuolo x Milan</title>
+    <desc lang="pt">Série A: O campeonato italiano reúne os principais clubes do país em disputas emocionantes por títulos, gols e clássicos históricos.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001567186_epg.jpg" />
+  </programme>
+  <programme start="20261016081200 -0300" stop="20261016082800 -0300" channel="SportyNet HD">
+    <title lang="pt">Minuto 91 - Ao Vivo</title>
+    <desc lang="pt">Pós-jogo sem filtros: reação ao vivo, polêmicas e debate sincero. Aqui ninguém fica em cima do muro!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001465650_epg.jpg" />
+    <episode-num system="onscreen">S88 E289</episode-num>
+  </programme>
+  <programme start="20261016082800 -0300" stop="20261016102000 -0300" channel="SportyNet HD">
     <title lang="pt">VT - Atlético-GO x Sport</title>
     <desc lang="pt">Acompanhe os jogos mais emocionates da rodada do Campeonato Brasileiro da Série B.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001566851_epg.jpg" />
   </programme>
-  <programme start="20261016080000 -0300" stop="20261016095500 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Operário x Goiás</title>
-    <desc lang="pt">Acompanhe os jogos mais emocionates da rodada do Campeonato Brasileiro da Série B.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001566852_epg.jpg" />
-  </programme>
-  <programme start="20261016095500 -0300" stop="20261016120000 -0300" channel="SportyNet HD">
+  <programme start="20261016102000 -0300" stop="20261016121800 -0300" channel="SportyNet HD">
     <title lang="pt">VT - RB Leipzig x Eintracht Frankfurt</title>
     <desc lang="pt">Acompanhe os melhores jogos e os craques da Bundesliga, o principal torneio da liga de futebol profissional da Alemanha.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001566853_epg.jpg" />
   </programme>
-  <programme start="20261016120000 -0300" stop="20261016130200 -0300" channel="SportyNet HD">
-    <title lang="pt">Filler</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
+  <programme start="20261016121800 -0300" stop="20261016124800 -0300" channel="SportyNet HD">
+    <title lang="pt">Show da Bundesliga</title>
+    <desc lang="pt">Todos os detalhes da rodada do Campeonato Alemão. Melhores momentos dos nove jogos, destaques, classificação, gols mais bonitos e toda atmosfera da Bundesliga em um resumo completo.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000113185_epg.jpg" />
     <episode-num system="onscreen">S82 E289</episode-num>
   </programme>
-  <programme start="20261016130200 -0300" stop="20261016153000 -0300" channel="SportyNet HD">
+  <programme start="20261016124800 -0300" stop="20261016130900 -0300" channel="SportyNet HD">
+    <title lang="pt">Show da Bundesliga</title>
+    <desc lang="pt">Todos os detalhes da rodada do Campeonato Alemão. Melhores momentos dos nove jogos, destaques, classificação, gols mais bonitos e toda atmosfera da Bundesliga em um resumo completo.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000113185_epg.jpg" />
+    <episode-num system="onscreen">S82 E289</episode-num>
+  </programme>
+  <programme start="20261016130900 -0300" stop="20261016150000 -0300" channel="SportyNet HD">
     <title lang="pt">VT - Atlas x Chivas</title>
     <desc lang="pt">Uma das ligas mais importantes das Américas agora é da SportyNet! São 18 clubes na disputa do Campeonato Mexicano, uma competição de camisas pesadas, torcidas apaixonadas, e craques de diversas partes do mundo.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001431325_epg.jpg" />
   </programme>
-  <programme start="20261016153000 -0300" stop="20261016160000 -0300" channel="SportyNet HD">
+  <programme start="20261016150000 -0300" stop="20261016152700 -0300" channel="SportyNet HD">
+    <title lang="pt">Show da Série A</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000119340_epg.jpg" />
+    <episode-num system="onscreen">S85 E289</episode-num>
+  </programme>
+  <programme start="20261016152700 -0300" stop="20261016160000 -0300" channel="SportyNet HD">
     <title lang="pt">Pré-Jogo - Ao Vivo</title>
     <desc lang="pt">Sinopse não disponível.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001477452_epg.jpg" />
@@ -13621,86 +13675,73 @@
     <desc lang="pt">Deportivo La Coruña e Levante jogam pela 9ª rodada do Primeiro Turno da La Liga, no Riazor, em Corunha, Espanha.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001567387_epg.jpg" />
   </programme>
-  <programme start="20261016180000 -0300" stop="20261016195500 -0300" channel="SportyNet HD">
+  <programme start="20261016180000 -0300" stop="20261016200000 -0300" channel="SportyNet HD">
     <title lang="pt">VT - Sassuolo x Milan</title>
     <desc lang="pt">Série A: O campeonato italiano reúne os principais clubes do país em disputas emocionantes por títulos, gols e clássicos históricos.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001567186_epg.jpg" />
   </programme>
-  <programme start="20261016195500 -0300" stop="20261017000000 -0300" channel="SportyNet HD">
+  <programme start="20261016200000 -0300" stop="20261016215000 -0300" channel="SportyNet HD">
     <title lang="pt">VT - América-MX x Monterrey</title>
     <desc lang="pt">Uma das ligas mais importantes das Américas agora é da SportyNet! São 18 clubes na disputa do Campeonato Mexicano, uma competição de camisas pesadas, torcidas apaixonadas, e craques de diversas partes do mundo.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001420358_epg.jpg" />
   </programme>
-  <programme start="20261017000000 -0300" stop="20261017015100 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - CRB x Atlético-GO</title>
-    <desc lang="pt">Acompanhe os jogos mais emocionates da rodada do Campeonato Brasileiro da Série B.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001389606_epg.jpg" />
+  <programme start="20261016215000 -0300" stop="20261016234600 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Deportivo La Corunã x Levante</title>
+    <desc lang="pt">La Liga: Clubes tradicionais e estrelas internacionais em busca da taça do Campeonato Espanhol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001572303_epg.jpg" />
   </programme>
-  <programme start="20261017015100 -0300" stop="20261017020800 -0300" channel="SportyNet HD">
+  <programme start="20261016234600 -0300" stop="20261017000000 -0300" channel="SportyNet HD">
     <title lang="pt">Filler</title>
     <desc lang="pt">Sinopse não disponível.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
-    <episode-num system="onscreen">S81 E290</episode-num>
+    <episode-num system="onscreen">S83 E289</episode-num>
   </programme>
-  <programme start="20261017020800 -0300" stop="20261017040300 -0300" channel="SportyNet HD">
+  <programme start="20261017000000 -0300" stop="20261017020500 -0300" channel="SportyNet HD">
     <title lang="pt">VT - Borussia Dortmund x Werder Bremen</title>
     <desc lang="pt">Futebol Alemão: Gols, dribles e confrontos acirrados marcam cada rodada da Bundesliga.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001560283_epg.jpg" />
   </programme>
-  <programme start="20261017040300 -0300" stop="20261017060100 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Floresta x Botafogo-PB</title>
-    <desc lang="pt">Acompanhe os jogos mais emocionates da rodada do Campeonato Brasileiro da Série C.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001560285_epg.jpg" />
-  </programme>
-  <programme start="20261017060100 -0300" stop="20261017075500 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Paysandu x Ferroviária</title>
-    <desc lang="pt">Acompanhe os jogos mais emocionates da rodada do Campeonato Brasileiro da Série C.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001557364_epg.jpg" />
-  </programme>
-  <programme start="20261017075500 -0300" stop="20261017082300 -0300" channel="SportyNet HD">
-    <title lang="pt">Show da Série A</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000119340_epg.jpg" />
-    <episode-num system="onscreen">S87 E290</episode-num>
-  </programme>
-  <programme start="20261017082300 -0300" stop="20261017084600 -0300" channel="SportyNet HD">
-    <title lang="pt">Filler</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
-    <episode-num system="onscreen">S88 E290</episode-num>
-  </programme>
-  <programme start="20261017084600 -0300" stop="20261017085300 -0300" channel="SportyNet HD">
-    <title lang="pt">Filler</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
-    <episode-num system="onscreen">S88 E290</episode-num>
-  </programme>
-  <programme start="20261017085300 -0300" stop="20261017104500 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - CRB x Atlético-GO</title>
+  <programme start="20261017020500 -0300" stop="20261017040100 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Operário x Goiás</title>
     <desc lang="pt">Acompanhe os jogos mais emocionates da rodada do Campeonato Brasileiro da Série B.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001389606_epg.jpg" />
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001566852_epg.jpg" />
   </programme>
-  <programme start="20261017104500 -0300" stop="20261017111700 -0300" channel="SportyNet HD">
-    <title lang="pt">Programação SportyNet</title>
+  <programme start="20261017040100 -0300" stop="20261017045900 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Ferroviária x Inter de Limeira</title>
+    <desc lang="pt">Acompanhe os jogos mais emocionates da rodada do Campeonato Brasileiro da Série C.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001566850_epg.jpg" />
+  </programme>
+  <programme start="20261017045900 -0300" stop="20261017055200 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Ferroviária x Inter de Limeira</title>
+    <desc lang="pt">Acompanhe os jogos mais emocionates da rodada do Campeonato Brasileiro da Série C.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001566850_epg.jpg" />
+  </programme>
+  <programme start="20261017055200 -0300" stop="20261017074800 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Deportivo La Corunã x Levante</title>
+    <desc lang="pt">La Liga: Clubes tradicionais e estrelas internacionais em busca da taça do Campeonato Espanhol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001572303_epg.jpg" />
+  </programme>
+  <programme start="20261017074800 -0300" stop="20261017094700 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Sassuolo x Milan</title>
+    <desc lang="pt">Série A: O campeonato italiano reúne os principais clubes do país em disputas emocionantes por títulos, gols e clássicos históricos.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001567186_epg.jpg" />
+  </programme>
+  <programme start="20261017094700 -0300" stop="20261017102000 -0300" channel="SportyNet HD">
+    <title lang="pt">Pré-Jogo - Ao Vivo</title>
     <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001477452_epg.jpg" />
   </programme>
-  <programme start="20261017111700 -0300" stop="20261017131600 -0300" channel="SportyNet HD">
-    <title lang="pt">Programação SportyNet</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
+  <programme start="20261017102000 -0300" stop="20261017121800 -0300" channel="SportyNet HD">
+    <title lang="pt">Union Berlin x Borussia Dortmund - Ao Vivo</title>
+    <desc lang="pt">Union Berlin e Borussia Dortmund jogam pela 6ª rodada do Primeiro Turno da Bundesliga, no An der Alten Försterei, em Köpenick, Alemanha.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001572306_epg.jpg" />
   </programme>
-  <programme start="20261017131600 -0300" stop="20261017133100 -0300" channel="SportyNet HD">
-    <title lang="pt">Programação SportyNet</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
+  <programme start="20261017121800 -0300" stop="20261017153200 -0300" channel="SportyNet HD">
+    <title lang="pt">Mantova x Palermo - Ao Vivo</title>
+    <desc lang="pt">Mantova e Palermo jogam pela 7ª rodada do Primeiro Turno do Campeonato Italiano, Série B, no Danilo Martelli, em Mantova, Itália.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001572307_epg.jpg" />
   </programme>
-  <programme start="20261017133100 -0300" stop="20261017153000 -0300" channel="SportyNet HD">
-    <title lang="pt">Programação SportyNet</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
-  </programme>
-  <programme start="20261017153000 -0300" stop="20261017165300 -0300" channel="SportyNet HD">
+  <programme start="20261017153200 -0300" stop="20261017164000 -0300" channel="SportyNet HD">
     <title lang="pt">Sporty Show - Ao Vivo</title>
     <desc lang="pt">O programa chega como pré-jogo oficial da rodada, trazendo análises, convidados e todo o clima da decisão da Série C. Destaque para o Dérbi 212, Ponte Preta x Guarani.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001414911_epg.jpg" />
@@ -13708,37 +13749,36 @@
       <value>1</value>
     </rating>
   </programme>
-  <programme start="20261017165300 -0300" stop="20261017170800 -0300" channel="SportyNet HD">
-    <title lang="pt">Programação SportyNet</title>
+  <programme start="20261017164000 -0300" stop="20261017165500 -0300" channel="SportyNet HD">
+    <title lang="pt">Pré-Jogo - Ao Vivo</title>
     <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001477452_epg.jpg" />
   </programme>
-  <programme start="20261017170800 -0300" stop="20261017190500 -0300" channel="SportyNet HD">
-    <title lang="pt">Programação SportyNet</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
+  <programme start="20261017165500 -0300" stop="20261017185300 -0300" channel="SportyNet HD">
+    <title lang="pt">Maringá x Ferroviária - Ao Vivo</title>
+    <desc lang="pt">Maringá e Ferroviária jogam pela rodada de ida da Final do Campeonato Brasileiro, Série C, no Willie Davids, em Maringá (PR).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001572310_epg.jpg" />
   </programme>
-  <programme start="20261017190500 -0300" stop="20261017200800 -0300" channel="SportyNet HD">
+  <programme start="20261017185300 -0300" stop="20261017195300 -0300" channel="SportyNet HD">
     <title lang="pt">Minuto 91 - Ao Vivo</title>
     <desc lang="pt">Pós-jogo sem filtros: reação ao vivo, polêmicas e debate sincero. Aqui ninguém fica em cima do muro!</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001465650_epg.jpg" />
-    <episode-num system="onscreen">S89 E290</episode-num>
+    <episode-num system="onscreen">S88 E290</episode-num>
   </programme>
-  <programme start="20261017200800 -0300" stop="20261017215100 -0300" channel="SportyNet HD">
-    <title lang="pt">Filler</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
-    <episode-num system="onscreen">S80 E290</episode-num>
+  <programme start="20261017195300 -0300" stop="20261017213800 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Roma x Genoa</title>
+    <desc lang="pt">Série A: O campeonato italiano reúne os principais clubes do país em disputas emocionantes por títulos, gols e clássicos históricos.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001572299_epg.jpg" />
   </programme>
-  <programme start="20261017215100 -0300" stop="20261017220600 -0300" channel="SportyNet HD">
-    <title lang="pt">Programação SportyNet</title>
+  <programme start="20261017213800 -0300" stop="20261017215300 -0300" channel="SportyNet HD">
+    <title lang="pt">Pré-Jogo - Ao Vivo</title>
     <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001477452_epg.jpg" />
   </programme>
-  <programme start="20261017220600 -0300" stop="20261018000000 -0300" channel="SportyNet HD">
-    <title lang="pt">Programação SportyNet</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
+  <programme start="20261017215300 -0300" stop="20261018000000 -0300" channel="SportyNet HD">
+    <title lang="pt">Toluca x San Luís - Ao Vivo</title>
+    <desc lang="pt">Toluca e San Luís jogam pela 12ª rodada da fase Apertura da Liga MX, no Nemesio Díez, em Toluca, México.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001572308_epg.jpg" />
   </programme>
   <programme start="20261018000000 -0300" stop="20261018020100 -0300" channel="SportyNet HD">
     <title lang="pt">Programação SportyNet</title>
