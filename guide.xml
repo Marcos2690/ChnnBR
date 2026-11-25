@@ -3518,444 +3518,495 @@
     <desc lang="pt">Touchdowns, lançaments e tackles impactantes, jogadas acrobáticas que ficam para a história. A elite do futebol americano compete temporada após temporada em busca do Troféu Vince Lombardi.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001383563_epg.jpg" />
   </programme>
-  <programme start="20261125000000 -0300" stop="20261125030000 -0300" channel="GE TV HD">
-    <title lang="pt">NFL: Seattle Seahawks x Las Vegas Raiders</title>
-    <desc lang="pt">Seattle Seahawks e Las Vegas Raiders jogam pela 10ª rodada da fase Regular da NFL, no Allegiant Stadium, em Paradise, EUA.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001611245_epg.jpg" />
+  <programme start="20261125000000 -0300" stop="20261125010000 -0300" channel="GE TV HD">
+    <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20261125030000 -0300" stop="20261125060000 -0300" channel="GE TV HD">
-    <title lang="pt">NFL: Washington Commanders x New York Giants</title>
-    <desc lang="pt">Washington Commanders e New York Giants jogam pela 10ª rodada da fase Regular da NFL, no MetLife Stadium, em East Rutherford, EUA.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001611630_epg.jpg" />
-  </programme>
-  <programme start="20261125060000 -0300" stop="20261125070000 -0300" channel="GE TV HD">
-    <title lang="pt">Giro da Rodada - Brasileirão 2026 - 34ª Rodada</title>
-    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000119633_epg.jpg" />
-    <episode-num system="onscreen">S86 E329</episode-num>
-  </programme>
-  <programme start="20261125070000 -0300" stop="20261125080000 -0300" channel="GE TV HD">
-    <title lang="pt">Giro da Rodada - Brasileirão 2026 - 34ª Rodada</title>
-    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000119633_epg.jpg" />
-    <episode-num system="onscreen">S87 E329</episode-num>
-  </programme>
-  <programme start="20261125080000 -0300" stop="20261125110000 -0300" channel="GE TV HD">
-    <title lang="pt">NFL: Seattle Seahawks x Las Vegas Raiders</title>
-    <desc lang="pt">Seattle Seahawks e Las Vegas Raiders jogam pela 10ª rodada da fase Regular da NFL, no Allegiant Stadium, em Paradise, EUA.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001611245_epg.jpg" />
-  </programme>
-  <programme start="20261125110000 -0300" stop="20261125120000 -0300" channel="GE TV HD">
-    <title lang="pt">NFL: Washington Commanders x New York Giants</title>
-    <desc lang="pt">Washington Commanders e New York Giants jogam pela 10ª rodada da fase Regular da NFL, no MetLife Stadium, em East Rutherford, EUA.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001611630_epg.jpg" />
-  </programme>
-  <programme start="20261125120000 -0300" stop="20261125140000 -0300" channel="GE TV HD">
-    <title lang="pt">NFL: Washington Commanders x New York Giants</title>
-    <desc lang="pt">Washington Commanders e New York Giants jogam pela 10ª rodada da fase Regular da NFL, no MetLife Stadium, em East Rutherford, EUA.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001611630_epg.jpg" />
-  </programme>
-  <programme start="20261125140000 -0300" stop="20261125150000 -0300" channel="GE TV HD">
-    <title lang="pt">Giro da Rodada - Brasileirão 2026 - 34ª Rodada</title>
-    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000119633_epg.jpg" />
-    <episode-num system="onscreen">S84 E329</episode-num>
-  </programme>
-  <programme start="20261125150000 -0300" stop="20261125180000 -0300" channel="GE TV HD">
-    <title lang="pt">VT - Praia Clube x Mackenzie</title>
-    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001611632_epg.jpg" />
-  </programme>
-  <programme start="20261125180000 -0300" stop="20261125200000 -0300" channel="GE TV HD">
-    <title lang="pt">VT - Fluminense x Minas</title>
-    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617193_epg.jpg" />
-  </programme>
-  <programme start="20261125200000 -0300" stop="20261125220000 -0300" channel="GE TV HD">
-    <title lang="pt">VT - Guarulhos x Minas</title>
-    <desc lang="pt">Aqui é a casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001613097_epg.jpg" />
-  </programme>
-  <programme start="20261125220000 -0300" stop="20261126000000 -0300" channel="GE TV HD">
-    <title lang="pt">VT - Flamengo x Internacional</title>
-    <desc lang="pt">Flamengo e Internacional jogam a rodada de ida da Final da Copa do Brasil Feminina, no Luso-Brasileiro, no Rio de Janeiro (RJ).</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001610783_epg.jpg" />
-  </programme>
-  <programme start="20261126000000 -0300" stop="20261126020000 -0300" channel="GE TV HD">
-    <title lang="pt">VT - Internacional x Flamengo</title>
-    <desc lang="pt">Internacional e Flamengo jogam a rodada de volta da Final da Copa do Brasil Feminina, no Beira-Rio, em Porto Alegre (RS).</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001613376_epg.jpg" />
-  </programme>
-  <programme start="20261126020000 -0300" stop="20261126040000 -0300" channel="GE TV HD">
+  <programme start="20261125010000 -0300" stop="20261125030000 -0300" channel="GE TV HD">
     <title lang="pt">VT - Brasil x Japão</title>
     <desc lang="pt">As maiores estrelas do futebol masculino, se enfrentam em mais um amistoso internacional, aqui no sportv!</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001610773_epg.jpg" />
   </programme>
-  <programme start="20261126040000 -0300" stop="20261126060000 -0300" channel="GE TV HD">
-    <title lang="pt">VT - França x Turquia</title>
-    <desc lang="pt">França e Turquia jogam pela 6ª rodada da fase de grupos da Liga das Nações da UEFA, no Matmut Stadium, em Lyon, França.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001611214_epg.jpg" />
+  <programme start="20261125030000 -0300" stop="20261125050000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Brasil x Singapura</title>
+    <desc lang="pt">As maiores estrelas do futebol masculino, se enfrentam em mais um amistoso internacional, aqui no sportv!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001610774_epg.jpg" />
+  </programme>
+  <programme start="20261125050000 -0300" stop="20261125060000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S85 E329</episode-num>
+  </programme>
+  <programme start="20261125060000 -0300" stop="20261125070000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S86 E329</episode-num>
+  </programme>
+  <programme start="20261125070000 -0300" stop="20261125080000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S87 E329</episode-num>
+  </programme>
+  <programme start="20261125080000 -0300" stop="20261125093000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Copa do Mundo de Skate Street - Final Feminina - Utsunomiya</title>
+    <desc lang="pt">As maiores emoções da Copa do Mundo de Skate, você acompanha aqui no sportv!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001624634_epg.jpg" />
+  </programme>
+  <programme start="20261125093000 -0300" stop="20261125110000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Copa do Mundo de Skate Street - Final Masculina - Utsunomiya</title>
+    <desc lang="pt">As maiores emoções da Copa do Mundo de Skate, você acompanha aqui no sportv!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001624635_epg.jpg" />
+  </programme>
+  <programme start="20261125110000 -0300" stop="20261125120000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S81 E329</episode-num>
+  </programme>
+  <programme start="20261125120000 -0300" stop="20261125134500 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Minas x SESI-Bauru</title>
+    <desc lang="pt">Aqui é a casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001623721_epg.jpg" />
+  </programme>
+  <programme start="20261125134500 -0300" stop="20261125154500 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Brasília x Pinheiros</title>
+    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001623720_epg.jpg" />
+  </programme>
+  <programme start="20261125154500 -0300" stop="20261125181500 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Goiás x Montes Claros</title>
+    <desc lang="pt">Aqui é a casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001619397_epg.jpg" />
+  </programme>
+  <programme start="20261125181500 -0300" stop="20261125183000 -0300" channel="GE TV HD">
+    <title lang="pt">Pré-Jogo - Ao Vivo</title>
+    <desc lang="pt">É hora de analisar. Você confere as últimas informações, escalações, análises táticas, destaques individuais e o clima dentro e fora de campo.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001455572_epg.jpg" />
+  </programme>
+  <programme start="20261125183000 -0300" stop="20261125203000 -0300" channel="GE TV HD">
+    <title lang="pt">Montes Claros x Campinas - Ao Vivo</title>
+    <desc lang="pt">Aqui é a casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001623722_epg.jpg" />
+  </programme>
+  <programme start="20261125203000 -0300" stop="20261125210000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S80 E329</episode-num>
+  </programme>
+  <programme start="20261125210000 -0300" stop="20261125220000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - NFL: Jacksonville Jaguars x New York Giants</title>
+    <desc lang="pt">A NFL está de volta! E chegou a hora de viver cada jogada, vibrar com os touchdowns e acompanhar o talento das grandes estrelas. Viva a NFL!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617597_epg.jpg" />
+  </programme>
+  <programme start="20261125220000 -0300" stop="20261126001000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - NFL: Jacksonville Jaguars x New York Giants</title>
+    <desc lang="pt">A NFL está de volta! E chegou a hora de viver cada jogada, vibrar com os touchdowns e acompanhar o talento das grandes estrelas. Viva a NFL!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617597_epg.jpg" />
+  </programme>
+  <programme start="20261126001000 -0300" stop="20261126030000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - NFL: Indianapolis Colts x Houston Texans</title>
+    <desc lang="pt">Prepare-se para a energia contagiante da NFL. Equipes duelam em jogadas rápidas e estratégicas, onde velocidade, força e precisão se encontram.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001619399_epg.jpg" />
+  </programme>
+  <programme start="20261126030000 -0300" stop="20261126060000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - NFL: Seattle Seahawks x Las Vegas Raiders</title>
+    <desc lang="pt">A NFL está de volta! E chegou a hora de viver cada jogada, vibrar com os touchdowns e acompanhar o talento das grandes estrelas. Viva a NFL!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617600_epg.jpg" />
   </programme>
   <programme start="20261126060000 -0300" stop="20261126070000 -0300" channel="GE TV HD">
     <title lang="pt">Giro da Rodada</title>
-    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
     <episode-num system="onscreen">S86 E330</episode-num>
   </programme>
   <programme start="20261126070000 -0300" stop="20261126080000 -0300" channel="GE TV HD">
     <title lang="pt">Giro da Rodada</title>
-    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
     <episode-num system="onscreen">S87 E330</episode-num>
   </programme>
-  <programme start="20261126080000 -0300" stop="20261126110000 -0300" channel="GE TV HD">
-    <title lang="pt">VT - Praia Clube x Mackenzie</title>
-    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001611632_epg.jpg" />
+  <programme start="20261126080000 -0300" stop="20261126100000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Flamengo x Internacional</title>
+    <desc lang="pt">Flamengo e Internacional jogam a rodada de ida da Final da Copa do Brasil Feminina, no Luso-Brasileiro, no Rio de Janeiro (RJ).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001610783_epg.jpg" />
+  </programme>
+  <programme start="20261126100000 -0300" stop="20261126110000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S80 E330</episode-num>
   </programme>
   <programme start="20261126110000 -0300" stop="20261126130000 -0300" channel="GE TV HD">
-    <title lang="pt">VT - Guarulhos x Minas</title>
-    <desc lang="pt">Aqui é a casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001613097_epg.jpg" />
+    <title lang="pt">VT - Palmeiras x Vasco</title>
+    <desc lang="pt">Palmeiras e Vasco jogam a rodada de ida da Semifinal da Copa do Brasil, no Nubank Parque, em São Paulo (SP).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001591715_epg.jpg" />
   </programme>
   <programme start="20261126130000 -0300" stop="20261126150000 -0300" channel="GE TV HD">
-    <title lang="pt">VT - Fluminense x Minas</title>
-    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617193_epg.jpg" />
+    <title lang="pt">VT - Vasco x Palmeiras</title>
+    <desc lang="pt">Vasco e Palmeiras jogam a rodada de volta da Semifinal da Copa do Brasil, em São Januário, no Rio de Janeiro (RJ).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001603504_epg.jpg" />
   </programme>
   <programme start="20261126150000 -0300" stop="20261126160000 -0300" channel="GE TV HD">
-    <title lang="pt">Giro da Rodada</title>
-    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
-    <episode-num system="onscreen">S85 E330</episode-num>
-  </programme>
-  <programme start="20261126160000 -0300" stop="20261126180000 -0300" channel="GE TV HD">
-    <title lang="pt">VT - Argentina x Costa Rica</title>
-    <desc lang="pt">Argentina e Costa Rica jogam o Amistoso Internacional, no Mario Alberto Kempes, em Córdoba, Argentina.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617195_epg.jpg" />
-  </programme>
-  <programme start="20261126180000 -0300" stop="20261126200000 -0300" channel="GE TV HD">
-    <title lang="pt">VT - Brasil x Singapura</title>
-    <desc lang="pt">As maiores estrelas do futebol masculino, se enfrentam em mais um amistoso internacional, aqui no sportv!</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001610774_epg.jpg" />
-  </programme>
-  <programme start="20261126200000 -0300" stop="20261126213000 -0300" channel="GE TV HD">
-    <title lang="pt">Programação do Canal</title>
-    <desc lang="pt">Sinopse não Disponível.</desc>
+    <title lang="pt">Fanzone - Libertadores - Treino, Hotel e Fanzone</title>
+    <desc lang="pt">Lives GE TV.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001370834_epg.jpg" />
   </programme>
-  <programme start="20261126213000 -0300" stop="20261126233000 -0300" channel="GE TV HD">
-    <title lang="pt">Programação do Canal</title>
-    <desc lang="pt">Sinopse não Disponível.</desc>
+  <programme start="20261126160000 -0300" stop="20261126190000 -0300" channel="GE TV HD">
+    <title lang="pt">Fanzone - Libertadores - Treino, Hotel e Fanzone</title>
+    <desc lang="pt">Lives GE TV.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001370834_epg.jpg" />
   </programme>
-  <programme start="20261126233000 -0300" stop="20261127003000 -0300" channel="GE TV HD">
+  <programme start="20261126190000 -0300" stop="20261126210000 -0300" channel="GE TV HD">
     <title lang="pt">Tropa GE TV - Ao Vivo</title>
     <desc lang="pt">O Tropa Ge TV faz o esquenta ao vivo para a rodada do Campeonato Brasileiro com análises, quadros, informação e diversão, trazendo uma abordagem leve e bem-humorada para os jogos da competição.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118388_epg.jpg" />
-    <episode-num system="onscreen">S83 E330</episode-num>
+    <episode-num system="onscreen">S89 E330</episode-num>
   </programme>
-  <programme start="20261127003000 -0300" stop="20261127023000 -0300" channel="GE TV HD">
-    <title lang="pt">VT - Brasil x Japão</title>
-    <desc lang="pt">As maiores estrelas do futebol masculino, se enfrentam em mais um amistoso internacional, aqui no sportv!</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001610773_epg.jpg" />
-  </programme>
-  <programme start="20261127023000 -0300" stop="20261127053000 -0300" channel="GE TV HD">
-    <title lang="pt">VT - NFL: Washington Commanders x New York Giants</title>
-    <desc lang="pt">Prepare-se para a energia contagiante da NFL. Equipes duelam em jogadas rápidas e estratégicas, onde velocidade, força e precisão se encontram.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001619398_epg.jpg" />
-  </programme>
-  <programme start="20261127053000 -0300" stop="20261127060000 -0300" channel="GE TV HD">
+  <programme start="20261126210000 -0300" stop="20261126213000 -0300" channel="GE TV HD">
     <title lang="pt">Giro da Rodada</title>
-    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S81 E330</episode-num>
+  </programme>
+  <programme start="20261126213000 -0300" stop="20261126223000 -0300" channel="GE TV HD">
+    <title lang="pt">NFL: Kansas City Chiefs x Buffalo Bills - Ao Vivo</title>
+    <desc lang="pt">A NFL está de volta! E chegou a hora de viver cada jogada, vibrar com os touchdowns e acompanhar o talento das grandes estrelas. Viva a NFL!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001624639_epg.jpg" />
+  </programme>
+  <programme start="20261126223000 -0300" stop="20261127012000 -0300" channel="GE TV HD">
+    <title lang="pt">NFL: Kansas City Chiefs x Buffalo Bills - Ao Vivo</title>
+    <desc lang="pt">A NFL está de volta! E chegou a hora de viver cada jogada, vibrar com os touchdowns e acompanhar o talento das grandes estrelas. Viva a NFL!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001624639_epg.jpg" />
+  </programme>
+  <programme start="20261127012000 -0300" stop="20261127022000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - NFL: Jacksonville Jaguars x New York Giants</title>
+    <desc lang="pt">A NFL está de volta! E chegou a hora de viver cada jogada, vibrar com os touchdowns e acompanhar o talento das grandes estrelas. Viva a NFL!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617597_epg.jpg" />
+  </programme>
+  <programme start="20261127022000 -0300" stop="20261127043000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - NFL: Jacksonville Jaguars x New York Giants</title>
+    <desc lang="pt">A NFL está de volta! E chegou a hora de viver cada jogada, vibrar com os touchdowns e acompanhar o talento das grandes estrelas. Viva a NFL!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617597_epg.jpg" />
+  </programme>
+  <programme start="20261127043000 -0300" stop="20261127050000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S84 E331</episode-num>
+  </programme>
+  <programme start="20261127050000 -0300" stop="20261127060000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
     <episode-num system="onscreen">S85 E331</episode-num>
   </programme>
   <programme start="20261127060000 -0300" stop="20261127070000 -0300" channel="GE TV HD">
     <title lang="pt">Giro da Rodada</title>
-    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
     <episode-num system="onscreen">S86 E331</episode-num>
   </programme>
-  <programme start="20261127070000 -0300" stop="20261127085000 -0300" channel="GE TV HD">
-    <title lang="pt">VT - Brasil x Japão</title>
-    <desc lang="pt">As maiores estrelas do futebol masculino, se enfrentam em mais um amistoso internacional, aqui no sportv!</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001610773_epg.jpg" />
-  </programme>
-  <programme start="20261127085000 -0300" stop="20261127104500 -0300" channel="GE TV HD">
-    <title lang="pt">VT - Sérvia x Alemanha</title>
-    <desc lang="pt">Sérvia e Alemanha jogam pela 5ª rodada da fase de grupos da Liga das Nações da UEFA, no Rajko Mitic, em Belgrado, Sérvia.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001610765_epg.jpg" />
-  </programme>
-  <programme start="20261127104500 -0300" stop="20261127134500 -0300" channel="GE TV HD">
-    <title lang="pt">VT - Praia Clube x Mackenzie</title>
-    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001611632_epg.jpg" />
-  </programme>
-  <programme start="20261127134500 -0300" stop="20261127154500 -0300" channel="GE TV HD">
-    <title lang="pt">VT - Guarulhos x Minas</title>
-    <desc lang="pt">Aqui é a casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001613097_epg.jpg" />
-  </programme>
-  <programme start="20261127154500 -0300" stop="20261127160000 -0300" channel="GE TV HD">
+  <programme start="20261127070000 -0300" stop="20261127080000 -0300" channel="GE TV HD">
     <title lang="pt">Giro da Rodada</title>
-    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S87 E331</episode-num>
+  </programme>
+  <programme start="20261127080000 -0300" stop="20261127090000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S88 E331</episode-num>
+  </programme>
+  <programme start="20261127090000 -0300" stop="20261127100000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S89 E331</episode-num>
+  </programme>
+  <programme start="20261127100000 -0300" stop="20261127110000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S80 E331</episode-num>
+  </programme>
+  <programme start="20261127110000 -0300" stop="20261127120000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S81 E331</episode-num>
+  </programme>
+  <programme start="20261127120000 -0300" stop="20261127150000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S82 E331</episode-num>
+  </programme>
+  <programme start="20261127150000 -0300" stop="20261127161500 -0300" channel="GE TV HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
     <episode-num system="onscreen">S85 E331</episode-num>
   </programme>
-  <programme start="20261127160000 -0300" stop="20261127180000 -0300" channel="GE TV HD">
-    <title lang="pt">VT - Brasil x Japão</title>
-    <desc lang="pt">As maiores estrelas do futebol masculino, se enfrentam em mais um amistoso internacional, aqui no sportv!</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001610773_epg.jpg" />
+  <programme start="20261127161500 -0300" stop="20261127181500 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Montes Claros x Campinas</title>
+    <desc lang="pt">Aqui é a casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001624642_epg.jpg" />
   </programme>
-  <programme start="20261127180000 -0300" stop="20261127183000 -0300" channel="GE TV HD">
-    <title lang="pt">Programação do Canal</title>
-    <desc lang="pt">Sinopse não Disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001370834_epg.jpg" />
+  <programme start="20261127181500 -0300" stop="20261127183000 -0300" channel="GE TV HD">
+    <title lang="pt">Pré-Jogo - Ao Vivo</title>
+    <desc lang="pt">É hora de analisar. Você confere as últimas informações, escalações, análises táticas, destaques individuais e o clima dentro e fora de campo.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001455572_epg.jpg" />
   </programme>
   <programme start="20261127183000 -0300" stop="20261127203000 -0300" channel="GE TV HD">
-    <title lang="pt">Programação do Canal</title>
-    <desc lang="pt">Sinopse não Disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001370834_epg.jpg" />
+    <title lang="pt">Norde Vôlei x Goiás - Ao Vivo</title>
+    <desc lang="pt">Aqui é a casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001624643_epg.jpg" />
   </programme>
-  <programme start="20261127203000 -0300" stop="20261127232500 -0300" channel="GE TV HD">
-    <title lang="pt">VT - NFL: Washington Commanders x New York Giants</title>
-    <desc lang="pt">Prepare-se para a energia contagiante da NFL. Equipes duelam em jogadas rápidas e estratégicas, onde velocidade, força e precisão se encontram.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001619398_epg.jpg" />
+  <programme start="20261127203000 -0300" stop="20261127210000 -0300" channel="GE TV HD">
+    <title lang="pt">Pré-Jogo - Ao Vivo</title>
+    <desc lang="pt">É hora de analisar. Você confere as últimas informações, escalações, análises táticas, destaques individuais e o clima dentro e fora de campo.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001455572_epg.jpg" />
   </programme>
-  <programme start="20261127232500 -0300" stop="20261128012000 -0300" channel="GE TV HD">
-    <title lang="pt">VT - Náutico x Avaí</title>
-    <desc lang="pt">É futebol que não acaba, venha conferir mais um jogão do Brasileirão Masculino Série B!</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001448849_epg.jpg" />
+  <programme start="20261127210000 -0300" stop="20261127230000 -0300" channel="GE TV HD">
+    <title lang="pt">Praia Clube x Osasco - Ao Vivo</title>
+    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001624641_epg.jpg" />
   </programme>
-  <programme start="20261128012000 -0300" stop="20261128040000 -0300" channel="GE TV HD">
-    <title lang="pt">VT - NFL: Seattle Seahawks x Las Vegas Raiders</title>
+  <programme start="20261127230000 -0300" stop="20261128010000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Brasília x Pinheiros</title>
+    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001623720_epg.jpg" />
+  </programme>
+  <programme start="20261128010000 -0300" stop="20261128040000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - NFL: Kansas City Chiefs x Buffalo Bills</title>
     <desc lang="pt">A NFL está de volta! E chegou a hora de viver cada jogada, vibrar com os touchdowns e acompanhar o talento das grandes estrelas. Viva a NFL!</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617600_epg.jpg" />
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001624638_epg.jpg" />
   </programme>
-  <programme start="20261128040000 -0300" stop="20261128065000 -0300" channel="GE TV HD">
-    <title lang="pt">VT - NFL: Washington Commanders x New York Giants</title>
-    <desc lang="pt">Prepare-se para a energia contagiante da NFL. Equipes duelam em jogadas rápidas e estratégicas, onde velocidade, força e precisão se encontram.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001619398_epg.jpg" />
+  <programme start="20261128040000 -0300" stop="20261128060000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Brasil x Singapura</title>
+    <desc lang="pt">As maiores estrelas do futebol masculino, se enfrentam em mais um amistoso internacional, aqui no sportv!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001610774_epg.jpg" />
   </programme>
-  <programme start="20261128065000 -0300" stop="20261128070000 -0300" channel="GE TV HD">
+  <programme start="20261128060000 -0300" stop="20261128070000 -0300" channel="GE TV HD">
     <title lang="pt">Giro da Rodada</title>
-    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
     <episode-num system="onscreen">S86 E332</episode-num>
   </programme>
   <programme start="20261128070000 -0300" stop="20261128080000 -0300" channel="GE TV HD">
     <title lang="pt">Giro da Rodada</title>
-    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
     <episode-num system="onscreen">S87 E332</episode-num>
   </programme>
-  <programme start="20261128080000 -0300" stop="20261128083000 -0300" channel="GE TV HD">
+  <programme start="20261128080000 -0300" stop="20261128090000 -0300" channel="GE TV HD">
     <title lang="pt">Giro da Rodada</title>
-    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
     <episode-num system="onscreen">S88 E332</episode-num>
   </programme>
-  <programme start="20261128083000 -0300" stop="20261128103000 -0300" channel="GE TV HD">
+  <programme start="20261128090000 -0300" stop="20261128100000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S89 E332</episode-num>
+  </programme>
+  <programme start="20261128100000 -0300" stop="20261128110000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S80 E332</episode-num>
+  </programme>
+  <programme start="20261128110000 -0300" stop="20261128133000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S81 E332</episode-num>
+  </programme>
+  <programme start="20261128133000 -0300" stop="20261128153000 -0300" channel="GE TV HD">
+    <title lang="pt">Super Pré-Jogo</title>
+    <desc lang="pt">É hora de analisar. Você confere as últimas informações, escalações, análises táticas, destaques individuais e o clima dentro e fora de campo.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001370834_epg.jpg" />
+    <episode-num system="onscreen">S83 E332</episode-num>
+  </programme>
+  <programme start="20261128153000 -0300" stop="20261128170000 -0300" channel="GE TV HD">
+    <title lang="pt">Pré-Jogo - Ao Vivo</title>
+    <desc lang="pt">É hora de analisar. Você confere as últimas informações, escalações, análises táticas, destaques individuais e o clima dentro e fora de campo.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001455572_epg.jpg" />
+  </programme>
+  <programme start="20261128170000 -0300" stop="20261128190000 -0300" channel="GE TV HD">
+    <title lang="pt">Palmeiras x Estudiantes - Ao Vivo</title>
+    <desc lang="pt">Palmeiras e Estudiantes jogam a Final da Libertadores, no Centenário, em Montevidéu, Uruguai.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001618772_epg.jpg" />
+  </programme>
+  <programme start="20261128190000 -0300" stop="20261128210000 -0300" channel="GE TV HD">
+    <title lang="pt">Tropa GE TV - Ao Vivo</title>
+    <desc lang="pt">O Tropa Ge TV faz o esquenta ao vivo para a rodada do Campeonato Brasileiro com análises, quadros, informação e diversão, trazendo uma abordagem leve e bem-humorada para os jogos da competição.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118388_epg.jpg" />
+    <episode-num system="onscreen">S89 E332</episode-num>
+  </programme>
+  <programme start="20261128210000 -0300" stop="20261128220000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S81 E332</episode-num>
+  </programme>
+  <programme start="20261128220000 -0300" stop="20261129000000 -0300" channel="GE TV HD">
     <title lang="pt">VT - Flamengo x Internacional</title>
     <desc lang="pt">Flamengo e Internacional jogam a rodada de ida da Final da Copa do Brasil Feminina, no Luso-Brasileiro, no Rio de Janeiro (RJ).</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001610783_epg.jpg" />
   </programme>
-  <programme start="20261128103000 -0300" stop="20261128123000 -0300" channel="GE TV HD">
+  <programme start="20261129000000 -0300" stop="20261129015500 -0300" channel="GE TV HD">
     <title lang="pt">VT - Internacional x Flamengo</title>
     <desc lang="pt">Internacional e Flamengo jogam a rodada de volta da Final da Copa do Brasil Feminina, no Beira-Rio, em Porto Alegre (RS).</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001613376_epg.jpg" />
   </programme>
-  <programme start="20261128123000 -0300" stop="20261128133000 -0300" channel="GE TV HD">
-    <title lang="pt">VT - Flamengo x Palmeiras</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001453744_epg.jpg" />
+  <programme start="20261129015500 -0300" stop="20261129035500 -0300" channel="GE TV HD">
+    <title lang="pt">Brasil x Japão - Ao Vivo</title>
+    <desc lang="pt">As maiores estrelas do futebol masculino, se enfrentam em mais um amistoso internacional, aqui no sportv!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001624633_epg.jpg" />
   </programme>
-  <programme start="20261128133000 -0300" stop="20261128143000 -0300" channel="GE TV HD">
-    <title lang="pt">VT - Flamengo x Palmeiras</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001453744_epg.jpg" />
+  <programme start="20261129035500 -0300" stop="20261129060000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Brasil x Singapura</title>
+    <desc lang="pt">As maiores estrelas do futebol masculino, se enfrentam em mais um amistoso internacional, aqui no sportv!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001610774_epg.jpg" />
   </programme>
-  <programme start="20261128143000 -0300" stop="20261128163000 -0300" channel="GE TV HD">
-    <title lang="pt">Programação do Canal</title>
-    <desc lang="pt">Sinopse não Disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001370834_epg.jpg" />
+  <programme start="20261129060000 -0300" stop="20261129070000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S86 E333</episode-num>
   </programme>
-  <programme start="20261128163000 -0300" stop="20261128183000 -0300" channel="GE TV HD">
-    <title lang="pt">Programação do Canal</title>
-    <desc lang="pt">Sinopse não Disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001370834_epg.jpg" />
+  <programme start="20261129070000 -0300" stop="20261129073000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S87 E333</episode-num>
   </programme>
-  <programme start="20261128183000 -0300" stop="20261128193000 -0300" channel="GE TV HD">
-    <title lang="pt">Tropa GE TV - Ao Vivo</title>
-    <desc lang="pt">O Tropa Ge TV faz o esquenta ao vivo para a rodada do Campeonato Brasileiro com análises, quadros, informação e diversão, trazendo uma abordagem leve e bem-humorada para os jogos da competição.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118388_epg.jpg" />
-    <episode-num system="onscreen">S88 E332</episode-num>
+  <programme start="20261129073000 -0300" stop="20261129103000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - NFL: Kansas City Chiefs x Buffalo Bills</title>
+    <desc lang="pt">A NFL está de volta! E chegou a hora de viver cada jogada, vibrar com os touchdowns e acompanhar o talento das grandes estrelas. Viva a NFL!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001624638_epg.jpg" />
   </programme>
-  <programme start="20261128193000 -0300" stop="20261128213000 -0300" channel="GE TV HD">
-    <title lang="pt">VT - São Paulo x Fluminense</title>
-    <desc lang="pt">São Paulo e Fluminense jogam pela 35ª rodada do Segundo Turno do Campeonato Brasileirão.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617208_epg.jpg" />
-  </programme>
-  <programme start="20261128213000 -0300" stop="20261128233000 -0300" channel="GE TV HD">
+  <programme start="20261129103000 -0300" stop="20261129123000 -0300" channel="GE TV HD">
     <title lang="pt">VT - São Paulo x Corinthians</title>
     <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001591714_epg.jpg" />
   </programme>
-  <programme start="20261128233000 -0300" stop="20261129000000 -0300" channel="GE TV HD">
-    <title lang="pt">Giro da Rodada</title>
-    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
-    <episode-num system="onscreen">S83 E332</episode-num>
-  </programme>
-  <programme start="20261129000000 -0300" stop="20261129030000 -0300" channel="GE TV HD">
-    <title lang="pt">VT - NFL: Indianapolis Colts x Houston Texans</title>
-    <desc lang="pt">Prepare-se para a energia contagiante da NFL. Equipes duelam em jogadas rápidas e estratégicas, onde velocidade, força e precisão se encontram.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001619399_epg.jpg" />
-  </programme>
-  <programme start="20261129030000 -0300" stop="20261129060000 -0300" channel="GE TV HD">
-    <title lang="pt">VT - NFL: Seattle Seahawks x Las Vegas Raiders</title>
-    <desc lang="pt">A NFL está de volta! E chegou a hora de viver cada jogada, vibrar com os touchdowns e acompanhar o talento das grandes estrelas. Viva a NFL!</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617600_epg.jpg" />
-  </programme>
-  <programme start="20261129060000 -0300" stop="20261129070000 -0300" channel="GE TV HD">
-    <title lang="pt">Giro da Rodada</title>
-    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
-    <episode-num system="onscreen">S86 E333</episode-num>
-  </programme>
-  <programme start="20261129070000 -0300" stop="20261129090000 -0300" channel="GE TV HD">
-    <title lang="pt">VT - Guarulhos x Minas</title>
-    <desc lang="pt">Aqui é a casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001613097_epg.jpg" />
-  </programme>
-  <programme start="20261129090000 -0300" stop="20261129110000 -0300" channel="GE TV HD">
-    <title lang="pt">VT - Fluminense x Minas</title>
-    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617193_epg.jpg" />
-  </programme>
-  <programme start="20261129110000 -0300" stop="20261129130000 -0300" channel="GE TV HD">
-    <title lang="pt">VT - Mackenzie x Brusque</title>
-    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001619394_epg.jpg" />
-  </programme>
-  <programme start="20261129130000 -0300" stop="20261129140000 -0300" channel="GE TV HD">
-    <title lang="pt">Giro da Rodada</title>
-    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
-    <episode-num system="onscreen">S83 E333</episode-num>
-  </programme>
-  <programme start="20261129140000 -0300" stop="20261129170000 -0300" channel="GE TV HD">
-    <title lang="pt">VT - NFL: Indianapolis Colts x Houston Texans</title>
-    <desc lang="pt">Prepare-se para a energia contagiante da NFL. Equipes duelam em jogadas rápidas e estratégicas, onde velocidade, força e precisão se encontram.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001619399_epg.jpg" />
-  </programme>
-  <programme start="20261129170000 -0300" stop="20261129180000 -0300" channel="GE TV HD">
-    <title lang="pt">Que Coffee - Ao Vivo</title>
-    <desc lang="pt">O programa de pré-jogo feito sob medida para os fãs de futebol americano. Ele acompanha os lances em tempo real, traz estatísticas da rodada da NFL.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000119328_epg.jpg" />
-    <episode-num system="onscreen">S87 E333</episode-num>
-  </programme>
-  <programme start="20261129180000 -0300" stop="20261129183000 -0300" channel="GE TV HD">
-    <title lang="pt">Programação do Canal</title>
-    <desc lang="pt">Sinopse não Disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001370834_epg.jpg" />
-  </programme>
-  <programme start="20261129183000 -0300" stop="20261129213000 -0300" channel="GE TV HD">
-    <title lang="pt">Programação do Canal</title>
-    <desc lang="pt">Sinopse não Disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001370834_epg.jpg" />
-  </programme>
-  <programme start="20261129213000 -0300" stop="20261129220000 -0300" channel="GE TV HD">
-    <title lang="pt">Giro da Rodada</title>
-    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
-    <episode-num system="onscreen">S81 E333</episode-num>
-  </programme>
-  <programme start="20261129220000 -0300" stop="20261130000000 -0300" channel="GE TV HD">
-    <title lang="pt">VT - Flamengo x Palmeiras</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001453744_epg.jpg" />
-  </programme>
-  <programme start="20261130000000 -0300" stop="20261130020000 -0300" channel="GE TV HD">
+  <programme start="20261129123000 -0300" stop="20261129143000 -0300" channel="GE TV HD">
     <title lang="pt">VT - São Paulo x Fluminense</title>
     <desc lang="pt">São Paulo e Fluminense jogam pela 35ª rodada do Segundo Turno do Campeonato Brasileirão.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617208_epg.jpg" />
   </programme>
-  <programme start="20261130020000 -0300" stop="20261130040000 -0300" channel="GE TV HD">
-    <title lang="pt">VT - Flamengo x Internacional</title>
-    <desc lang="pt">Flamengo e Internacional jogam a rodada de ida da Final da Copa do Brasil Feminina, no Luso-Brasileiro, no Rio de Janeiro (RJ).</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001610783_epg.jpg" />
+  <programme start="20261129143000 -0300" stop="20261129160000 -0300" channel="GE TV HD">
+    <title lang="pt">Pré-Jogo - Ao Vivo</title>
+    <desc lang="pt">É hora de analisar. Você confere as últimas informações, escalações, análises táticas, destaques individuais e o clima dentro e fora de campo.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001455572_epg.jpg" />
   </programme>
-  <programme start="20261130040000 -0300" stop="20261130060000 -0300" channel="GE TV HD">
-    <title lang="pt">VT - Internacional x Flamengo</title>
-    <desc lang="pt">Internacional e Flamengo jogam a rodada de volta da Final da Copa do Brasil Feminina, no Beira-Rio, em Porto Alegre (RS).</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001613376_epg.jpg" />
+  <programme start="20261129160000 -0300" stop="20261129180000 -0300" channel="GE TV HD">
+    <title lang="pt">Vitória x Santos - Ao Vivo</title>
+    <desc lang="pt">Vitória e Santos jogam pela 37ª rodada do Segundo Turno do Brasileirão, no Manoel Barradas, em Salvador (BA).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001614040_epg.jpg" />
+  </programme>
+  <programme start="20261129180000 -0300" stop="20261129190000 -0300" channel="GE TV HD">
+    <title lang="pt">Tropa GE TV - Ao Vivo</title>
+    <desc lang="pt">O Tropa Ge TV faz o esquenta ao vivo para a rodada do Campeonato Brasileiro com análises, quadros, informação e diversão, trazendo uma abordagem leve e bem-humorada para os jogos da competição.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118388_epg.jpg" />
+    <episode-num system="onscreen">S88 E333</episode-num>
+  </programme>
+  <programme start="20261129190000 -0300" stop="20261130010000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Palmeiras x Estudiantes</title>
+    <desc lang="pt">Os maiores atletas do futebol, disputam a taça da libertadores.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001624637_epg.jpg" />
+  </programme>
+  <programme start="20261130010000 -0300" stop="20261130030000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Brasil x Japão</title>
+    <desc lang="pt">As maiores estrelas do futebol masculino, se enfrentam em mais um amistoso internacional, aqui no sportv!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001610773_epg.jpg" />
+  </programme>
+  <programme start="20261130030000 -0300" stop="20261130050000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Brasil x Singapura</title>
+    <desc lang="pt">As maiores estrelas do futebol masculino, se enfrentam em mais um amistoso internacional, aqui no sportv!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001610774_epg.jpg" />
+  </programme>
+  <programme start="20261130050000 -0300" stop="20261130060000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S85 E334</episode-num>
   </programme>
   <programme start="20261130060000 -0300" stop="20261130070000 -0300" channel="GE TV HD">
     <title lang="pt">Giro da Rodada</title>
-    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
     <episode-num system="onscreen">S86 E334</episode-num>
   </programme>
   <programme start="20261130070000 -0300" stop="20261130080000 -0300" channel="GE TV HD">
     <title lang="pt">Giro da Rodada</title>
-    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
     <episode-num system="onscreen">S87 E334</episode-num>
   </programme>
-  <programme start="20261130080000 -0300" stop="20261130100000 -0300" channel="GE TV HD">
-    <title lang="pt">VT - São Paulo x Corinthians</title>
-    <desc lang="pt">Reveja partidas históricas do seu esporte favorito!</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001550040_epg.jpg" />
+  <programme start="20261130080000 -0300" stop="20261130093000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Copa do Mundo de Skate Street - Final Feminina - Utsunomiya</title>
+    <desc lang="pt">As maiores emoções da Copa do Mundo de Skate, você acompanha aqui no sportv!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001624634_epg.jpg" />
   </programme>
-  <programme start="20261130100000 -0300" stop="20261130120000 -0300" channel="GE TV HD">
-    <title lang="pt">VT - São Paulo x Fluminense</title>
-    <desc lang="pt">São Paulo e Fluminense jogam pela 35ª rodada do Segundo Turno do Campeonato Brasileirão.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617208_epg.jpg" />
+  <programme start="20261130093000 -0300" stop="20261130110000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Copa do Mundo de Skate Street - Final Masculina - Utsunomiya</title>
+    <desc lang="pt">As maiores emoções da Copa do Mundo de Skate, você acompanha aqui no sportv!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001624635_epg.jpg" />
   </programme>
-  <programme start="20261130120000 -0300" stop="20261130140000 -0300" channel="GE TV HD">
-    <title lang="pt">VT - Palmeiras x Flamengo</title>
-    <desc lang="pt">Palmeiras e Flamengo jogam pela 36ª rodada do Segundo Turno do Campeonato Brasileirão, no Nubank Parque, em São Paulo (SP).</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617205_epg.jpg" />
-  </programme>
-  <programme start="20261130140000 -0300" stop="20261130153000 -0300" channel="GE TV HD">
+  <programme start="20261130110000 -0300" stop="20261130120000 -0300" channel="GE TV HD">
     <title lang="pt">Giro da Rodada</title>
-    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
-    <episode-num system="onscreen">S84 E334</episode-num>
+    <episode-num system="onscreen">S81 E334</episode-num>
   </programme>
-  <programme start="20261130153000 -0300" stop="20261130170000 -0300" channel="GE TV HD">
-    <title lang="pt">VT - Fluminense x Minas</title>
+  <programme start="20261130120000 -0300" stop="20261130134500 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Minas x SESI-Bauru</title>
+    <desc lang="pt">Aqui é a casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001623721_epg.jpg" />
+  </programme>
+  <programme start="20261130134500 -0300" stop="20261130154500 -0300" channel="GE TV HD">
+    <title lang="pt">VT - Brasília x Pinheiros</title>
     <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617193_epg.jpg" />
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001623720_epg.jpg" />
   </programme>
-  <programme start="20261130170000 -0300" stop="20261130181500 -0300" channel="GE TV HD">
-    <title lang="pt">Levantou, Cortou - Ao Vivo</title>
-    <desc lang="pt">Levantou, Cortou!</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000119534_epg.jpg" />
-    <episode-num system="onscreen">S87 E334</episode-num>
-  </programme>
-  <programme start="20261130181500 -0300" stop="20261130183000 -0300" channel="GE TV HD">
-    <title lang="pt">Programação do Canal</title>
-    <desc lang="pt">Sinopse não Disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001370834_epg.jpg" />
-  </programme>
-  <programme start="20261130183000 -0300" stop="20261130203000 -0300" channel="GE TV HD">
-    <title lang="pt">Programação do Canal</title>
-    <desc lang="pt">Sinopse não Disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001370834_epg.jpg" />
-  </programme>
-  <programme start="20261130203000 -0300" stop="20261130223000 -0300" channel="GE TV HD">
-    <title lang="pt">Panela sportv - Ao Vivo</title>
-    <desc lang="pt">Toda segunda-feira, Fred Bruno apresenta o Panela sportv de uma forma descontraída sobre a rodada do Brasileirão. Com André Balada como convidado fixo, o programa traz uma resenha leve e dinâmica.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000116626_epg.jpg" />
-    <episode-num system="onscreen">S80 E334</episode-num>
-  </programme>
-  <programme start="20261130223000 -0300" stop="20261201003000 -0300" channel="GE TV HD">
+  <programme start="20261130154500 -0300" stop="20261130181500 -0300" channel="GE TV HD">
     <title lang="pt">VT - Goiás x Montes Claros</title>
     <desc lang="pt">Aqui é a casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001619397_epg.jpg" />
+  </programme>
+  <programme start="20261130181500 -0300" stop="20261130183000 -0300" channel="GE TV HD">
+    <title lang="pt">Pré-Jogo - Ao Vivo</title>
+    <desc lang="pt">É hora de analisar. Você confere as últimas informações, escalações, análises táticas, destaques individuais e o clima dentro e fora de campo.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001455572_epg.jpg" />
+  </programme>
+  <programme start="20261130183000 -0300" stop="20261130203000 -0300" channel="GE TV HD">
+    <title lang="pt">Montes Claros x Campinas - Ao Vivo</title>
+    <desc lang="pt">Aqui é a casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001623722_epg.jpg" />
+  </programme>
+  <programme start="20261130203000 -0300" stop="20261130210000 -0300" channel="GE TV HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S80 E334</episode-num>
+  </programme>
+  <programme start="20261130210000 -0300" stop="20261130220000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - NFL: Jacksonville Jaguars x New York Giants</title>
+    <desc lang="pt">A NFL está de volta! E chegou a hora de viver cada jogada, vibrar com os touchdowns e acompanhar o talento das grandes estrelas. Viva a NFL!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617597_epg.jpg" />
+  </programme>
+  <programme start="20261130220000 -0300" stop="20261201003000 -0300" channel="GE TV HD">
+    <title lang="pt">VT - NFL: Jacksonville Jaguars x New York Giants</title>
+    <desc lang="pt">A NFL está de volta! E chegou a hora de viver cada jogada, vibrar com os touchdowns e acompanhar o talento das grandes estrelas. Viva a NFL!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617597_epg.jpg" />
   </programme>
   <programme start="20261201003000 -0300" stop="20261201033000 -0300" channel="GE TV HD">
     <title lang="pt">VT - NFL: Jacksonville Jaguars x New York Giants</title>
@@ -11809,73 +11860,62 @@
     <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001621348_epg.jpg" />
   </programme>
-  <programme start="20261124233000 -0300" stop="20261125010000 -0300" channel="SPORTV">
+  <programme start="20261125000000 -0300" stop="20261125003000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Bragantino x Vasco</title>
+    <desc lang="pt">Bragantino e Vasco jogam pela 36ª rodada do Segundo Turno do Campeonato Brasileirão, no Cícero de Souza Marques, em Bragança Paulista (SP).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617198_epg.jpg" />
+  </programme>
+  <programme start="20261125003000 -0300" stop="20261125013000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Corinthians x Bragantino</title>
+    <desc lang="pt">Corinthians e Bragantino jogam a rodada de volta da Play-inª fase do Campeonato Paulista Feminino, no Parque São Jorge, em São Paulo (SP).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617285_epg.jpg" />
+  </programme>
+  <programme start="20261125013000 -0300" stop="20261125023000 -0300" channel="SPORTV">
+    <title lang="pt">VT - São Paulo x Atlético-MG</title>
+    <desc lang="pt">São Paulo e Atlético-MG jogam a rodada de volta da Semifinal da Copa do Brasil Sub-20, no Cotia, em Cotia (SP).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001623696_epg.jpg" />
+  </programme>
+  <programme start="20261125023000 -0300" stop="20261125030000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Internacional x Vitória</title>
+    <desc lang="pt">Internacional e Vitória jogam pela 36ª rodada do Segundo Turno do Campeonato Brasileirão, no Beira-Rio, em Porto Alegre (RS).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617204_epg.jpg" />
+  </programme>
+  <programme start="20261125030000 -0300" stop="20261125033000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Bragantino x Vasco</title>
+    <desc lang="pt">Bragantino e Vasco jogam pela 36ª rodada do Segundo Turno do Campeonato Brasileirão, no Cícero de Souza Marques, em Bragança Paulista (SP).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617198_epg.jpg" />
+  </programme>
+  <programme start="20261125033000 -0300" stop="20261125040000 -0300" channel="SPORTV">
     <title lang="pt">VT - Santos x Grêmio</title>
     <desc lang="pt">Santos e Grêmio jogam pela 36ª rodada do Segundo Turno do Campeonato Brasileirão.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617207_epg.jpg" />
   </programme>
-  <programme start="20261125010000 -0300" stop="20261125010500 -0300" channel="SPORTV">
-    <title lang="pt">Pílula Futebol Feminino: Olho Nelas</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000119496_epg.jpg" />
-    <episode-num system="onscreen">S81 E329</episode-num>
-  </programme>
-  <programme start="20261125010500 -0300" stop="20261125013000 -0300" channel="SPORTV">
-    <title lang="pt">VT - Vasco x Internacional</title>
-    <desc lang="pt">Vasco e Internacional jogam pela 35ª rodada do Segundo Turno do Campeonato Brasileirão, no São Januário, no Rio de Janeiro (RJ).</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617210_epg.jpg" />
-  </programme>
-  <programme start="20261125013000 -0300" stop="20261125020000 -0300" channel="SPORTV">
-    <title lang="pt">VT - São Paulo x Fluminense</title>
-    <desc lang="pt">São Paulo e Fluminense jogam pela 35ª rodada do Segundo Turno do Campeonato Brasileirão.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617208_epg.jpg" />
-  </programme>
-  <programme start="20261125020000 -0300" stop="20261125023000 -0300" channel="SPORTV">
-    <title lang="pt">VT - Vitória x Bragantino</title>
-    <desc lang="pt">Vitória e Bragantino jogam pela 35ª rodada do Segundo Turno do Brasileirão, no Manoel Barradas, em Salvador (BA).</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617211_epg.jpg" />
-  </programme>
-  <programme start="20261125023000 -0300" stop="20261125030000 -0300" channel="SPORTV">
-    <title lang="pt">VT - Remo x Chapecoense</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001611195_epg.jpg" />
-  </programme>
-  <programme start="20261125030000 -0300" stop="20261125033000 -0300" channel="SPORTV">
-    <title lang="pt">VT - Flamengo x Athletico-PR</title>
-    <desc lang="pt">Flamengo e Athletico-PR jogam pela 35ª rodada do Segundo Turno do Campeonato Brasileirão, no Maracanã, no Rio de Janeiro (RJ).</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617202_epg.jpg" />
-  </programme>
-  <programme start="20261125033000 -0300" stop="20261125040000 -0300" channel="SPORTV">
-    <title lang="pt">VT - Corinthians x Botafogo</title>
-    <desc lang="pt">Corinthians e Botafogo jogam pela 35ª rodada do Segundo Turno do Campeonato Brasileirão, na Neo Química Arena, em São Paulo (SP).</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617199_epg.jpg" />
-  </programme>
   <programme start="20261125040000 -0300" stop="20261125043000 -0300" channel="SPORTV">
-    <title lang="pt">VT - Grêmio x Bahia</title>
-    <desc lang="pt">Grêmio e Bahia jogam pela 35ª rodada do Segundo Turno do Campeonato Brasileirão, na Arena do Grêmio, em Porto Alegre (RS).</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617203_epg.jpg" />
+    <title lang="pt">VT - Athletico-PR x Remo</title>
+    <desc lang="pt">Athletico-PR e Remo jogam pela 36ª rodada do Segundo Turno do Campeonato Brasileirão, na Arena da Baixada, em Curitiba (PR).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617196_epg.jpg" />
   </programme>
-  <programme start="20261125043000 -0300" stop="20261125050000 -0300" channel="SPORTV">
-    <title lang="pt">VT - Vasco x Internacional</title>
-    <desc lang="pt">Vasco e Internacional jogam pela 35ª rodada do Segundo Turno do Campeonato Brasileirão, no São Januário, no Rio de Janeiro (RJ).</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617210_epg.jpg" />
+  <programme start="20261125043000 -0300" stop="20261125053000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Brasil x Irlanda</title>
+    <desc lang="pt">A maior festa do futebol do mundo está de volta, reunindo emoções que atravessam gerações. A Copa vive na gente e você acompanha aqui no sportv.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617215_epg.jpg" />
   </programme>
-  <programme start="20261125050000 -0300" stop="20261125053000 -0300" channel="SPORTV">
-    <title lang="pt">VT - São Paulo x Fluminense</title>
-    <desc lang="pt">São Paulo e Fluminense jogam pela 35ª rodada do Segundo Turno do Campeonato Brasileirão.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617208_epg.jpg" />
+  <programme start="20261125053000 -0300" stop="20261125063000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Corinthians x Bragantino</title>
+    <desc lang="pt">Corinthians e Bragantino jogam a rodada de volta da Play-inª fase do Campeonato Paulista Feminino, no Parque São Jorge, em São Paulo (SP).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617285_epg.jpg" />
   </programme>
-  <programme start="20261125053000 -0300" stop="20261125060000 -0300" channel="SPORTV">
-    <title lang="pt">VT - Vitória x Bragantino</title>
-    <desc lang="pt">Vitória e Bragantino jogam pela 35ª rodada do Segundo Turno do Brasileirão, no Manoel Barradas, em Salvador (BA).</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617211_epg.jpg" />
+  <programme start="20261125063000 -0300" stop="20261125070000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Bragantino x Vasco</title>
+    <desc lang="pt">Bragantino e Vasco jogam pela 36ª rodada do Segundo Turno do Campeonato Brasileirão, no Cícero de Souza Marques, em Bragança Paulista (SP).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617198_epg.jpg" />
   </programme>
-  <programme start="20261125060000 -0300" stop="20261125070000 -0300" channel="SPORTV">
-    <title lang="pt">VT - Argentina x Costa Rica</title>
-    <desc lang="pt">Argentina e Costa Rica jogam o Amistoso Internacional, no Mario Alberto Kempes, em Córdoba, Argentina.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617195_epg.jpg" />
+  <programme start="20261125070000 -0300" stop="20261125073000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Athletico-PR x Remo</title>
+    <desc lang="pt">Athletico-PR e Remo jogam pela 36ª rodada do Segundo Turno do Campeonato Brasileirão, na Arena da Baixada, em Curitiba (PR).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617196_epg.jpg" />
   </programme>
-  <programme start="20261125070000 -0300" stop="20261125083000 -0300" channel="SPORTV">
+  <programme start="20261125073000 -0300" stop="20261125083000 -0300" channel="SPORTV">
     <title lang="pt">Troca de Passes</title>
     <desc lang="pt">Felipe Diniz troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000071222_epg.jpg" />
@@ -11883,13 +11923,13 @@
   </programme>
   <programme start="20261125083000 -0300" stop="20261125100000 -0300" channel="SPORTV">
     <title lang="pt">sportv News - Ao Vivo</title>
-    <desc lang="pt">Cada detalhe sobre o seu esporte preferido, os gols da rodada, as últimas do seu time, o que é notícia no Brasil e no Mundo contado de forma dinâmica por Mariana Fontes e Maurício Paulucci.</desc>
+    <desc lang="pt">Inicie o dia atualizado com as noticias do mundo do esporte. Cada detalhe sobre o seu esporte preferido,  Os gols da rodada, as últimas do seu time, o que é notícia no Brasil e no Mundo contado de forma dinâmica.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000071215_epg.jpg" />
     <episode-num system="onscreen">S88 E329</episode-num>
   </programme>
   <programme start="20261125100000 -0300" stop="20261125121500 -0300" channel="SPORTV">
     <title lang="pt">Redação sportv - Ao Vivo</title>
-    <desc lang="pt">Acompanhe as informações diárias sobre o esporte no Brasil e no mundo. Marcelo Barreto recebe jornalistas convidados no estúdio e conta com a participação de correspondentes internacionais.</desc>
+    <desc lang="pt">Acompanhe as informações diárias de uma maneira descontraída sobre o esporte no Brasil e no mundo, jornalistas convidados no estúdio e conta com a participação de correspondentes internacionais com Marcelo Barreto.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000071216_epg.jpg" />
     <episode-num system="onscreen">S80 E329</episode-num>
   </programme>
@@ -11900,9 +11940,9 @@
     <episode-num system="onscreen">S82 E329</episode-num>
   </programme>
   <programme start="20261125130000 -0300" stop="20261125153000 -0300" channel="SPORTV">
-    <title lang="pt">Redação sportv - Ao Vivo</title>
-    <desc lang="pt">Acompanhe as informações diárias sobre o esporte no Brasil e no mundo. Marcelo Barreto recebe jornalistas convidados no estúdio e conta com a participação de correspondentes internacionais.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000071216_epg.jpg" />
+    <title lang="pt">Seleção sportv - Ao Vivo</title>
+    <desc lang="pt">Os principais comentaristas da Globo e do sportv formam uma seleção de craques, recebidos por André Rizek para debater os assuntos que são notícia no mundo do futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000074034_epg.jpg" />
     <episode-num system="onscreen">S83 E329</episode-num>
   </programme>
   <programme start="20261125153000 -0300" stop="20261125161500 -0300" channel="SPORTV">
@@ -11911,109 +11951,115 @@
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000070462_epg.jpg" />
     <episode-num system="onscreen">S85 E329</episode-num>
   </programme>
-  <programme start="20261125161500 -0300" stop="20261125182500 -0300" channel="SPORTV">
-    <title lang="pt">Bayern de Munique x Colônia - Ao Vivo</title>
-    <desc lang="pt">Bayern de Munique e Colônia jogam pela 10ª rodada do Primeiro Turno da Bundesliga, na Allianz Arena, em Munique, Alemanha.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001611208_epg.jpg" />
+  <programme start="20261125161500 -0300" stop="20261125163000 -0300" channel="SPORTV">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
+    <episode-num system="onscreen">S86 E329</episode-num>
   </programme>
-  <programme start="20261125182500 -0300" stop="20261125183000 -0300" channel="SPORTV">
+  <programme start="20261125163000 -0300" stop="20261125165500 -0300" channel="SPORTV">
+    <title lang="pt">VT - Santos x Grêmio</title>
+    <desc lang="pt">Santos e Grêmio jogam pela 36ª rodada do Segundo Turno do Campeonato Brasileirão.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617207_epg.jpg" />
+  </programme>
+  <programme start="20261125165500 -0300" stop="20261125170000 -0300" channel="SPORTV">
     <title lang="pt">Pílula Futebol Feminino: Olho Nelas</title>
     <desc lang="pt">Sinopse não disponível.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000119496_epg.jpg" />
-    <episode-num system="onscreen">S88 E329</episode-num>
+    <episode-num system="onscreen">S86 E329</episode-num>
   </programme>
-  <programme start="20261125183000 -0300" stop="20261125200000 -0300" channel="SPORTV">
+  <programme start="20261125170000 -0300" stop="20261125190000 -0300" channel="SPORTV">
     <title lang="pt">Tá na Área - Ao Vivo</title>
     <desc lang="pt">Aproveite o finalzinho da tarde para relaxar e de maneira divertida fique por dentro de todos os assunto em alta do esporte com Igor Rodrigues e Camila Carelli.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118430_epg.jpg" />
-    <episode-num system="onscreen">S88 E329</episode-num>
+    <episode-num system="onscreen">S87 E329</episode-num>
+  </programme>
+  <programme start="20261125190000 -0300" stop="20261125200000 -0300" channel="SPORTV">
+    <title lang="pt">Pré-Jogo - Atlético-MG x Corinthians - Ao Vivo</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001456205_epg.jpg" />
   </programme>
   <programme start="20261125200000 -0300" stop="20261125210000 -0300" channel="SPORTV">
-    <title lang="pt">Futevôlei - Bahia x Santos - Ao Vivo</title>
-    <desc lang="pt">Acompanhe as emoções da Liga Nacional de Futevôlei, um torneio que conta com os maiores clubes esportivos brasileiro.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001620429_epg.jpg" />
+    <title lang="pt">VT - São Paulo x Atlético-MG</title>
+    <desc lang="pt">São Paulo e Atlético-MG jogam a rodada de volta da Semifinal da Copa do Brasil Sub-20, no Cotia, em Cotia (SP).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001623696_epg.jpg" />
   </programme>
-  <programme start="20261125210000 -0300" stop="20261125220000 -0300" channel="SPORTV">
-    <title lang="pt">Futevôlei - Internacional x Vasco - Ao Vivo</title>
-    <desc lang="pt">Acompanhe as emoções da Liga Nacional de Futevôlei, um torneio que conta com os maiores clubes esportivos brasileiro.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001620431_epg.jpg" />
+  <programme start="20261125210000 -0300" stop="20261125213000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Bragantino x Vasco</title>
+    <desc lang="pt">Bragantino e Vasco jogam pela 36ª rodada do Segundo Turno do Campeonato Brasileirão, no Cícero de Souza Marques, em Bragança Paulista (SP).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617198_epg.jpg" />
   </programme>
-  <programme start="20261125220000 -0300" stop="20261125230000 -0300" channel="SPORTV">
+  <programme start="20261125213000 -0300" stop="20261125220000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Santos x Grêmio</title>
+    <desc lang="pt">Santos e Grêmio jogam pela 36ª rodada do Segundo Turno do Campeonato Brasileirão.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617207_epg.jpg" />
+  </programme>
+  <programme start="20261125220000 -0300" stop="20261125233000 -0300" channel="SPORTV">
     <title lang="pt">Troca de Passes - Ao Vivo</title>
     <desc lang="pt">Felipe Diniz troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000071222_epg.jpg" />
     <episode-num system="onscreen">S82 E329</episode-num>
   </programme>
-  <programme start="20261125230000 -0300" stop="20261125230500 -0300" channel="SPORTV">
+  <programme start="20261125233000 -0300" stop="20261125233500 -0300" channel="SPORTV">
     <title lang="pt">Pílula Futebol Feminino: Olho Nelas</title>
     <desc lang="pt">Sinopse não disponível.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000119496_epg.jpg" />
     <episode-num system="onscreen">S83 E329</episode-num>
   </programme>
-  <programme start="20261125230500 -0300" stop="20261125233000 -0300" channel="SPORTV">
-    <title lang="pt">Especial Consciência Negra</title>
-    <desc lang="pt">Aretha Duarte entrou para a história como a primeira mulher negra brasileira a alcançar o topo do Everest. Mas sua maior conquista talvez esteja longe da montanha mais alta do mundo.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001456205_epg.jpg" />
-    <rating system="BR">
-      <value>1</value>
-    </rating>
+  <programme start="20261125233500 -0300" stop="20261126000000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Internacional x Vitória</title>
+    <desc lang="pt">Internacional e Vitória jogam pela 36ª rodada do Segundo Turno do Campeonato Brasileirão, no Beira-Rio, em Porto Alegre (RS).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617204_epg.jpg" />
   </programme>
-  <programme start="20261125233000 -0300" stop="20261126003000 -0300" channel="SPORTV">
-    <title lang="pt">Giro da Rodada - Brasileirão</title>
-    <desc lang="pt">Assista ao Giro da Rodada com os destaques dos Campeonatos de Futebol aqui o sportv!</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000078876_epg.jpg" />
-    <episode-num system="onscreen">S83 E329</episode-num>
+  <programme start="20261126000000 -0300" stop="20261126003000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Bragantino x Vasco</title>
+    <desc lang="pt">Bragantino e Vasco jogam pela 36ª rodada do Segundo Turno do Campeonato Brasileirão, no Cícero de Souza Marques, em Bragança Paulista (SP).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617198_epg.jpg" />
   </programme>
-  <programme start="20261126003000 -0300" stop="20261126003500 -0300" channel="SPORTV">
-    <title lang="pt">Pílula Futebol Feminino: Olho Nelas</title>
+  <programme start="20261126003000 -0300" stop="20261126010000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Atlético-MG x Corinthians</title>
+    <desc lang="pt">Reveja partidas históricas do seu esporte favorito!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001445646_epg.jpg" />
+  </programme>
+  <programme start="20261126010000 -0300" stop="20261126020000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Palmeiras x Operário-PR</title>
     <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000119496_epg.jpg" />
-    <episode-num system="onscreen">S80 E330</episode-num>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001623695_epg.jpg" />
   </programme>
-  <programme start="20261126003500 -0300" stop="20261126010000 -0300" channel="SPORTV">
-    <title lang="pt">VT - Flamengo x Athletico-PR</title>
-    <desc lang="pt">Flamengo e Athletico-PR jogam pela 35ª rodada do Segundo Turno do Campeonato Brasileirão, no Maracanã, no Rio de Janeiro (RJ).</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617202_epg.jpg" />
-  </programme>
-  <programme start="20261126010000 -0300" stop="20261126013000 -0300" channel="SPORTV">
-    <title lang="pt">VT - Cruzeiro x Palmeiras</title>
-    <desc lang="pt">Cruzeiro e Palmeiras jogam pela 35ª rodada do Segundo Turno do Campeonato Brasileirão, no Mineirão, em Belo Horizonte (MG).</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617200_epg.jpg" />
-  </programme>
-  <programme start="20261126013000 -0300" stop="20261126020000 -0300" channel="SPORTV">
-    <title lang="pt">VT - Corinthians x Botafogo</title>
-    <desc lang="pt">Corinthians e Botafogo jogam pela 35ª rodada do Segundo Turno do Campeonato Brasileirão, na Neo Química Arena, em São Paulo (SP).</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617199_epg.jpg" />
-  </programme>
-  <programme start="20261126020000 -0300" stop="20261126023000 -0300" channel="SPORTV">
-    <title lang="pt">VT - Grêmio x Bahia</title>
-    <desc lang="pt">Grêmio e Bahia jogam pela 35ª rodada do Segundo Turno do Campeonato Brasileirão, na Arena do Grêmio, em Porto Alegre (RS).</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617203_epg.jpg" />
-  </programme>
-  <programme start="20261126023000 -0300" stop="20261126030000 -0300" channel="SPORTV">
-    <title lang="pt">VT - Remo x Chapecoense</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001611195_epg.jpg" />
-  </programme>
-  <programme start="20261126030000 -0300" stop="20261126040000 -0300" channel="SPORTV">
-    <title lang="pt">VT - Brasil x Singapura</title>
-    <desc lang="pt">As maiores estrelas do futebol masculino, se enfrentam em mais um amistoso internacional, aqui no sportv!</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001610774_epg.jpg" />
-  </programme>
-  <programme start="20261126040000 -0300" stop="20261126050000 -0300" channel="SPORTV">
-    <title lang="pt">VT - Colômbia x Paraguai</title>
-    <desc lang="pt">As maiores estrelas do futebol masculino, se enfrentam em mais um amistoso internacional, aqui no sportv!</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001585458_epg.jpg" />
-  </programme>
-  <programme start="20261126050000 -0300" stop="20261126060000 -0300" channel="SPORTV">
+  <programme start="20261126020000 -0300" stop="20261126030000 -0300" channel="SPORTV">
     <title lang="pt">VT - Argentina x Costa Rica</title>
     <desc lang="pt">Argentina e Costa Rica jogam o Amistoso Internacional, no Mario Alberto Kempes, em Córdoba, Argentina.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617195_epg.jpg" />
   </programme>
+  <programme start="20261126030000 -0300" stop="20261126033000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Santos x Grêmio</title>
+    <desc lang="pt">Santos e Grêmio jogam pela 36ª rodada do Segundo Turno do Campeonato Brasileirão.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617207_epg.jpg" />
+  </programme>
+  <programme start="20261126033000 -0300" stop="20261126040000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Internacional x Vitória</title>
+    <desc lang="pt">Internacional e Vitória jogam pela 36ª rodada do Segundo Turno do Campeonato Brasileirão, no Beira-Rio, em Porto Alegre (RS).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617204_epg.jpg" />
+  </programme>
+  <programme start="20261126040000 -0300" stop="20261126043000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Bragantino x Vasco</title>
+    <desc lang="pt">Bragantino e Vasco jogam pela 36ª rodada do Segundo Turno do Campeonato Brasileirão, no Cícero de Souza Marques, em Bragança Paulista (SP).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617198_epg.jpg" />
+  </programme>
+  <programme start="20261126043000 -0300" stop="20261126050000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Atlético-MG x Corinthians</title>
+    <desc lang="pt">Reveja partidas históricas do seu esporte favorito!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001445646_epg.jpg" />
+  </programme>
+  <programme start="20261126050000 -0300" stop="20261126060000 -0300" channel="SPORTV">
+    <title lang="pt">VT - Argentina x Uruguai</title>
+    <desc lang="pt">Argentina e Uruguai jogam o Amistoso Internacional, no La Bombonera, em Buenos Aires, Argentina.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001613516_epg.jpg" />
+  </programme>
   <programme start="20261126060000 -0300" stop="20261126070000 -0300" channel="SPORTV">
-    <title lang="pt">VT - Brasil x Singapura</title>
-    <desc lang="pt">As maiores estrelas do futebol masculino, se enfrentam em mais um amistoso internacional, aqui no sportv!</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001610774_epg.jpg" />
+    <title lang="pt">VT - Argentina x Costa Rica</title>
+    <desc lang="pt">Argentina e Costa Rica jogam o Amistoso Internacional, no Mario Alberto Kempes, em Córdoba, Argentina.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617195_epg.jpg" />
   </programme>
   <programme start="20261126070000 -0300" stop="20261126083000 -0300" channel="SPORTV">
     <title lang="pt">Troca de Passes</title>
@@ -12023,13 +12069,13 @@
   </programme>
   <programme start="20261126083000 -0300" stop="20261126100000 -0300" channel="SPORTV">
     <title lang="pt">sportv News - Ao Vivo</title>
-    <desc lang="pt">Inicie o dia atualizado com as noticias do mundo do esporte. Cada detalhe sobre o seu esporte preferido, Os gols da rodada, as últimas do seu time, o que é notícia no Brasil e no Mundo contado de forma dinâmica por Mariana Fontes.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118429_epg.jpg" />
+    <desc lang="pt">Inicie o dia atualizado com as noticias do mundo do esporte. Cada detalhe sobre o seu esporte preferido,  Os gols da rodada, as últimas do seu time, o que é notícia no Brasil e no Mundo contado de forma dinâmica.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000071215_epg.jpg" />
     <episode-num system="onscreen">S88 E330</episode-num>
   </programme>
   <programme start="20261126100000 -0300" stop="20261126121500 -0300" channel="SPORTV">
     <title lang="pt">Redação sportv - Ao Vivo</title>
-    <desc lang="pt">Acompanhe as informações diárias sobre o esporte no Brasil e no mundo. Marcelo Barreto recebe jornalistas convidados no estúdio e conta com a participação de correspondentes internacionais.</desc>
+    <desc lang="pt">Acompanhe as informações diárias de uma maneira descontraída sobre o esporte no Brasil e no mundo, jornalistas convidados no estúdio e conta com a participação de correspondentes internacionais com Marcelo Barreto.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000071216_epg.jpg" />
     <episode-num system="onscreen">S80 E330</episode-num>
   </programme>
@@ -12042,57 +12088,44 @@
   <programme start="20261126130000 -0300" stop="20261126153000 -0300" channel="SPORTV">
     <title lang="pt">Seleção sportv - Ao Vivo</title>
     <desc lang="pt">Os principais comentaristas da Globo e do sportv formam uma seleção de craques, recebidos por André Rizek para debater os assuntos que são notícia no mundo do futebol.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118428_epg.jpg" />
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000074034_epg.jpg" />
     <episode-num system="onscreen">S83 E330</episode-num>
   </programme>
-  <programme start="20261126153000 -0300" stop="20261126161000 -0300" channel="SPORTV">
+  <programme start="20261126153000 -0300" stop="20261126172500 -0300" channel="SPORTV">
     <title lang="pt">Globo Esporte</title>
     <desc lang="pt">Um pouquinho de cada Globo Esporte espalhado pelo Brasil. As principais histórias, notícias, num mosaico leve e informativo.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000070462_epg.jpg" />
     <episode-num system="onscreen">S85 E330</episode-num>
   </programme>
-  <programme start="20261126161000 -0300" stop="20261126161500 -0300" channel="SPORTV">
+  <programme start="20261126172500 -0300" stop="20261126173000 -0300" channel="SPORTV">
     <title lang="pt">Pílula Futebol Feminino: Olho Nelas</title>
     <desc lang="pt">Sinopse não disponível.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000119496_epg.jpg" />
-    <episode-num system="onscreen">S86 E330</episode-num>
+    <episode-num system="onscreen">S87 E330</episode-num>
   </programme>
-  <programme start="20261126161500 -0300" stop="20261126183000 -0300" channel="SPORTV">
+  <programme start="20261126173000 -0300" stop="20261126183000 -0300" channel="SPORTV">
     <title lang="pt">Tá na Área - Ao Vivo</title>
     <desc lang="pt">Aproveite o finalzinho da tarde para relaxar e de maneira divertida fique por dentro de todos os assunto em alta do esporte com Igor Rodrigues e Camila Carelli.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118430_epg.jpg" />
-    <episode-num system="onscreen">S86 E330</episode-num>
+    <episode-num system="onscreen">S87 E330</episode-num>
   </programme>
   <programme start="20261126183000 -0300" stop="20261126193000 -0300" channel="SPORTV">
-    <title lang="pt">Aquecimento sportv - Ao Vivo</title>
-    <desc lang="pt">É hora de analisar. Você confere as últimas informações, escalações, análises táticas, destaques individuais e o clima dentro e fora de campo.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000113255_epg.jpg" />
+    <title lang="pt">Tá na Área - Ao Vivo</title>
+    <desc lang="pt">Aproveite o finalzinho da tarde para relaxar e de maneira divertida fique por dentro de todos os assunto em alta do esporte com Igor Rodrigues e Camila Carelli.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118430_epg.jpg" />
     <episode-num system="onscreen">S88 E330</episode-num>
   </programme>
-  <programme start="20261126193000 -0300" stop="20261126213000 -0300" channel="SPORTV">
-    <title lang="pt">Programação sportv</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001057492_epg.jpg" />
+  <programme start="20261126193000 -0300" stop="20261126203000 -0300" channel="SPORTV">
+    <title lang="pt">Tá na Área - Ao Vivo</title>
+    <desc lang="pt">Aproveite o finalzinho da tarde para relaxar e de maneira divertida fique por dentro de todos os assunto em alta do esporte com Igor Rodrigues e Camila Carelli.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118430_epg.jpg" />
+    <episode-num system="onscreen">S89 E330</episode-num>
   </programme>
-  <programme start="20261126213000 -0300" stop="20261126220000 -0300" channel="SPORTV">
-    <title lang="pt">VT - Corinthians x Botafogo</title>
-    <desc lang="pt">Corinthians e Botafogo jogam pela 35ª rodada do Segundo Turno do Campeonato Brasileirão, na Neo Química Arena, em São Paulo (SP).</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617199_epg.jpg" />
-  </programme>
-  <programme start="20261126220000 -0300" stop="20261126223000 -0300" channel="SPORTV">
-    <title lang="pt">VT - Grêmio x Bahia</title>
-    <desc lang="pt">Grêmio e Bahia jogam pela 35ª rodada do Segundo Turno do Campeonato Brasileirão, na Arena do Grêmio, em Porto Alegre (RS).</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617203_epg.jpg" />
-  </programme>
-  <programme start="20261126223000 -0300" stop="20261126230000 -0300" channel="SPORTV">
-    <title lang="pt">VT - Remo x Chapecoense</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001611195_epg.jpg" />
-  </programme>
-  <programme start="20261126230000 -0300" stop="20261126233000 -0300" channel="SPORTV">
-    <title lang="pt">VT - Flamengo x Athletico-PR</title>
-    <desc lang="pt">Flamengo e Athletico-PR jogam pela 35ª rodada do Segundo Turno do Campeonato Brasileirão, no Maracanã, no Rio de Janeiro (RJ).</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617202_epg.jpg" />
+  <programme start="20261126203000 -0300" stop="20261126233000 -0300" channel="SPORTV">
+    <title lang="pt">Tá na Área - Ao Vivo</title>
+    <desc lang="pt">Aproveite o finalzinho da tarde para relaxar e de maneira divertida fique por dentro de todos os assunto em alta do esporte com Igor Rodrigues e Camila Carelli.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118430_epg.jpg" />
+    <episode-num system="onscreen">S80 E330</episode-num>
   </programme>
   <programme start="20261126233000 -0300" stop="20261127010000 -0300" channel="SPORTV">
     <title lang="pt">Troca de Passes - Ao Vivo</title>
@@ -13678,473 +13711,523 @@
     <desc lang="pt">Sinopse não disponível.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
   </programme>
-  <programme start="20261125000000 -0300" stop="20261125014500 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Fiorentina x Juventus</title>
-    <desc lang="pt">Fiorentina e Juventus jogam pela 11ª rodada do Primeiro Turno do Campeonato Italiano, no Artemio Franchi, em Florença, Itália.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617771_epg.jpg" />
-  </programme>
-  <programme start="20261125014500 -0300" stop="20261125034200 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Genoa x Milan</title>
-    <desc lang="pt">Genoa e Milan jogam pela 11ª rodada do Primeiro Turno do Campeonato Italiano, no Luigi Ferraris, em Genova, Itália.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617772_epg.jpg" />
-  </programme>
-  <programme start="20261125034200 -0300" stop="20261125035200 -0300" channel="SportyNet HD">
-    <title lang="pt">Vlog Oktoberfest</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
-  </programme>
-  <programme start="20261125035200 -0300" stop="20261125060800 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - CRB x Ceará</title>
-    <desc lang="pt">Acompanhe os jogos mais emocionates da rodada do Campeonato Brasileiro da Série B.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001611277_epg.jpg" />
-  </programme>
-  <programme start="20261125060800 -0300" stop="20261125080900 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Borussia Dortmund x Elvesberg</title>
-    <desc lang="pt">Acompanhe os melhores jogos e os craques da Bundesliga, o principal torneio da liga de futebol profissional da Alemanha.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001608102_epg.jpg" />
-  </programme>
-  <programme start="20261125080900 -0300" stop="20261125100300 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Villarreal x Getafe</title>
-    <desc lang="pt">Villarreal e Getafe jogam pela 12ª rodada do Primeiro Turno da Campeonato La Liga.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617769_epg.jpg" />
-  </programme>
-  <programme start="20261125100300 -0300" stop="20261125103100 -0300" channel="SportyNet HD">
-    <title lang="pt">Show da Série A</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000119340_epg.jpg" />
-    <episode-num system="onscreen">S80 E329</episode-num>
-  </programme>
-  <programme start="20261125103100 -0300" stop="20261125111800 -0300" channel="SportyNet HD">
-    <title lang="pt">No Centro do Jogo</title>
-    <desc lang="pt">No Centro do Jogo! Todas as segundas, o nosso time recebe uma personalidade do futebol para um bate-papo recheado de informação, conteúdo e, é claro, descontração.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000117737_epg.jpg" />
-    <episode-num system="onscreen">S80 E329</episode-num>
-  </programme>
-  <programme start="20261125111800 -0300" stop="20261125131600 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - América-MG x Avaí</title>
-    <desc lang="pt">América-MG e Avaí jogam pela 38ª rodada do Segundo Turno do Campeonato Brasileiro, Série B, na Arena Independência, em Belo Horizonte (MG).</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617766_epg.jpg" />
-  </programme>
-  <programme start="20261125131600 -0300" stop="20261125151400 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Pumas x América-MX</title>
-    <desc lang="pt">Uma das ligas mais importantes das Américas agora é da SportyNet! São 18 clubes na disputa do Campeonato Mexicano, uma competição de camisas pesadas, torcidas apaixonadas, e craques de diversas partes do mundo.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001451509_epg.jpg" />
-  </programme>
-  <programme start="20261125151400 -0300" stop="20261125160300 -0300" channel="SportyNet HD">
-    <title lang="pt">Show da Bundesliga</title>
-    <desc lang="pt">Todos os detalhes da rodada do Campeonato Alemão. Melhores momentos dos nove jogos, destaques, classificação, gols mais bonitos e toda atmosfera da Bundesliga em um resumo completo.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000113185_epg.jpg" />
-    <episode-num system="onscreen">S85 E329</episode-num>
-  </programme>
-  <programme start="20261125160300 -0300" stop="20261125161100 -0300" channel="SportyNet HD">
-    <title lang="pt">Filler - Gols Bonitos Série C</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
-    <episode-num system="onscreen">S86 E329</episode-num>
-  </programme>
-  <programme start="20261125161100 -0300" stop="20261125180800 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Mantova x Hellas Verona</title>
-    <desc lang="pt">Mantova e Hellas Verona jogam pela 11ª rodada do Primeiro Turno do Campeonato Italiano, Série B, no Danilo Martelli, em Mantova, Itália.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617767_epg.jpg" />
-  </programme>
-  <programme start="20261125180800 -0300" stop="20261125195500 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Toluca x Monterrey</title>
-    <desc lang="pt">Uma das ligas mais importantes das Américas agora é da SportyNet! São 18 clubes na disputa do Campeonato Mexicano, uma competição de camisas pesadas, torcidas apaixonadas, e craques de diversas partes do mundo.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001608101_epg.jpg" />
-  </programme>
-  <programme start="20261125195500 -0300" stop="20261125213600 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Olympiacos x PAOK</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617763_epg.jpg" />
-  </programme>
-  <programme start="20261125213600 -0300" stop="20261125214400 -0300" channel="SportyNet HD">
-    <title lang="pt">The Howl Wolfsburg</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
-  </programme>
-  <programme start="20261125214400 -0300" stop="20261126000000 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - CRB x Ceará</title>
-    <desc lang="pt">Acompanhe os jogos mais emocionates da rodada do Campeonato Brasileiro da Série B.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001611277_epg.jpg" />
-  </programme>
-  <programme start="20261126000000 -0300" stop="20261126020200 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Borussia Dortmund x Elvesberg</title>
-    <desc lang="pt">Acompanhe os melhores jogos e os craques da Bundesliga, o principal torneio da liga de futebol profissional da Alemanha.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001608102_epg.jpg" />
-  </programme>
-  <programme start="20261126020200 -0300" stop="20261126040000 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Mantova x Hellas Verona</title>
-    <desc lang="pt">Mantova e Hellas Verona jogam pela 11ª rodada do Primeiro Turno do Campeonato Italiano, Série B, no Danilo Martelli, em Mantova, Itália.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617767_epg.jpg" />
-  </programme>
-  <programme start="20261126040000 -0300" stop="20261126055300 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Elche x Betis</title>
-    <desc lang="pt">Elche e Betis jogam pela 12ª rodada do Primeiro Turno da Campeonato La Liga, no Manuel Martínez Valero.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617768_epg.jpg" />
-  </programme>
-  <programme start="20261126055300 -0300" stop="20261126080000 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Fiorentina x Juventus</title>
-    <desc lang="pt">Fiorentina e Juventus jogam pela 11ª rodada do Primeiro Turno do Campeonato Italiano, no Artemio Franchi, em Florença, Itália.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617771_epg.jpg" />
-  </programme>
-  <programme start="20261126080000 -0300" stop="20261126095700 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Genoa x Milan</title>
-    <desc lang="pt">Genoa e Milan jogam pela 11ª rodada do Primeiro Turno do Campeonato Italiano, no Luigi Ferraris, em Genova, Itália.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617772_epg.jpg" />
-  </programme>
-  <programme start="20261126095700 -0300" stop="20261126115600 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Pumas x América-MX</title>
-    <desc lang="pt">Uma das ligas mais importantes das Américas agora é da SportyNet! São 18 clubes na disputa do Campeonato Mexicano, uma competição de camisas pesadas, torcidas apaixonadas, e craques de diversas partes do mundo.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001451509_epg.jpg" />
-  </programme>
-  <programme start="20261126115600 -0300" stop="20261126122500 -0300" channel="SportyNet HD">
-    <title lang="pt">Show da Série A</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000119340_epg.jpg" />
-    <episode-num system="onscreen">S81 E330</episode-num>
-  </programme>
-  <programme start="20261126122500 -0300" stop="20261126144100 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - CRB x Ceará</title>
-    <desc lang="pt">Acompanhe os jogos mais emocionates da rodada do Campeonato Brasileiro da Série B.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001611277_epg.jpg" />
-  </programme>
-  <programme start="20261126144100 -0300" stop="20261126153100 -0300" channel="SportyNet HD">
-    <title lang="pt">Show da Bundesliga</title>
-    <desc lang="pt">Todos os detalhes da rodada do Campeonato Alemão. Melhores momentos dos nove jogos, destaques, classificação, gols mais bonitos e toda atmosfera da Bundesliga em um resumo completo.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000113185_epg.jpg" />
-    <episode-num system="onscreen">S84 E330</episode-num>
-  </programme>
-  <programme start="20261126153100 -0300" stop="20261126174500 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Borussia Dortmund x Elvesberg</title>
-    <desc lang="pt">Acompanhe os melhores jogos e os craques da Bundesliga, o principal torneio da liga de futebol profissional da Alemanha.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001608102_epg.jpg" />
-  </programme>
-  <programme start="20261126174500 -0300" stop="20261126194300 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Mantova x Hellas Verona</title>
-    <desc lang="pt">Mantova e Hellas Verona jogam pela 11ª rodada do Primeiro Turno do Campeonato Italiano, Série B, no Danilo Martelli, em Mantova, Itália.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617767_epg.jpg" />
-  </programme>
-  <programme start="20261126194300 -0300" stop="20261126220000 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Toluca x Monterrey</title>
-    <desc lang="pt">Uma das ligas mais importantes das Américas agora é da SportyNet! São 18 clubes na disputa do Campeonato Mexicano, uma competição de camisas pesadas, torcidas apaixonadas, e craques de diversas partes do mundo.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001608101_epg.jpg" />
-  </programme>
-  <programme start="20261126220000 -0300" stop="20261127000000 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Olympiacos x PAOK</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617763_epg.jpg" />
-  </programme>
-  <programme start="20261127000000 -0300" stop="20261127014700 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Toluca x Monterrey</title>
-    <desc lang="pt">Uma das ligas mais importantes das Américas agora é da SportyNet! São 18 clubes na disputa do Campeonato Mexicano, uma competição de camisas pesadas, torcidas apaixonadas, e craques de diversas partes do mundo.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001608101_epg.jpg" />
-  </programme>
-  <programme start="20261127014700 -0300" stop="20261127040000 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - América-MG x Avaí</title>
-    <desc lang="pt">América-MG e Avaí jogam pela 38ª rodada do Segundo Turno do Campeonato Brasileiro, Série B, na Arena Independência, em Belo Horizonte (MG).</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617766_epg.jpg" />
-  </programme>
-  <programme start="20261127040000 -0300" stop="20261127054300 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Olympiacos x PAOK</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617763_epg.jpg" />
-  </programme>
-  <programme start="20261127054300 -0300" stop="20261127080000 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Mantova x Hellas Verona</title>
-    <desc lang="pt">Mantova e Hellas Verona jogam pela 11ª rodada do Primeiro Turno do Campeonato Italiano, Série B, no Danilo Martelli, em Mantova, Itália.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617767_epg.jpg" />
-  </programme>
-  <programme start="20261127080000 -0300" stop="20261127100000 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Fiorentina x Juventus</title>
-    <desc lang="pt">Fiorentina e Juventus jogam pela 11ª rodada do Primeiro Turno do Campeonato Italiano, no Artemio Franchi, em Florença, Itália.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617771_epg.jpg" />
-  </programme>
-  <programme start="20261127100000 -0300" stop="20261127102800 -0300" channel="SportyNet HD">
-    <title lang="pt">Show da Série A</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000119340_epg.jpg" />
-    <episode-num system="onscreen">S80 E331</episode-num>
-  </programme>
-  <programme start="20261127102800 -0300" stop="20261127121600 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Toluca x Monterrey</title>
-    <desc lang="pt">Uma das ligas mais importantes das Américas agora é da SportyNet! São 18 clubes na disputa do Campeonato Mexicano, uma competição de camisas pesadas, torcidas apaixonadas, e craques de diversas partes do mundo.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001608101_epg.jpg" />
-  </programme>
-  <programme start="20261127121600 -0300" stop="20261127141500 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Pumas x América-MX</title>
-    <desc lang="pt">Uma das ligas mais importantes das Américas agora é da SportyNet! São 18 clubes na disputa do Campeonato Mexicano, uma competição de camisas pesadas, torcidas apaixonadas, e craques de diversas partes do mundo.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001451509_epg.jpg" />
-  </programme>
-  <programme start="20261127141500 -0300" stop="20261127163000 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Genoa x Milan</title>
-    <desc lang="pt">Genoa e Milan jogam pela 11ª rodada do Primeiro Turno do Campeonato Italiano, no Luigi Ferraris, em Genova, Itália.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617772_epg.jpg" />
-  </programme>
-  <programme start="20261127163000 -0300" stop="20261127170200 -0300" channel="SportyNet HD">
-    <title lang="pt">Programação SportyNet</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
-  </programme>
-  <programme start="20261127170200 -0300" stop="20261127190300 -0300" channel="SportyNet HD">
-    <title lang="pt">Programação SportyNet</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
-  </programme>
-  <programme start="20261127190300 -0300" stop="20261127195300 -0300" channel="SportyNet HD">
-    <title lang="pt">Show da Bundesliga</title>
-    <desc lang="pt">Todos os detalhes da rodada do Campeonato Alemão. Melhores momentos dos nove jogos, destaques, classificação, gols mais bonitos e toda atmosfera da Bundesliga em um resumo completo.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000113185_epg.jpg" />
-    <episode-num system="onscreen">S89 E331</episode-num>
-  </programme>
-  <programme start="20261127195300 -0300" stop="20261127220900 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - CRB x Ceará</title>
-    <desc lang="pt">Acompanhe os jogos mais emocionates da rodada do Campeonato Brasileiro da Série B.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001611277_epg.jpg" />
-  </programme>
-  <programme start="20261127220900 -0300" stop="20261128000000 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Athletic Bilbao x Espanyol</title>
-    <desc lang="pt">Athletic Bilbao e Espanyol jogam pela 13ª rodada do Primeiro Turno da Campeonato La Liga, no San Mamés, em Bilbau, Espanha.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617770_epg.jpg" />
-  </programme>
-  <programme start="20261128000000 -0300" stop="20261128015900 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Pumas x América-MX</title>
-    <desc lang="pt">Uma das ligas mais importantes das Américas agora é da SportyNet! São 18 clubes na disputa do Campeonato Mexicano, uma competição de camisas pesadas, torcidas apaixonadas, e craques de diversas partes do mundo.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001451509_epg.jpg" />
-  </programme>
-  <programme start="20261128015900 -0300" stop="20261128040000 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Olympiacos x PAOK</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617763_epg.jpg" />
-  </programme>
-  <programme start="20261128040000 -0300" stop="20261128055800 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Mantova x Hellas Verona</title>
-    <desc lang="pt">Mantova e Hellas Verona jogam pela 11ª rodada do Primeiro Turno do Campeonato Italiano, Série B, no Danilo Martelli, em Mantova, Itália.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617767_epg.jpg" />
-  </programme>
-  <programme start="20261128055800 -0300" stop="20261128075100 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Elche x Betis</title>
-    <desc lang="pt">Elche e Betis jogam pela 12ª rodada do Primeiro Turno da Campeonato La Liga, no Manuel Martínez Valero.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617768_epg.jpg" />
-  </programme>
-  <programme start="20261128075100 -0300" stop="20261128090400 -0300" channel="SportyNet HD">
-    <title lang="pt">Show da Bundesliga</title>
-    <desc lang="pt">Todos os detalhes da rodada do Campeonato Alemão. Melhores momentos dos nove jogos, destaques, classificação, gols mais bonitos e toda atmosfera da Bundesliga em um resumo completo.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000113185_epg.jpg" />
-    <episode-num system="onscreen">S87 E332</episode-num>
-  </programme>
-  <programme start="20261128090400 -0300" stop="20261128110000 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Athletic Bilbao x Espanyol</title>
-    <desc lang="pt">Athletic Bilbao e Espanyol jogam pela 13ª rodada do Primeiro Turno da Campeonato La Liga, no San Mamés, em Bilbau, Espanha.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617770_epg.jpg" />
-  </programme>
-  <programme start="20261128110000 -0300" stop="20261128113200 -0300" channel="SportyNet HD">
-    <title lang="pt">Programação SportyNet</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
-  </programme>
-  <programme start="20261128113200 -0300" stop="20261128133000 -0300" channel="SportyNet HD">
-    <title lang="pt">Programação SportyNet</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
-  </programme>
-  <programme start="20261128133000 -0300" stop="20261128141800 -0300" channel="SportyNet HD">
-    <title lang="pt">Esquenta Estúdio - Ao Vivo</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
-    <episode-num system="onscreen">S83 E332</episode-num>
-  </programme>
-  <programme start="20261128141800 -0300" stop="20261128143200 -0300" channel="SportyNet HD">
-    <title lang="pt">Programação SportyNet</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
-  </programme>
-  <programme start="20261128143200 -0300" stop="20261128163300 -0300" channel="SportyNet HD">
-    <title lang="pt">Programação SportyNet</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
-  </programme>
-  <programme start="20261128163300 -0300" stop="20261128170100 -0300" channel="SportyNet HD">
-    <title lang="pt">Show da Série A</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000119340_epg.jpg" />
-    <episode-num system="onscreen">S86 E332</episode-num>
-  </programme>
-  <programme start="20261128170100 -0300" stop="20261128194500 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - América-MG x Avaí</title>
-    <desc lang="pt">América-MG e Avaí jogam pela 38ª rodada do Segundo Turno do Campeonato Brasileiro, Série B, na Arena Independência, em Belo Horizonte (MG).</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617766_epg.jpg" />
-  </programme>
-  <programme start="20261128194500 -0300" stop="20261128200000 -0300" channel="SportyNet HD">
-    <title lang="pt">Programação SportyNet</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
-  </programme>
-  <programme start="20261128200000 -0300" stop="20261128220000 -0300" channel="SportyNet HD">
-    <title lang="pt">Programação SportyNet</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
-  </programme>
-  <programme start="20261128220000 -0300" stop="20261129000000 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Borussia Monchengladbach x Borussia Dortmund</title>
-    <desc lang="pt">Borussia Monchengladbach e Borussia Dortmund jogam pela 10ª rodada do Primeiro Turno da Campeonato Bundesliga, no Borussia-Park, em Mönchengladbach, Alemanha.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617751_epg.jpg" />
-  </programme>
-  <programme start="20261129000000 -0300" stop="20261129015500 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Santos Laguna x León</title>
-    <desc lang="pt">Campeonato Mexicano - Apertura - 17ª RODADA - Santos Laguna x León - Ao Vivo.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617764_epg.jpg" />
-  </programme>
-  <programme start="20261129015500 -0300" stop="20261129035000 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Borussia Monchengladbach x Borussia Dortmund</title>
-    <desc lang="pt">Borussia Monchengladbach e Borussia Dortmund jogam pela 10ª rodada do Primeiro Turno da Campeonato Bundesliga, no Borussia-Park, em Mönchengladbach, Alemanha.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617751_epg.jpg" />
-  </programme>
-  <programme start="20261129035000 -0300" stop="20261129054500 -0300" channel="SportyNet HD">
+  <programme start="20261125000000 -0300" stop="20261125020400 -0300" channel="SportyNet HD">
     <title lang="pt">VT - Sevilla x Betis</title>
     <desc lang="pt">Sevilla e Betis jogam pela 13ª rodada do Primeiro Turno da Campeonato La Liga, no Ramón Sánchez Pizjuán, em Sevilla, Espanha.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617765_epg.jpg" />
   </programme>
-  <programme start="20261129054500 -0300" stop="20261129080200 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - CRB x Ceará</title>
-    <desc lang="pt">Acompanhe os jogos mais emocionates da rodada do Campeonato Brasileiro da Série B.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001611277_epg.jpg" />
-  </programme>
-  <programme start="20261129080200 -0300" stop="20261129104700 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Mantova x Hellas Verona</title>
-    <desc lang="pt">Mantova e Hellas Verona jogam pela 11ª rodada do Primeiro Turno do Campeonato Italiano, Série B, no Danilo Martelli, em Mantova, Itália.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617767_epg.jpg" />
-  </programme>
-  <programme start="20261129104700 -0300" stop="20261129124500 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Genoa x Milan</title>
-    <desc lang="pt">Genoa e Milan jogam pela 11ª rodada do Primeiro Turno do Campeonato Italiano, no Luigi Ferraris, em Genova, Itália.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617772_epg.jpg" />
-  </programme>
-  <programme start="20261129124500 -0300" stop="20261129131500 -0300" channel="SportyNet HD">
-    <title lang="pt">Show da Série A</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000119340_epg.jpg" />
-    <episode-num system="onscreen">S82 E333</episode-num>
-  </programme>
-  <programme start="20261129131500 -0300" stop="20261129133000 -0300" channel="SportyNet HD">
-    <title lang="pt">Programação SportyNet</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
-  </programme>
-  <programme start="20261129133000 -0300" stop="20261129153000 -0300" channel="SportyNet HD">
-    <title lang="pt">Programação SportyNet</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
-  </programme>
-  <programme start="20261129153000 -0300" stop="20261129172500 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Santos Laguna x León</title>
-    <desc lang="pt">Campeonato Mexicano - Apertura - 17ª RODADA - Santos Laguna x León - Ao Vivo.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617764_epg.jpg" />
-  </programme>
-  <programme start="20261129172500 -0300" stop="20261129193800 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Borussia Monchengladbach x Borussia Dortmund</title>
-    <desc lang="pt">Borussia Monchengladbach e Borussia Dortmund jogam pela 10ª rodada do Primeiro Turno da Campeonato Bundesliga, no Borussia-Park, em Mönchengladbach, Alemanha.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617751_epg.jpg" />
-  </programme>
-  <programme start="20261129193800 -0300" stop="20261129214500 -0300" channel="SportyNet HD">
+  <programme start="20261125020400 -0300" stop="20261125034800 -0300" channel="SportyNet HD">
     <title lang="pt">VT - Athletic Bilbao x Espanyol</title>
     <desc lang="pt">Athletic Bilbao e Espanyol jogam pela 13ª rodada do Primeiro Turno da Campeonato La Liga, no San Mamés, em Bilbau, Espanha.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617770_epg.jpg" />
   </programme>
+  <programme start="20261125034800 -0300" stop="20261125055100 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Criciúma x Fortaleza</title>
+    <desc lang="pt">Criciúma e Fortaleza jogam a rodada de ida da Playoffs De Acessoª fase do Campeonato Brasileiro, no Heriberto Hülse, em Criciúma (SC).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001619085_epg.jpg" />
+  </programme>
+  <programme start="20261125055100 -0300" stop="20261125061500 -0300" channel="SportyNet HD">
+    <title lang="pt">Meu Álbum</title>
+    <sub-title lang="pt">Zico</sub-title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
+    <rating system="BR">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20261125061500 -0300" stop="20261125080900 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Empoli x Pisa</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001621342_epg.jpg" />
+  </programme>
+  <programme start="20261125080900 -0300" stop="20261125095900 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Milan x Frosinone</title>
+    <desc lang="pt">Milan e Frosinone jogam pela 12ª rodada do Primeiro Turno do Campeonato Italiano, no San Siro, em Milão, Itália.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001621341_epg.jpg" />
+  </programme>
+  <programme start="20261125095900 -0300" stop="20261125105000 -0300" channel="SportyNet HD">
+    <title lang="pt">Show da Bundesliga</title>
+    <desc lang="pt">Todos os detalhes da rodada do Campeonato Alemão. Melhores momentos dos nove jogos, destaques, classificação, gols mais bonitos e toda atmosfera da Bundesliga em um resumo completo.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000113185_epg.jpg" />
+    <episode-num system="onscreen">S89 E329</episode-num>
+  </programme>
+  <programme start="20261125105000 -0300" stop="20261125124200 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Santos Laguna x León</title>
+    <desc lang="pt">Campeonato Mexicano - Apertura - 17ª RODADA - Santos Laguna x León - Ao Vivo.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617764_epg.jpg" />
+  </programme>
+  <programme start="20261125124200 -0300" stop="20261125133000 -0300" channel="SportyNet HD">
+    <title lang="pt">No Centro do Jogo</title>
+    <desc lang="pt">No Centro do Jogo! Todas as segundas, o nosso time recebe uma personalidade do futebol para um bate-papo recheado de informação, conteúdo e, é claro, descontração.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000117737_epg.jpg" />
+    <episode-num system="onscreen">S82 E329</episode-num>
+  </programme>
+  <programme start="20261125133000 -0300" stop="20261125152100 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Borussia Monchengladbach x Borussia Dortmund</title>
+    <desc lang="pt">Borussia Monchengladbach e Borussia Dortmund jogam pela 10ª rodada do Primeiro Turno da Campeonato Bundesliga, no Borussia-Park, em Mönchengladbach, Alemanha.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617751_epg.jpg" />
+  </programme>
+  <programme start="20261125152100 -0300" stop="20261125154500 -0300" channel="SportyNet HD">
+    <title lang="pt">Pílula Minuto 91 Tierlist</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
+  </programme>
+  <programme start="20261125154500 -0300" stop="20261125160000 -0300" channel="SportyNet HD">
+    <title lang="pt">Pré-Jogo - Ao Vivo</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001477452_epg.jpg" />
+  </programme>
+  <programme start="20261125160000 -0300" stop="20261125180100 -0300" channel="SportyNet HD">
+    <title lang="pt">Pisa x Modena - Ao Vivo</title>
+    <desc lang="pt">Pisa e Modena jogam pela 13ª rodada do Primeiro Turno do Campeonato Italiano, Série B.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001621333_epg.jpg" />
+  </programme>
+  <programme start="20261125180100 -0300" stop="20261125194500 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Monza x Fiorentina</title>
+    <desc lang="pt">Monza e Fiorentina jogam pela 12ª rodada do Primeiro Turno do Campeonato Italiano, no Stadio Brianteo.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001621332_epg.jpg" />
+  </programme>
+  <programme start="20261125194500 -0300" stop="20261125201100 -0300" channel="SportyNet HD">
+    <title lang="pt">Show da Série A</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000119340_epg.jpg" />
+    <episode-num system="onscreen">S89 E329</episode-num>
+  </programme>
+  <programme start="20261125201100 -0300" stop="20261125202200 -0300" channel="SportyNet HD">
+    <title lang="pt">Filler Harry Kane</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
+    <rating system="BR">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20261125202200 -0300" stop="20261125204400 -0300" channel="SportyNet HD">
+    <title lang="pt">Pílula Minuto 91 Tierlist</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
+  </programme>
+  <programme start="20261125204400 -0300" stop="20261125213200 -0300" channel="SportyNet HD">
+    <title lang="pt">Show da Bundesliga</title>
+    <desc lang="pt">Todos os detalhes da rodada do Campeonato Alemão. Melhores momentos dos nove jogos, destaques, classificação, gols mais bonitos e toda atmosfera da Bundesliga em um resumo completo.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000113185_epg.jpg" />
+    <episode-num system="onscreen">S80 E329</episode-num>
+  </programme>
+  <programme start="20261125213200 -0300" stop="20261125214500 -0300" channel="SportyNet HD">
+    <title lang="pt">Entrevista Maycon Cardozo Bayern</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
+    <rating system="BR">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20261125214500 -0300" stop="20261125220000 -0300" channel="SportyNet HD">
+    <title lang="pt">Pré-Jogo - Ao Vivo</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001477452_epg.jpg" />
+  </programme>
+  <programme start="20261125220000 -0300" stop="20261126000000 -0300" channel="SportyNet HD">
+    <title lang="pt">Toluca x Atlas - Ao Vivo</title>
+    <desc lang="pt">Toluca e Atlas jogam a rodada de ida da Apertura - Quartasª fase da Campeonato Liga MX, no Nemesio Díez, em Toluca, México.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001624646_epg.jpg" />
+  </programme>
+  <programme start="20261126000000 -0300" stop="20261126001400 -0300" channel="SportyNet HD">
+    <title lang="pt">Pré-Jogo - Ao Vivo</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001477452_epg.jpg" />
+  </programme>
+  <programme start="20261126001400 -0300" stop="20261126021500 -0300" channel="SportyNet HD">
+    <title lang="pt">Monterrey x América-MX - Ao Vivo</title>
+    <desc lang="pt">Monterrey e América-MX jogam a rodada de ida das Quartas De Final da Liga MX, no BBVA, em Guadalupe, México.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001624644_epg.jpg" />
+  </programme>
+  <programme start="20261126021500 -0300" stop="20261126041000 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Pisa x Modena</title>
+    <desc lang="pt">Pisa e Modena jogam pela 13ª rodada do Primeiro Turno do Campeonato Italiano, Série B.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001621334_epg.jpg" />
+  </programme>
+  <programme start="20261126041000 -0300" stop="20261126060600 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Panathinaikos x OFI</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001621338_epg.jpg" />
+  </programme>
+  <programme start="20261126060600 -0300" stop="20261126062000 -0300" channel="SportyNet HD">
+    <title lang="pt">Entrevista Maycon Cardozo Bayern</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
+    <rating system="BR">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20261126062000 -0300" stop="20261126081200 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Borussia Monchengladbach x Borussia Dortmund</title>
+    <desc lang="pt">Borussia Monchengladbach e Borussia Dortmund jogam pela 10ª rodada do Primeiro Turno da Campeonato Bundesliga, no Borussia-Park, em Mönchengladbach, Alemanha.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617751_epg.jpg" />
+  </programme>
+  <programme start="20261126081200 -0300" stop="20261126095500 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Monza x Fiorentina</title>
+    <desc lang="pt">Monza e Fiorentina jogam pela 12ª rodada do Primeiro Turno do Campeonato Italiano, no Stadio Brianteo.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001621332_epg.jpg" />
+  </programme>
+  <programme start="20261126095500 -0300" stop="20261126100600 -0300" channel="SportyNet HD">
+    <title lang="pt">Filler - Entrevista Nathan (Bétis)</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
+    <episode-num system="onscreen">S89 E330</episode-num>
+  </programme>
+  <programme start="20261126100600 -0300" stop="20261126121000 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Criciúma x Fortaleza</title>
+    <desc lang="pt">Criciúma e Fortaleza jogam a rodada de ida da Playoffs De Acessoª fase do Campeonato Brasileiro, no Heriberto Hülse, em Criciúma (SC).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001619085_epg.jpg" />
+  </programme>
+  <programme start="20261126121000 -0300" stop="20261126125700 -0300" channel="SportyNet HD">
+    <title lang="pt">Show da Bundesliga</title>
+    <desc lang="pt">Todos os detalhes da rodada do Campeonato Alemão. Melhores momentos dos nove jogos, destaques, classificação, gols mais bonitos e toda atmosfera da Bundesliga em um resumo completo.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000113185_epg.jpg" />
+    <episode-num system="onscreen">S82 E330</episode-num>
+  </programme>
+  <programme start="20261126125700 -0300" stop="20261126144100 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Athletic Bilbao x Espanyol</title>
+    <desc lang="pt">Athletic Bilbao e Espanyol jogam pela 13ª rodada do Primeiro Turno da Campeonato La Liga, no San Mamés, em Bilbau, Espanha.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617770_epg.jpg" />
+  </programme>
+  <programme start="20261126144100 -0300" stop="20261126150900 -0300" channel="SportyNet HD">
+    <title lang="pt">Show da Série A</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000119340_epg.jpg" />
+    <episode-num system="onscreen">S84 E330</episode-num>
+  </programme>
+  <programme start="20261126150900 -0300" stop="20261126151700 -0300" channel="SportyNet HD">
+    <title lang="pt">The Howl Wolfsburg</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
+  </programme>
+  <programme start="20261126151700 -0300" stop="20261126171200 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Toluca x Atlas</title>
+    <desc lang="pt">Toluca e Atlas jogam a rodada de ida da Apertura - Quartasª fase da Campeonato Liga MX, no Nemesio Díez, em Toluca, México.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001624647_epg.jpg" />
+  </programme>
+  <programme start="20261126171200 -0300" stop="20261126190100 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Milan x Frosinone</title>
+    <desc lang="pt">Milan e Frosinone jogam pela 12ª rodada do Primeiro Turno do Campeonato Italiano, no San Siro, em Milão, Itália.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001621341_epg.jpg" />
+  </programme>
+  <programme start="20261126190100 -0300" stop="20261126210500 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Sevilla x Betis</title>
+    <desc lang="pt">Sevilla e Betis jogam pela 13ª rodada do Primeiro Turno da Campeonato La Liga, no Ramón Sánchez Pizjuán, em Sevilla, Espanha.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617765_epg.jpg" />
+  </programme>
+  <programme start="20261126210500 -0300" stop="20261126212100 -0300" channel="SportyNet HD">
+    <title lang="pt">Furacão Kane: todos os gols na Bundesliga</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000119211_epg.jpg" />
+    <episode-num system="onscreen">S81 E330</episode-num>
+  </programme>
+  <programme start="20261126212100 -0300" stop="20261126215200 -0300" channel="SportyNet HD">
+    <title lang="pt">Pílula Minuto 91 Castan</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
+  </programme>
+  <programme start="20261126215200 -0300" stop="20261126234700 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Monterrey x América-MX</title>
+    <desc lang="pt">Monterrey e América-MX jogam a rodada de ida das Quartas De Final da Liga MX, no BBVA, em Guadalupe, México.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001624645_epg.jpg" />
+  </programme>
+  <programme start="20261126234700 -0300" stop="20261127000000 -0300" channel="SportyNet HD">
+    <title lang="pt">Filler Harry Kane</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
+    <rating system="BR">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20261127000000 -0300" stop="20261127020400 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Sevilla x Betis</title>
+    <desc lang="pt">Sevilla e Betis jogam pela 13ª rodada do Primeiro Turno da Campeonato La Liga, no Ramón Sánchez Pizjuán, em Sevilla, Espanha.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617765_epg.jpg" />
+  </programme>
+  <programme start="20261127020400 -0300" stop="20261127034700 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Monza x Fiorentina</title>
+    <desc lang="pt">Monza e Fiorentina jogam pela 12ª rodada do Primeiro Turno do Campeonato Italiano, no Stadio Brianteo.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001621332_epg.jpg" />
+  </programme>
+  <programme start="20261127034700 -0300" stop="20261127060300 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Werder Bremen x Hamburgo</title>
+    <desc lang="pt">Werder Bremen e Hamburgo jogam pela 10ª rodada do Primeiro Turno da Campeonato Bundesliga, no Weserstadion, em Bremen, Alemanha.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617753_epg.jpg" />
+  </programme>
+  <programme start="20261127060300 -0300" stop="20261127075900 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Campeonato Mexicano Apertura</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
+  </programme>
+  <programme start="20261127075900 -0300" stop="20261127100300 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Sevilla x Betis</title>
+    <desc lang="pt">Sevilla e Betis jogam pela 13ª rodada do Primeiro Turno da Campeonato La Liga, no Ramón Sánchez Pizjuán, em Sevilla, Espanha.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617765_epg.jpg" />
+  </programme>
+  <programme start="20261127100300 -0300" stop="20261127115200 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Milan x Frosinone</title>
+    <desc lang="pt">Milan e Frosinone jogam pela 12ª rodada do Primeiro Turno do Campeonato Italiano, no San Siro, em Milão, Itália.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001621341_epg.jpg" />
+  </programme>
+  <programme start="20261127115200 -0300" stop="20261127134700 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Pisa x Modena</title>
+    <desc lang="pt">Pisa e Modena jogam pela 13ª rodada do Primeiro Turno do Campeonato Italiano, Série B.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001621334_epg.jpg" />
+  </programme>
+  <programme start="20261127134700 -0300" stop="20261127154300 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Campeonato Mexicano Apertura</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
+  </programme>
+  <programme start="20261127154300 -0300" stop="20261127161500 -0300" channel="SportyNet HD">
+    <title lang="pt">Pré-Jogo - Ao Vivo</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001477452_epg.jpg" />
+  </programme>
+  <programme start="20261127161500 -0300" stop="20261127181600 -0300" channel="SportyNet HD">
+    <title lang="pt">Werder Bremen x Borussia Monchengladbach - Ao Vivo</title>
+    <desc lang="pt">Werder Bremen e Borussia Monchengladbach jogam pela 11ª rodada do Primeiro Turno da Bundesliga, no Weserstadion, em Bremen, Alemanha.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001613107_epg.jpg" />
+  </programme>
+  <programme start="20261127181600 -0300" stop="20261127205900 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Panathinaikos x OFI</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001621338_epg.jpg" />
+  </programme>
+  <programme start="20261127205900 -0300" stop="20261127215900 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Criciúma x Fortaleza</title>
+    <desc lang="pt">Criciúma e Fortaleza jogam a rodada de ida da Playoffs De Acessoª fase do Campeonato Brasileiro, no Heriberto Hülse, em Criciúma (SC).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001619085_epg.jpg" />
+  </programme>
+  <programme start="20261127215900 -0300" stop="20261128000000 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Criciúma x Fortaleza</title>
+    <desc lang="pt">Criciúma e Fortaleza jogam a rodada de ida da Playoffs De Acessoª fase do Campeonato Brasileiro, no Heriberto Hülse, em Criciúma (SC).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001619085_epg.jpg" />
+  </programme>
+  <programme start="20261128000000 -0300" stop="20261128020200 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Werder Bremen x Hamburgo</title>
+    <desc lang="pt">Werder Bremen e Hamburgo jogam pela 10ª rodada do Primeiro Turno da Campeonato Bundesliga, no Weserstadion, em Bremen, Alemanha.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617753_epg.jpg" />
+  </programme>
+  <programme start="20261128020200 -0300" stop="20261128035700 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Toluca x Atlas</title>
+    <desc lang="pt">Toluca e Atlas jogam a rodada de ida da Apertura - Quartasª fase da Campeonato Liga MX, no Nemesio Díez, em Toluca, México.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001624647_epg.jpg" />
+  </programme>
+  <programme start="20261128035700 -0300" stop="20261128060000 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Monza x Fiorentina</title>
+    <desc lang="pt">Monza e Fiorentina jogam pela 12ª rodada do Primeiro Turno do Campeonato Italiano, no Stadio Brianteo.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001621332_epg.jpg" />
+  </programme>
+  <programme start="20261128060000 -0300" stop="20261128074800 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Milan x Frosinone</title>
+    <desc lang="pt">Milan e Frosinone jogam pela 12ª rodada do Primeiro Turno do Campeonato Italiano, no San Siro, em Milão, Itália.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001621341_epg.jpg" />
+  </programme>
+  <programme start="20261128074800 -0300" stop="20261128081600 -0300" channel="SportyNet HD">
+    <title lang="pt">Show da Série A</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000119340_epg.jpg" />
+    <episode-num system="onscreen">S87 E332</episode-num>
+  </programme>
+  <programme start="20261128081600 -0300" stop="20261128105700 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Werder Bremen x Borussia Monchengladbach</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001621336_epg.jpg" />
+  </programme>
+  <programme start="20261128105700 -0300" stop="20261128113000 -0300" channel="SportyNet HD">
+    <title lang="pt">Pré-Jogo - Ao Vivo</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001477452_epg.jpg" />
+  </programme>
+  <programme start="20261128113000 -0300" stop="20261128133000 -0300" channel="SportyNet HD">
+    <title lang="pt">Hamburgo x Bayern De Munique - Ao Vivo</title>
+    <desc lang="pt">Hamburgo e Bayern De Munique jogam pela 20ª rodada do Segundo Turno da Bundesliga.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001420497_epg.jpg" />
+  </programme>
+  <programme start="20261128133000 -0300" stop="20261128151300 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Monza x Fiorentina</title>
+    <desc lang="pt">Monza e Fiorentina jogam pela 12ª rodada do Primeiro Turno do Campeonato Italiano, no Stadio Brianteo.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001621332_epg.jpg" />
+  </programme>
+  <programme start="20261128151300 -0300" stop="20261128154100 -0300" channel="SportyNet HD">
+    <title lang="pt">Show da Série A</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000119340_epg.jpg" />
+    <episode-num system="onscreen">S85 E332</episode-num>
+  </programme>
+  <programme start="20261128154100 -0300" stop="20261128182500 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Monterrey x América-MX</title>
+    <desc lang="pt">Monterrey e América-MX jogam a rodada de ida das Quartas De Final da Liga MX, no BBVA, em Guadalupe, México.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001624645_epg.jpg" />
+  </programme>
+  <programme start="20261128182500 -0300" stop="20261128193300 -0300" channel="SportyNet HD">
+    <title lang="pt">Sportyshow</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
+    <episode-num system="onscreen">S88 E332</episode-num>
+  </programme>
+  <programme start="20261128193300 -0300" stop="20261128194800 -0300" channel="SportyNet HD">
+    <title lang="pt">Pré-Jogo - Ao Vivo</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001477452_epg.jpg" />
+  </programme>
+  <programme start="20261128194800 -0300" stop="20261128214500 -0300" channel="SportyNet HD">
+    <title lang="pt">Fortaleza x Criciúma - Ao Vivo</title>
+    <desc lang="pt">Fortaleza e Criciúma jogam a rodada de volta da Playoffs De Acessoª fase do Campeonato Brasileiro, no Castelão, em Fortaleza (CE).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001621330_epg.jpg" />
+  </programme>
+  <programme start="20261128214500 -0300" stop="20261128224800 -0300" channel="SportyNet HD">
+    <title lang="pt">Minuto 91 - Ao Vivo</title>
+    <desc lang="pt">Pós-jogo sem filtros: reação ao vivo, polêmicas e debate sincero. Aqui ninguém fica em cima do muro!</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000118915_epg.jpg" />
+    <episode-num system="onscreen">S81 E332</episode-num>
+  </programme>
+  <programme start="20261128224800 -0300" stop="20261129000000 -0300" channel="SportyNet HD">
+    <title lang="pt">Atlas x Toluca - Ao Vivo</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001624651_epg.jpg" />
+  </programme>
+  <programme start="20261129000000 -0300" stop="20261129001400 -0300" channel="SportyNet HD">
+    <title lang="pt">Pré-Jogo - Ao Vivo</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001477452_epg.jpg" />
+  </programme>
+  <programme start="20261129001400 -0300" stop="20261129021500 -0300" channel="SportyNet HD">
+    <title lang="pt">América-MX x Monterrey - Ao Vivo</title>
+    <desc lang="pt">América-MX e Monterrey jogam a rodada de volta da Apertura - Quartasª fase da Campeonato Liga MX, no Azteca, em Cidade do México, México.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001624648_epg.jpg" />
+  </programme>
+  <programme start="20261129021500 -0300" stop="20261129041000 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Werder Bremen x Borussia Monchengladbach</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001621336_epg.jpg" />
+  </programme>
+  <programme start="20261129041000 -0300" stop="20261129060600 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Atlas x Toluca</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001624666_epg.jpg" />
+  </programme>
+  <programme start="20261129060600 -0300" stop="20261129084600 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Pisa x Modena</title>
+    <desc lang="pt">Pisa e Modena jogam pela 13ª rodada do Primeiro Turno do Campeonato Italiano, Série B.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001621334_epg.jpg" />
+  </programme>
+  <programme start="20261129084600 -0300" stop="20261129103000 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Athletic Bilbao x Espanyol</title>
+    <desc lang="pt">Athletic Bilbao e Espanyol jogam pela 13ª rodada do Primeiro Turno da Campeonato La Liga, no San Mamés, em Bilbau, Espanha.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617770_epg.jpg" />
+  </programme>
+  <programme start="20261129103000 -0300" stop="20261129110300 -0300" channel="SportyNet HD">
+    <title lang="pt">Pré-Jogo - Ao Vivo</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001477452_epg.jpg" />
+  </programme>
+  <programme start="20261129110300 -0300" stop="20261129130300 -0300" channel="SportyNet HD">
+    <title lang="pt">Sassuolo x Napoli - Ao Vivo</title>
+    <desc lang="pt">Sassuolo e Napoli jogam pela 13ª rodada do Primeiro Turno do Campeonato Italiano.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001624664_epg.jpg" />
+  </programme>
+  <programme start="20261129130300 -0300" stop="20261129133600 -0300" channel="SportyNet HD">
+    <title lang="pt">Melhores da Série B</title>
+    <desc lang="pt">Melhores da Série B.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
+  </programme>
+  <programme start="20261129133600 -0300" stop="20261129140900 -0300" channel="SportyNet HD">
+    <title lang="pt">Pré-Jogo - Ao Vivo</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001477452_epg.jpg" />
+  </programme>
+  <programme start="20261129140900 -0300" stop="20261129160900 -0300" channel="SportyNet HD">
+    <title lang="pt">Roma x Monza - Ao Vivo</title>
+    <desc lang="pt">Roma e Monza jogam pela 13ª rodada do Primeiro Turno do Campeonato Italiano, no Olímpico de Roma, em Roma, Itália.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001624662_epg.jpg" />
+  </programme>
+  <programme start="20261129160900 -0300" stop="20261129164200 -0300" channel="SportyNet HD">
+    <title lang="pt">Melhores da Série B</title>
+    <desc lang="pt">Melhores da Série B.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
+  </programme>
+  <programme start="20261129164200 -0300" stop="20261129165700 -0300" channel="SportyNet HD">
+    <title lang="pt">Pré-Jogo - Ao Vivo</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001477452_epg.jpg" />
+  </programme>
+  <programme start="20261129165700 -0300" stop="20261129191800 -0300" channel="SportyNet HD">
+    <title lang="pt">Real Sociedad x Sevilla - Ao Vivo</title>
+    <desc lang="pt">Real Sociedad e Sevilla jogam pela 14ª rodada do Primeiro Turno da Campeonato La Liga, no Anoeta, em São Sebastião, Espanha.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001624655_epg.jpg" />
+  </programme>
+  <programme start="20261129191800 -0300" stop="20261129214500 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Sassuolo x Napoli</title>
+    <desc lang="pt">Sassuolo e Napoli jogam pela 13ª rodada do Primeiro Turno do Campeonato Italiano.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001624665_epg.jpg" />
+  </programme>
   <programme start="20261129214500 -0300" stop="20261130000000 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - América-MX x Monterrey</title>
+    <desc lang="pt">América-MX e Monterrey jogam a rodada de volta da Apertura - Quartasª fase da Campeonato Liga MX, no Azteca, em Cidade do México, México.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001624649_epg.jpg" />
+  </programme>
+  <programme start="20261130000000 -0300" stop="20261130014300 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Athletic Bilbao x Espanyol</title>
+    <desc lang="pt">Athletic Bilbao e Espanyol jogam pela 13ª rodada do Primeiro Turno da Campeonato La Liga, no San Mamés, em Bilbau, Espanha.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617770_epg.jpg" />
+  </programme>
+  <programme start="20261130014300 -0300" stop="20261130033900 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Santos Laguna x León</title>
+    <desc lang="pt">Campeonato Mexicano - Apertura - 17ª RODADA - Santos Laguna x León - Ao Vivo.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617764_epg.jpg" />
+  </programme>
+  <programme start="20261130033900 -0300" stop="20261130054800 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Borussia Monchengladbach x Borussia Dortmund</title>
+    <desc lang="pt">Borussia Monchengladbach e Borussia Dortmund jogam pela 10ª rodada do Primeiro Turno da Campeonato Bundesliga, no Borussia-Park, em Mönchengladbach, Alemanha.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617751_epg.jpg" />
+  </programme>
+  <programme start="20261130054800 -0300" stop="20261130074300 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Criciúma x Fortaleza</title>
+    <desc lang="pt">Criciúma e Fortaleza jogam a rodada de ida da Playoffs De Acessoª fase do Campeonato Brasileiro, no Heriberto Hülse, em Criciúma (SC).</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001619085_epg.jpg" />
+  </programme>
+  <programme start="20261130074300 -0300" stop="20261130101100 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Panathinaikos x OFI</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001621338_epg.jpg" />
+  </programme>
+  <programme start="20261130101100 -0300" stop="20261130120700 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Werder Bremen x Hamburgo</title>
+    <desc lang="pt">Werder Bremen e Hamburgo jogam pela 10ª rodada do Primeiro Turno da Campeonato Bundesliga, no Weserstadion, em Bremen, Alemanha.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617753_epg.jpg" />
+  </programme>
+  <programme start="20261130120700 -0300" stop="20261130143000 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - UNAM Pumas x Monterrey</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001621323_epg.jpg" />
+  </programme>
+  <programme start="20261130143000 -0300" stop="20261130163000 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Empoli x Pisa</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001621342_epg.jpg" />
+  </programme>
+  <programme start="20261130163000 -0300" stop="20261130164500 -0300" channel="SportyNet HD">
     <title lang="pt">Programação SportyNet</title>
     <desc lang="pt">Sinopse não disponível.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
   </programme>
-  <programme start="20261130000000 -0300" stop="20261130015600 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Mantova x Hellas Verona</title>
-    <desc lang="pt">Mantova e Hellas Verona jogam no Campeonato Italiano, Série B.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001608098_epg.jpg" />
-  </programme>
-  <programme start="20261130015600 -0300" stop="20261130035800 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Borussia Dortmund x Elvesberg</title>
-    <desc lang="pt">Acompanhe os melhores jogos e os craques da Bundesliga, o principal torneio da liga de futebol profissional da Alemanha.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001608102_epg.jpg" />
-  </programme>
-  <programme start="20261130035800 -0300" stop="20261130054300 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Fiorentina x Juventus</title>
-    <desc lang="pt">Serie A: O campeonato italiano reúne os principais clubes do país em disputas emocionantes por títulos, gols e clássicos históricos.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001608099_epg.jpg" />
-  </programme>
-  <programme start="20261130054300 -0300" stop="20261130055000 -0300" channel="SportyNet HD">
-    <title lang="pt">Filler</title>
+  <programme start="20261130164500 -0300" stop="20261130193300 -0300" channel="SportyNet HD">
+    <title lang="pt">Programação SportyNet</title>
     <desc lang="pt">Sinopse não disponível.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
-    <episode-num system="onscreen">S85 E334</episode-num>
   </programme>
-  <programme start="20261130055000 -0300" stop="20261130074400 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - CRB x Ceará</title>
-    <desc lang="pt">Acompanhe os jogos mais emocionates da rodada do Campeonato Brasileiro da Série B.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001611277_epg.jpg" />
+  <programme start="20261130193300 -0300" stop="20261130214600 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Milan x Frosinone</title>
+    <desc lang="pt">Milan e Frosinone jogam pela 12ª rodada do Primeiro Turno do Campeonato Italiano, no San Siro, em Milão, Itália.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001621341_epg.jpg" />
   </programme>
-  <programme start="20261130074400 -0300" stop="20261130080300 -0300" channel="SportyNet HD">
-    <title lang="pt">Filler</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001350484_epg.jpg" />
-    <episode-num system="onscreen">S87 E334</episode-num>
-  </programme>
-  <programme start="20261130080300 -0300" stop="20261130095000 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Toluca x Monterrey</title>
-    <desc lang="pt">Uma das ligas mais importantes das Américas agora é da SportyNet! São 18 clubes na disputa do Campeonato Mexicano, uma competição de camisas pesadas, torcidas apaixonadas, e craques de diversas partes do mundo.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001608101_epg.jpg" />
-  </programme>
-  <programme start="20261130095000 -0300" stop="20261130114300 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Villarreal x Getafe</title>
-    <desc lang="pt">La Liga: Clubes tradicionais e estrelas internacionais em busca da taça do Campeonato Espanhol.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001608104_epg.jpg" />
-  </programme>
-  <programme start="20261130114300 -0300" stop="20261130132500 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Olympiakos x PAOK</title>
-    <desc lang="pt">Acompanhe a Super League da Grécia com clássicos de Olympiacos, Panathinaikos, AEK e PAOK na luta pelo título e vaga nas copas europeias.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001608105_epg.jpg" />
-  </programme>
-  <programme start="20261130132500 -0300" stop="20261130141000 -0300" channel="SportyNet HD">
-    <title lang="pt">No Centro do Jogo</title>
-    <desc lang="pt">No Centro do Jogo! Todas as segundas, o nosso time recebe uma personalidade do futebol para um bate-papo recheado de informação, conteúdo e, é claro, descontração.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000117737_epg.jpg" />
-    <episode-num system="onscreen">S83 E334</episode-num>
-  </programme>
-  <programme start="20261130141000 -0300" stop="20261130160400 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - América-MG x Avaí</title>
-    <desc lang="pt">Acompanhe os jogos mais emocionates da rodada do Campeonato Brasileiro da Série B.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001370636_epg.jpg" />
-  </programme>
-  <programme start="20261130160400 -0300" stop="20261130180200 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Pumas x América-MX</title>
-    <desc lang="pt">Uma das ligas mais importantes das Américas agora é da SportyNet! São 18 clubes na disputa do Campeonato Mexicano, uma competição de camisas pesadas, torcidas apaixonadas, e craques de diversas partes do mundo.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001451509_epg.jpg" />
-  </programme>
-  <programme start="20261130180200 -0300" stop="20261130195400 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Elche x Bétis</title>
-    <desc lang="pt">La Liga: Clubes tradicionais e estrelas internacionais em busca da taça do Campeonato Espanhol.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001608103_epg.jpg" />
-  </programme>
-  <programme start="20261130195400 -0300" stop="20261130204500 -0300" channel="SportyNet HD">
-    <title lang="pt">Show da Bundesliga</title>
-    <desc lang="pt">Todos os detalhes da rodada do Campeonato Alemão. Melhores momentos dos nove jogos, destaques, classificação, gols mais bonitos e toda atmosfera da Bundesliga em um resumo completo.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000113185_epg.jpg" />
-    <episode-num system="onscreen">S89 E334</episode-num>
-  </programme>
-  <programme start="20261130204500 -0300" stop="20261130224200 -0300" channel="SportyNet HD">
-    <title lang="pt">VT - Genoa x Milan</title>
-    <desc lang="pt">Serie A: O campeonato italiano reúne os principais clubes do país em disputas emocionantes por títulos, gols e clássicos históricos.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001608100_epg.jpg" />
-  </programme>
-  <programme start="20261130224200 -0300" stop="20261130231000 -0300" channel="SportyNet HD">
-    <title lang="pt">Show da Série A</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000119340_epg.jpg" />
-    <episode-num system="onscreen">S82 E334</episode-num>
-  </programme>
-  <programme start="20261130231000 -0300" stop="20261201000000 -0300" channel="SportyNet HD">
-    <title lang="pt">Show da Bundesliga</title>
-    <desc lang="pt">Todos os detalhes da rodada do Campeonato Alemão. Melhores momentos dos nove jogos, destaques, classificação, gols mais bonitos e toda atmosfera da Bundesliga em um resumo completo.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000113185_epg.jpg" />
-    <episode-num system="onscreen">S83 E334</episode-num>
+  <programme start="20261130214600 -0300" stop="20261201000000 -0300" channel="SportyNet HD">
+    <title lang="pt">VT - Sevilla x Betis</title>
+    <desc lang="pt">Sevilla e Betis jogam pela 13ª rodada do Primeiro Turno da Campeonato La Liga, no Ramón Sánchez Pizjuán, em Sevilla, Espanha.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001617765_epg.jpg" />
   </programme>
   <programme start="20261201000000 -0300" stop="20261201021400 -0300" channel="SportyNet HD">
     <title lang="pt">VT - CRB x Ceará</title>
